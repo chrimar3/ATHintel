@@ -1,6 +1,3 @@
-# ATHintel - Athens Investment Intelligence Platform
-# Professional .gitignore for Python/AI/Data projects
-
 # Python
 __pycache__/
 *.py[cod]
@@ -24,6 +21,22 @@ wheels/
 *.egg
 MANIFEST
 
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
 # Virtual environments
 .env
 .venv
@@ -32,125 +45,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-athintel-env/
 
-# IDE and editors
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.sublime-project
-.sublime-workspace
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-
-# Machine Learning & AI
-models/
-*.pkl
-*.joblib
-*.h5
-*.pb
-*.onnx
-checkpoints/
-experiments/
-mlruns/
-wandb/
-
-# Data files (keep sample data, ignore large datasets)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-data/intelligence/*
-!data/intelligence/.gitkeep
-*.csv
-*.xlsx
-*.parquet
-*.feather
-*.h5
-*.hdf5
-
-# Logs and monitoring
-logs/
-*.log
-*.log.*
-data/logs/*
-!data/logs/.gitkeep
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Cache directories
-.cache/
-.pytest_cache/
-.mypy_cache/
-.coverage
-.coverage.*
-coverage.xml
-htmlcov/
-
-# Configuration secrets
-config/secrets.json
-config/local_config.json
-.env.local
-.env.production
-.env.staging
-config/database_config.json
-config/api_keys.json
-
-# Scraped data and temporary files
-temp/
-tmp/
-cache/
-downloads/
-*.tmp
-*.temp
-session_data/
-cookies.json
-*.session
-
-# Reports (keep templates, ignore generated reports)
-reports/generated/
-reports/output/
-*.pdf
-*_report_*.md
-*_analysis_*.json
-
-# Assets (keep essential assets, ignore generated charts)
-assets/charts/
-assets/screenshots/
-assets/generated/
-
-# API and web
-*.pid
-.DS_Store
-Thumbs.db
-
-# Docker
-Dockerfile.local
-docker-compose.override.yml
-.dockerignore
-
-# Testing
-.tox/
-.nox/
-.coverage
-.pytest_cache/
-.benchmarks
-
-# Documentation build
-docs/_build/
-docs/build/
-site/
-
-# Backup files
-*.bak
-*.backup
 *~
 
 # OS generated files
@@ -161,53 +61,42 @@ site/
 .Trashes
 ehthumbs.db
 Thumbs.db
-desktop.ini
 
-# AWS
-.aws/
+# Project specific
+*.log
+temp/
+tmp/
+node_modules/
 
-# Google Cloud
-.gcloud/
-*.json
-!config/*.json
-!data/sample/*.json
+# Data files (keep structure but ignore large data)
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.json
+data/processed/*.csv
+!data/sample/
 
-# Kubernetes
-*.yaml.local
-*.yml.local
+# Debug files
+debug/screenshots/*.png
+debug/logs/*.log
+debug/temp/*
 
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
+# Browser automation
+.playwright/
+playwright-report/
+test-results/
 
-# Monitoring and metrics
-prometheus/
-grafana/
-alerts/
+# API keys and secrets
+.env.local
+.env.production
+secrets.json
+config/secrets.json
 
-# Large files and binaries
-*.tar.gz
+# Large files
 *.zip
-*.rar
-*.7z
-*.dmg
-*.iso
+*.tar.gz
+*.tar.bz2
 
-# Specific to ATHintel
-scrapers/debug/
-collectors/temp/
-intelligence/experiments/
-platform_data/
-analysis_cache/
-market_data/
-property_images/
-
-# Keep important empty directories
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/intelligence/.gitkeep
-!reports/investment/.gitkeep
-!reports/market/.gitkeep
-!reports/risk/.gitkeep
-!logs/.gitkeep
+# Temporary files
+*.tmp
+*.temp
+*~

@@ -1,0 +1,53 @@
+MIT License
+
+Copyright (c) 2025 ATHintel - Athens Real Estate Intelligence Platform
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Commercial Use Notice
+
+This software is licensed under the MIT License and is free for both personal and commercial use. 
+
+### Permitted Uses:
+- Personal real estate investment research
+- Commercial real estate analysis and investment
+- Academic research and education
+- Integration into commercial real estate platforms
+- Modification and redistribution (with attribution)
+
+### Attribution Requirements:
+- Include this license notice in all copies or substantial portions of the Software
+- Acknowledge ATHintel as the source of the intelligence platform
+- Maintain copyright notices in any distributed versions
+
+### Data Usage Notice:
+This software extracts data from publicly available real estate listings. Users are responsible for:
+- Complying with website terms of service
+- Respecting rate limiting and anti-scraping measures  
+- Using extracted data in accordance with applicable laws
+- Ensuring data usage complies with privacy regulations
+
+### Disclaimer:
+The real estate data, analysis, and investment recommendations provided by this software are for informational purposes only and do not constitute financial or investment advice. Users should conduct their own due diligence and consult with qualified professionals before making investment decisions.
+
+---
+
+For questions about licensing, commercial partnerships, or custom implementations, please contact the ATHintel development team.

@@ -1,0 +1,370 @@
+{
+  "data_analysis": {
+    "total_properties": 100,
+    "data_quality": {
+      "price_stats": {
+        "count": 100,
+        "min": 45000.0,
+        "max": 9800000.0,
+        "average": 511840.0,
+        "median": 255000.0
+      },
+      "size_stats": {
+        "count": 100,
+        "min": 22.0,
+        "max": 465.0,
+        "average": 113.59,
+        "median": 89.5
+      },
+      "energy_distribution": {
+        "D": 30,
+        "A": 13,
+        "B": 11,
+        "C": 38,
+        "F": 3,
+        "G": 1,
+        "A+": 1,
+        "E": 3
+      },
+      "neighborhood_distribution": {
+        "Kipseli": 10,
+        "Athens Center": 56,
+        "Kolonaki": 14,
+        "Koukaki": 7,
+        "Exarchia": 3,
+        "Plaka": 2,
+        "Ampelokipoi": 7,
+        "Mets": 1
+      }
+    },
+    "completeness": {
+      "complete_properties": 100,
+      "completion_rate": 1.0
+    },
+    "validation_summary": {}
+  },
+  "market_analysis": {
+    "neighborhood_analysis": {
+      "Kipseli": {
+        "avg_price_per_sqm": 2158.0497954361635,
+        "min_price_per_sqm": 1126.126126126126,
+        "max_price_per_sqm": 3906.25,
+        "property_count": 10,
+        "price_volatility": 2780.123873873874
+      },
+      "Athens Center": {
+        "avg_price_per_sqm": 3348.3678323405024,
+        "min_price_per_sqm": 1000.0,
+        "max_price_per_sqm": 21075.2688172043,
+        "property_count": 56,
+        "price_volatility": 20075.2688172043
+      },
+      "Kolonaki": {
+        "avg_price_per_sqm": 6045.3259582179235,
+        "min_price_per_sqm": 3673.469387755102,
+        "max_price_per_sqm": 10775.862068965518,
+        "property_count": 14,
+        "price_volatility": 7102.392681210416
+      },
+      "Koukaki": {
+        "avg_price_per_sqm": 4927.878925861893,
+        "min_price_per_sqm": 3043.478260869565,
+        "max_price_per_sqm": 9793.814432989691,
+        "property_count": 7,
+        "price_volatility": 6750.336172120126
+      },
+      "Exarchia": {
+        "avg_price_per_sqm": 3474.527534679158,
+        "min_price_per_sqm": 2280.7017543859647,
+        "max_price_per_sqm": 4326.086956521739,
+        "property_count": 3,
+        "price_volatility": 2045.3852021357743
+      },
+      "Ampelokipoi": {
+        "avg_price_per_sqm": 2902.1160020030234,
+        "min_price_per_sqm": 1893.3333333333333,
+        "max_price_per_sqm": 4538.461538461538,
+        "property_count": 7,
+        "price_volatility": 2645.128205128205
+      }
+    },
+    "energy_impact_analysis": {
+      "D": {
+        "avg_price_per_sqm": 2441.9495518151157,
+        "property_count": 30
+      },
+      "A": {
+        "avg_price_per_sqm": 5052.917086239474,
+        "property_count": 13
+      },
+      "B": {
+        "avg_price_per_sqm": 4079.2561258460423,
+        "property_count": 11
+      },
+      "C": {
+        "avg_price_per_sqm": 3972.8887140834545,
+        "property_count": 38
+      },
+      "F": {
+        "avg_price_per_sqm": 5892.407537727736,
+        "property_count": 3
+      },
+      "E": {
+        "avg_price_per_sqm": 3783.325914354185,
+        "property_count": 3
+      }
+    },
+    "size_price_correlation": {},
+    "market_insights": [
+      "Most expensive neighborhood: Kolonaki at \u20ac6045/m\u00b2",
+      "Energy premium: F class commands \u20ac3450/m\u00b2 premium over D"
+    ]
+  },
+  "investment_recommendations": {
+    "top_investment_opportunities": [
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117726813",
+        "neighborhood": "Athens Center",
+        "price": 115000.0,
+        "sqm": 50.0,
+        "energy_class": "A",
+        "price_per_sqm": 2300.0,
+        "value_score": 85,
+        "investment_rationale": "Priced 31% below neighborhood average; Excellent energy efficiency (A)"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1116865600",
+        "neighborhood": "Athens Center",
+        "price": 135000.0,
+        "sqm": 88.0,
+        "energy_class": "A",
+        "price_per_sqm": 1534.090909090909,
+        "value_score": 85,
+        "investment_rationale": "Priced 54% below neighborhood average; Excellent energy efficiency (A); Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1115531468",
+        "neighborhood": "Athens Center",
+        "price": 230000.0,
+        "sqm": 110.0,
+        "energy_class": "A",
+        "price_per_sqm": 2090.909090909091,
+        "value_score": 85,
+        "investment_rationale": "Priced 38% below neighborhood average; Excellent energy efficiency (A); Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117244783",
+        "neighborhood": "Athens Center",
+        "price": 147000.0,
+        "sqm": 62.0,
+        "energy_class": "B",
+        "price_per_sqm": 2370.967741935484,
+        "value_score": 80,
+        "investment_rationale": "Priced 29% below neighborhood average; Excellent energy efficiency (B)"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117768818",
+        "neighborhood": "Athens Center",
+        "price": 150000.0,
+        "sqm": 52.0,
+        "energy_class": "B",
+        "price_per_sqm": 2884.6153846153848,
+        "value_score": 80,
+        "investment_rationale": "Priced 14% below neighborhood average; Excellent energy efficiency (B)"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117234676",
+        "neighborhood": "Athens Center",
+        "price": 295000.0,
+        "sqm": 93.0,
+        "energy_class": "B",
+        "price_per_sqm": 3172.043010752688,
+        "value_score": 80,
+        "investment_rationale": "Priced 5% below neighborhood average; Excellent energy efficiency (B); Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117789231",
+        "neighborhood": "Athens Center",
+        "price": 140000.0,
+        "sqm": 72.0,
+        "energy_class": "B",
+        "price_per_sqm": 1944.4444444444443,
+        "value_score": 80,
+        "investment_rationale": "Priced 42% below neighborhood average; Excellent energy efficiency (B); Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117246803",
+        "neighborhood": "Athens Center",
+        "price": 295000.0,
+        "sqm": 102.0,
+        "energy_class": "C",
+        "price_per_sqm": 2892.156862745098,
+        "value_score": 75,
+        "investment_rationale": "Priced 14% below neighborhood average; Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117690666",
+        "neighborhood": "Athens Center",
+        "price": 245000.0,
+        "sqm": 110.0,
+        "energy_class": "C",
+        "price_per_sqm": 2227.2727272727275,
+        "value_score": 75,
+        "investment_rationale": "Priced 33% below neighborhood average; Optimal size for rental or resale"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117626301",
+        "neighborhood": "Athens Center",
+        "price": 280000.0,
+        "sqm": 84.0,
+        "energy_class": "C",
+        "price_per_sqm": 3333.3333333333335,
+        "value_score": 75,
+        "investment_rationale": "Priced 0% below neighborhood average; Optimal size for rental or resale"
+      }
+    ],
+    "value_investments": [
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117188200",
+        "price": 200000.0,
+        "sqm": 181.0,
+        "price_per_sqm": 1104.9723756906078,
+        "neighborhood": "Athens Center",
+        "energy_class": "C"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117847032",
+        "price": 250000.0,
+        "sqm": 222.0,
+        "price_per_sqm": 1126.126126126126,
+        "neighborhood": "Kipseli",
+        "energy_class": "D"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117742786",
+        "price": 180000.0,
+        "sqm": 153.0,
+        "price_per_sqm": 1176.4705882352941,
+        "neighborhood": "Athens Center",
+        "energy_class": "C"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117933932",
+        "price": 84000.0,
+        "sqm": 67.0,
+        "price_per_sqm": 1253.7313432835822,
+        "neighborhood": "Athens Center",
+        "energy_class": "D"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1116929663",
+        "price": 180000.0,
+        "sqm": 132.0,
+        "price_per_sqm": 1363.6363636363637,
+        "neighborhood": "Athens Center",
+        "energy_class": "D"
+      }
+    ],
+    "premium_investments": [
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117053990",
+        "price": 1850000.0,
+        "sqm": 340.0,
+        "neighborhood": "Kolonaki",
+        "energy_class": "B"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1118047438",
+        "price": 950000.0,
+        "sqm": 150.0,
+        "neighborhood": "Kolonaki",
+        "energy_class": "D"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1115537516",
+        "price": 695000.0,
+        "sqm": 175.0,
+        "neighborhood": "Kolonaki",
+        "energy_class": "C"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117002630",
+        "price": 2000000.0,
+        "sqm": 300.0,
+        "neighborhood": "Plaka",
+        "energy_class": "C"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1116844797",
+        "price": 900000.0,
+        "sqm": 97.0,
+        "neighborhood": "Kolonaki",
+        "energy_class": "C"
+      }
+    ],
+    "energy_arbitrage_opportunities": [
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117482555",
+        "price": 140000.0,
+        "neighborhood": "Athens Center",
+        "energy_class": "D",
+        "renovation_potential": "Upgrade to B class could increase value by 15-25%"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117349380",
+        "price": 175000.0,
+        "neighborhood": "Koukaki",
+        "energy_class": "F",
+        "renovation_potential": "Upgrade to B class could increase value by 15-25%"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117952031",
+        "price": 120000.0,
+        "neighborhood": "Athens Center",
+        "energy_class": "D",
+        "renovation_potential": "Upgrade to B class could increase value by 15-25%"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1118038090",
+        "price": 115000.0,
+        "neighborhood": "Athens Center",
+        "energy_class": "D",
+        "renovation_potential": "Upgrade to B class could increase value by 15-25%"
+      },
+      {
+        "url": "https://www.spitogatos.gr/en/property/1117818215",
+        "price": 139000.0,
+        "neighborhood": "Athens Center",
+        "energy_class": "D",
+        "renovation_potential": "Upgrade to B class could increase value by 15-25%"
+      }
+    ],
+    "portfolio_strategies": {
+      "conservative_portfolio": {
+        "description": "Focus on established neighborhoods with stable appreciation",
+        "target_neighborhoods": [
+          "Kolonaki",
+          "Athens Center"
+        ],
+        "budget_allocation": "60% premium, 40% value properties",
+        "expected_roi": "8-12% annual"
+      },
+      "growth_portfolio": {
+        "description": "Target emerging areas with renovation opportunities",
+        "target_neighborhoods": [
+          "Exarchia",
+          "Koukaki",
+          "Kipseli"
+        ],
+        "budget_allocation": "30% premium, 70% value + renovation",
+        "expected_roi": "15-25% annual"
+      },
+      "energy_arbitrage_portfolio": {
+        "description": "Focus on energy renovation opportunities",
+        "strategy": "Buy low energy class properties in good locations, renovate, sell",
+        "expected_cycle": "12-18 months",
+        "expected_roi": "25-40% per cycle"
+      }
+    }
+  }
+}
