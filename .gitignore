@@ -1,0 +1,213 @@
+# ATHintel - Athens Investment Intelligence Platform
+# Professional .gitignore for Python/AI/Data projects
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+athintel-env/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Machine Learning & AI
+models/
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+checkpoints/
+experiments/
+mlruns/
+wandb/
+
+# Data files (keep sample data, ignore large datasets)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/intelligence/*
+!data/intelligence/.gitkeep
+*.csv
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Logs and monitoring
+logs/
+*.log
+*.log.*
+data/logs/*
+!data/logs/.gitkeep
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache directories
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Configuration secrets
+config/secrets.json
+config/local_config.json
+.env.local
+.env.production
+.env.staging
+config/database_config.json
+config/api_keys.json
+
+# Scraped data and temporary files
+temp/
+tmp/
+cache/
+downloads/
+*.tmp
+*.temp
+session_data/
+cookies.json
+*.session
+
+# Reports (keep templates, ignore generated reports)
+reports/generated/
+reports/output/
+*.pdf
+*_report_*.md
+*_analysis_*.json
+
+# Assets (keep essential assets, ignore generated charts)
+assets/charts/
+assets/screenshots/
+assets/generated/
+
+# API and web
+*.pid
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile.local
+docker-compose.override.yml
+.dockerignore
+
+# Testing
+.tox/
+.nox/
+.coverage
+.pytest_cache/
+.benchmarks
+
+# Documentation build
+docs/_build/
+docs/build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# AWS
+.aws/
+
+# Google Cloud
+.gcloud/
+*.json
+!config/*.json
+!data/sample/*.json
+
+# Kubernetes
+*.yaml.local
+*.yml.local
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Monitoring and metrics
+prometheus/
+grafana/
+alerts/
+
+# Large files and binaries
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.dmg
+*.iso
+
+# Specific to ATHintel
+scrapers/debug/
+collectors/temp/
+intelligence/experiments/
+platform_data/
+analysis_cache/
+market_data/
+property_images/
+
+# Keep important empty directories
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/intelligence/.gitkeep
+!reports/investment/.gitkeep
+!reports/market/.gitkeep
+!reports/risk/.gitkeep
+!logs/.gitkeep

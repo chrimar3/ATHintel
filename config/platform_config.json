@@ -1,0 +1,150 @@
+{
+  "platform": {
+    "name": "ATHintel",
+    "version": "1.0.0",
+    "description": "Athens Investment Intelligence Platform",
+    "environment": "production"
+  },
+  
+  "collection_targets": {
+    "daily_properties": 1000,
+    "total_properties": 10000,
+    "neighborhoods": 158,
+    "quality_threshold": 0.995,
+    "max_concurrent_requests": 5,
+    "rate_limit_seconds": 2.0
+  },
+  
+  "investment_targets": {
+    "target_investment": 50000000,
+    "min_roi": 0.15,
+    "max_risk": "MEDIUM",
+    "confidence_threshold": 0.95
+  },
+  
+  "neighborhoods": {
+    "priority_high": [
+      "Κολωνάκι",
+      "Πλάκα", 
+      "Κουκάκι",
+      "Κηφισιά",
+      "Γλυφάδα"
+    ],
+    "priority_medium": [
+      "Εξάρχεια",
+      "Παγκράτι",
+      "Χαλάνδρι",
+      "Βούλα",
+      "Βουλιαγμένη"
+    ],
+    "emerging_areas": [
+      "Μεταξουργείο",
+      "Πετράλωνα",
+      "Νέα Σμύρνη",
+      "Καλλιθέα",
+      "Ρέντης"
+    ]
+  },
+  
+  "scoring_weights": {
+    "location": 0.30,
+    "energy_efficiency": 0.25,
+    "value": 0.20,
+    "market_trend": 0.15,
+    "roi_potential": 0.10
+  },
+  
+  "risk_factors": {
+    "market_volatility": 0.25,
+    "liquidity": 0.20,
+    "renovation_complexity": 0.25,
+    "regulatory_changes": 0.15,
+    "economic_factors": 0.15
+  },
+  
+  "roi_assumptions": {
+    "rental_yield_base": 0.06,
+    "appreciation_base": 0.08,
+    "energy_efficiency_premium": 0.02,
+    "location_premium": 0.03,
+    "renovation_multiplier": 2.5
+  },
+  
+  "energy_class_values": {
+    "A+": 10.0,
+    "A": 9.2,
+    "B+": 8.5,
+    "B": 7.8,
+    "C+": 7.0,
+    "C": 6.0,
+    "D": 4.5,
+    "E": 3.0,
+    "F": 2.0,
+    "G": 1.0
+  },
+  
+  "investment_strategies": {
+    "ENERGY_ARBITRAGE": {
+      "description": "Buy C/D-class properties, retrofit to A/B-class",
+      "expected_roi": [0.25, 0.35],
+      "timeline_months": [12, 18],
+      "risk_level": "MEDIUM",
+      "capital_requirement": 0.3
+    },
+    "UNDERVALUED_EFFICIENT": {
+      "description": "Buy mispriced A/B-class properties",
+      "expected_roi": [0.18, 0.25],
+      "timeline_months": [6, 12],
+      "risk_level": "LOW",
+      "capital_requirement": 0.4
+    },
+    "EMERGING_PREMIUM": {
+      "description": "Early entry in gentrifying areas",
+      "expected_roi": [0.15, 0.22],
+      "timeline_months": [18, 36],
+      "risk_level": "MEDIUM_HIGH",
+      "capital_requirement": 0.3
+    }
+  },
+  
+  "reporting": {
+    "generate_executive_summary": true,
+    "generate_property_sheets": true,
+    "generate_portfolio_optimization": true,
+    "generate_risk_analysis": true,
+    "output_formats": ["markdown", "json", "csv", "excel"],
+    "update_frequency": "daily"
+  },
+  
+  "api": {
+    "host": "0.0.0.0",
+    "port": 8000,
+    "workers": 4,
+    "enable_cors": true,
+    "rate_limit": "100/minute"
+  },
+  
+  "database": {
+    "type": "postgresql",
+    "host": "localhost",
+    "port": 5432,
+    "name": "athintel",
+    "pool_size": 10,
+    "max_overflow": 20
+  },
+  
+  "monitoring": {
+    "enable_logging": true,
+    "log_level": "INFO",
+    "enable_metrics": true,
+    "metrics_port": 9090,
+    "health_check_interval": 60
+  },
+  
+  "security": {
+    "enable_rate_limiting": true,
+    "enable_api_keys": true,
+    "session_timeout": 3600,
+    "max_login_attempts": 5
+  }
+}
