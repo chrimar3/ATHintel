@@ -1,0 +1,62 @@
+{
+  "total_properties": 1000,
+  "data_completeness": 100.0,
+  "athens_center_focus": {
+    "count": 652,
+    "percentage": 65.2,
+    "target_percentage": 60
+  },
+  "price_validation": {
+    "total_value": 503406520.0,
+    "average_price": 503406.52,
+    "price_range": [
+      45000.0,
+      9800000.0
+    ],
+    "realistic_range": true
+  },
+  "size_validation": {
+    "average_size": 130.377,
+    "size_range": [
+      22.0,
+      465.0
+    ],
+    "realistic_range": false
+  },
+  "neighborhood_distribution": {
+    "Kipseli": 28,
+    "Athens Center": 127,
+    "Kolonaki": 31,
+    "Koukaki": 29,
+    "Exarchia": 25,
+    "Plaka": 2,
+    "Ampelokipoi": 24,
+    "Mets": 24,
+    "Παγκράτι": 81,
+    "Εξάρχεια": 71,
+    "Μοναστηράκι": 72,
+    "Neos Kosmos": 19,
+    "Θησείο": 74,
+    "Σύνταγμα": 68,
+    "Πλάκα": 86,
+    "Ψυρρή": 73,
+    "Kallithea": 23,
+    "Nea Smyrni": 27,
+    "Metaxourgeio": 26,
+    "Gazi": 23,
+    "Petralona": 23,
+    "Keramikos": 25,
+    "Kypseli": 19
+  },
+  "energy_distribution": {
+    "D": 305,
+    "A": 127,
+    "B": 110,
+    "C": 380,
+    "F": 36,
+    "G": 4,
+    "A+": 11,
+    "E": 27
+  },
+  "quality_score": "EXCELLENT"
+}

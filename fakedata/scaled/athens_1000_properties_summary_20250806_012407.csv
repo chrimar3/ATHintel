@@ -1,0 +1,1001 @@
+Property_ID,URL,Price,SQM,Energy_Class,Price_per_SQM,Neighborhood,Property_Type,Rooms,Data_Source,Confidence
+"56e2cedf0d75","https://www.spitogatos.gr/en/property/1117828519",70000.0,38.0,"D",1842,"Kipseli","apartment","1","Original Dataset",0.90
+"f0a37cab367d","https://www.spitogatos.gr/en/property/1117931915",377000.0,98.0,"A",3847,"Athens Center","apartment","1","Original Dataset",0.90
+"79910b499d5f","https://www.spitogatos.gr/en/property/1117053990",1850000.0,340.0,"B",5441,"Kolonaki","apartment","4","Original Dataset",0.90
+"a6696c7908f1","https://www.spitogatos.gr/en/property/1117246803",295000.0,102.0,"C",2892,"Athens Center","apartment","3","Original Dataset",0.90
+"00c7073b8a69","https://www.spitogatos.gr/en/property/1118047438",950000.0,150.0,"D",6333,"Kolonaki","apartment","2","Original Dataset",0.90
+"712fce2c776c","https://www.spitogatos.gr/en/property/1117303634",395000.0,56.0,"B",7054,"Athens Center","apartment","1","Original Dataset",0.90
+"6972532cb8cb","https://www.spitogatos.gr/en/property/1117482555",140000.0,62.0,"D",2258,"Athens Center","apartment","1","Original Dataset",0.90
+"9dd11aa01ad5","https://www.spitogatos.gr/en/property/1117131266",265000.0,68.0,"A",3897,"Athens Center","apartment","1","Original Dataset",0.90
+"722a0e0a1e8a","https://www.spitogatos.gr/en/property/1117349380",175000.0,50.0,"F",3500,"Koukaki","apartment","1","Original Dataset",0.90
+"bd560b9c2a8c","https://www.spitogatos.gr/en/property/1117952031",120000.0,78.0,"D",1538,"Athens Center","apartment","2","Original Dataset",0.90
+"68c234d603b9","https://www.spitogatos.gr/en/property/1118038090",115000.0,60.0,"D",1917,"Athens Center","apartment","1","Original Dataset",0.90
+"87400a90d5bc","https://www.spitogatos.gr/en/property/1117453190",390000.0,64.0,"C",6094,"Kolonaki","apartment","1","Original Dataset",0.90
+"8c236e3100d2","https://www.spitogatos.gr/en/property/1117558960",199000.0,46.0,"C",4326,"Exarchia","apartment","1","Original Dataset",0.90
+"20c4f7b703f0","https://www.spitogatos.gr/en/property/1117303265",275000.0,56.0,"C",4911,"Athens Center","apartment","1","Original Dataset",0.90
+"90781c77a60d","https://www.spitogatos.gr/en/property/1115537516",695000.0,175.0,"C",3971,"Kolonaki","apartment","1","Original Dataset",0.90
+"ba5eca93fa8f","https://www.spitogatos.gr/en/property/1117726813",115000.0,50.0,"A",2300,"Athens Center","apartment","1","Original Dataset",0.90
+"42ea3f647341","https://www.spitogatos.gr/en/property/1117818215",139000.0,88.0,"D",1580,"Athens Center","apartment","2","Original Dataset",0.90
+"613857b11154","https://www.spitogatos.gr/en/property/1117522955",9800000.0,465.0,"A",21075,"Athens Center","apartment","1","Original Dataset",0.90
+"d15454df5eed","https://www.spitogatos.gr/en/property/1117002630",2000000.0,300.0,"C",6667,"Plaka","apartment","1","Original Dataset",0.90
+"8ba8c588c89f","https://www.spitogatos.gr/en/property/1117364353",195000.0,70.0,"D",2786,"Athens Center","apartment","2","Original Dataset",0.90
+"949a9ae4e526","https://www.spitogatos.gr/en/property/1117657336",158000.0,70.0,"D",2257,"Athens Center","apartment","2","Original Dataset",0.90
+"12f78e13e825","https://www.spitogatos.gr/en/property/1116669206",298000.0,113.0,"A",2637,"Ampelokipoi","apartment","1","Original Dataset",0.90
+"e851c9c59566","https://www.spitogatos.gr/en/property/1117690666",245000.0,110.0,"C",2227,"Athens Center","apartment","3","Original Dataset",0.90
+"d69cd0fee103","https://www.spitogatos.gr/en/property/1116064024",240000.0,114.0,"D",2105,"Kipseli","apartment","1","Original Dataset",0.90
+"27ebcb88c3a9","https://www.spitogatos.gr/en/property/1117188200",200000.0,181.0,"C",1105,"Athens Center","apartment","2","Original Dataset",0.90
+"0042fd76d90c","https://www.spitogatos.gr/en/property/1117244783",147000.0,62.0,"B",2371,"Athens Center","apartment","1","Original Dataset",0.90
+"392dfe044eb7","https://www.spitogatos.gr/en/property/1117735051",310000.0,134.0,"D",2313,"Athens Center","apartment","3","Original Dataset",0.90
+"02953f3e63c3","https://www.spitogatos.gr/en/property/1116864045",650000.0,135.0,"C",4815,"Koukaki","apartment","3","Original Dataset",0.90
+"2f1920caa295","https://www.spitogatos.gr/en/property/1117915593",160000.0,69.0,"C",2319,"Ampelokipoi","apartment","2","Original Dataset",0.90
+"bd52023029d4","https://www.spitogatos.gr/en/property/1117798407",500000.0,97.0,"A",5155,"Koukaki","apartment","1","Original Dataset",0.90
+"2cacb19752f5","https://www.spitogatos.gr/en/property/1117953175",360000.0,98.0,"D",3673,"Kolonaki","apartment","1","Original Dataset",0.90
+"9d477818eea3","https://www.spitogatos.gr/en/property/1117497765",250000.0,59.0,"G",4237,"Athens Center","apartment","1","Original Dataset",0.90
+"c7ef8363b34a","https://www.spitogatos.gr/en/property/1117626301",280000.0,84.0,"C",3333,"Athens Center","apartment","3","Original Dataset",0.90
+"eb21bd4cedac","https://www.spitogatos.gr/en/property/1118033292",75000.0,22.0,"C",3409,"Ampelokipoi","apartment","1","Original Dataset",0.90
+"59a11ac8e7de","https://www.spitogatos.gr/en/property/1117698328",820000.0,102.0,"A+",8039,"Athens Center","apartment","1","Original Dataset",0.90
+"0d19b58fe81a","https://www.spitogatos.gr/en/property/1117454224",200000.0,86.0,"C",2326,"Athens Center","apartment","1","Original Dataset",0.90
+"479c37628fee","https://www.spitogatos.gr/en/property/1117495442",93000.0,52.0,"B",1788,"Kipseli","apartment","2","Original Dataset",0.90
+"c37b5e3d0c59","https://www.spitogatos.gr/en/property/1117742786",180000.0,153.0,"C",1176,"Athens Center","apartment","3","Original Dataset",0.90
+"46b4850f7b09","https://www.spitogatos.gr/en/property/1118007284",265000.0,123.0,"E",2154,"Kipseli","apartment","1","Original Dataset",0.90
+"d7413b0cb597","https://www.spitogatos.gr/en/property/1116758246",182000.0,74.0,"C",2459,"Athens Center","apartment","1","Original Dataset",0.90
+"01875eb62167","https://www.spitogatos.gr/en/property/1117899750",97000.0,51.0,"D",1902,"Athens Center","apartment","1","Original Dataset",0.90
+"1bc8e61dd88d","https://www.spitogatos.gr/en/property/1117749568",590000.0,130.0,"C",4538,"Ampelokipoi","apartment","1","Original Dataset",0.90
+"3bfab0ab61e3","https://www.spitogatos.gr/en/property/1117440170",590000.0,350.0,"C",1686,"Athens Center","apartment","1","Original Dataset",0.90
+"8b4267cf6b7b","https://www.spitogatos.gr/en/property/1116696975",58000.0,36.0,"C",1611,"Athens Center","apartment","1","Original Dataset",0.90
+"14727a7aa625","https://www.spitogatos.gr/en/property/1117534037",123000.0,63.0,"D",1952,"Athens Center","apartment","1","Original Dataset",0.90
+"e5e3eaaee4f8","https://www.spitogatos.gr/en/property/1115721901",150000.0,97.0,"D",1546,"Kipseli","apartment","2","Original Dataset",0.90
+"30dede3b00d8","https://www.spitogatos.gr/en/property/1118021052",670000.0,138.0,"B",4855,"Koukaki","apartment","1","Original Dataset",0.90
+"abccf9fd4de9","https://www.spitogatos.gr/en/property/1117515425",2650000.0,246.0,"B",10772,"Athens Center","apartment","1","Original Dataset",0.90
+"e09706d3e118","https://www.spitogatos.gr/en/property/1116349256",1390000.0,165.0,"C",8424,"Athens Center","apartment","4","Original Dataset",0.90
+"5e95fb6d85cc","https://www.spitogatos.gr/en/property/1117930833",355000.0,47.0,"A",7553,"Kolonaki","apartment","1","Original Dataset",0.90
+"9d0f71586f47","https://www.spitogatos.gr/en/property/1118047277",115000.0,73.0,"D",1575,"Athens Center","apartment","3","Original Dataset",0.90
+"5b9ae1bade49","https://www.spitogatos.gr/en/property/1116865600",135000.0,88.0,"A",1534,"Athens Center","apartment","3","Original Dataset",0.90
+"04287076c894","https://www.spitogatos.gr/en/property/1117768818",150000.0,52.0,"B",2885,"Athens Center","apartment","1","Original Dataset",0.90
+"59242e8bf232","https://www.spitogatos.gr/en/property/1116864066",250000.0,59.0,"C",4237,"Kolonaki","apartment","1","Original Dataset",0.90
+"e5fe319d62b5","https://www.spitogatos.gr/en/property/1117770219",128000.0,44.0,"D",2909,"Athens Center","apartment","1","Original Dataset",0.90
+"28cf2bb17c9f","https://www.spitogatos.gr/en/property/1117234676",295000.0,93.0,"B",3172,"Athens Center","apartment","1","Original Dataset",0.90
+"d2871cfced06","https://www.spitogatos.gr/en/property/1117559655",69000.0,42.0,"D",1643,"Kipseli","apartment","1","Original Dataset",0.90
+"f4000cccaeae","https://www.spitogatos.gr/en/property/1117800351",435000.0,91.0,"C",4780,"Kolonaki","apartment","1","Original Dataset",0.90
+"1a57012dd0ca","https://www.spitogatos.gr/en/property/1117933932",84000.0,67.0,"D",1254,"Athens Center","apartment","1","Original Dataset",0.90
+"fa10a683a86f","https://www.spitogatos.gr/en/property/1117633265",142000.0,75.0,"D",1893,"Ampelokipoi","apartment","1","Original Dataset",0.90
+"9937d5bb4240","https://www.spitogatos.gr/en/property/1117093450",260000.0,114.0,"C",2281,"Exarchia","apartment","3","Original Dataset",0.90
+"259cb162ec47","https://www.spitogatos.gr/en/property/1117904864",250000.0,64.0,"E",3906,"Kipseli","apartment","2","Original Dataset",0.90
+"782aac9dd02d","https://www.spitogatos.gr/en/property/1117178173",260000.0,87.0,"D",2989,"Ampelokipoi","apartment","1","Original Dataset",0.90
+"b4bd6964d8af","https://www.spitogatos.gr/en/property/1117828141",205000.0,92.0,"D",2228,"Athens Center","apartment","1","Original Dataset",0.90
+"b0c12469fa5e","https://www.spitogatos.gr/en/property/1117662957",550000.0,150.0,"D",3667,"Athens Center","apartment","1","Original Dataset",0.90
+"5ad305916676","https://www.spitogatos.gr/en/property/1117966227",350000.0,115.0,"C",3043,"Koukaki","apartment","1","Original Dataset",0.90
+"8f7f3556a272","https://www.spitogatos.gr/en/property/1117215101",740000.0,130.0,"A",5692,"Athens Center","apartment","1","Original Dataset",0.90
+"207bdf40402f","https://www.spitogatos.gr/en/property/1117680331",215000.0,85.0,"C",2529,"Ampelokipoi","apartment","2","Original Dataset",0.90
+"04dacb74e019","https://www.spitogatos.gr/en/property/1115531468",230000.0,110.0,"A",2091,"Athens Center","apartment","3","Original Dataset",0.90
+"8f9d3f7653ee","https://www.spitogatos.gr/en/property/1116222768",142000.0,50.0,"C",2840,"Kipseli","apartment","1","Original Dataset",0.90
+"85a8adeb726d","https://www.spitogatos.gr/en/property/1117890847",350000.0,67.0,"C",5224,"Kolonaki","apartment","1","Original Dataset",0.90
+"3d33670deebc","https://www.spitogatos.gr/en/property/1117776475",150000.0,34.0,"D",4412,"Athens Center","apartment","1","Original Dataset",0.90
+"f4880bee55db","https://www.spitogatos.gr/en/property/1118016262",275000.0,85.0,"C",3235,"Athens Center","apartment","2","Original Dataset",0.90
+"2a9695c04a92","https://www.spitogatos.gr/en/property/1116844797",900000.0,97.0,"C",9278,"Kolonaki","apartment","1","Original Dataset",0.90
+"c2b6ab509f89","https://www.spitogatos.gr/en/property/1117612262",195000.0,70.0,"C",2786,"Athens Center","apartment","1","Original Dataset",0.90
+"0b3c6f83d353","https://www.spitogatos.gr/en/property/1117765680",779000.0,265.0,"B",2940,"Athens Center","apartment","1","Original Dataset",0.90
+"18bdf7231160","https://www.spitogatos.gr/en/property/1117447571",130000.0,71.0,"C",1831,"Athens Center","apartment","1","Original Dataset",0.90
+"e851c6a8a89d","https://www.spitogatos.gr/en/property/1117161519",980000.0,112.0,"C",8750,"Kolonaki","apartment","1","Original Dataset",0.90
+"d46c2442fbc0","https://www.spitogatos.gr/en/property/1117654323",640000.0,121.0,"E",5289,"Mets","apartment","1","Original Dataset",0.90
+"aba0ecba6070","https://www.spitogatos.gr/en/property/1117847032",250000.0,222.0,"D",1126,"Kipseli","apartment","1","Original Dataset",0.90
+"8c30b76bfa9e","https://www.spitogatos.gr/en/property/1117213970",114000.0,72.0,"D",1583,"Athens Center","apartment","1","Original Dataset",0.90
+"77ac2b1d2f7e","https://www.spitogatos.gr/en/property/1117074430",250000.0,75.0,"D",3333,"Koukaki","apartment","1","Original Dataset",0.90
+"a186a73cf070","https://www.spitogatos.gr/en/property/1117050794",210000.0,74.0,"C",2838,"Athens Center","apartment","1","Original Dataset",0.90
+"b7ed51d3dedd","https://www.spitogatos.gr/en/property/1117933536",320000.0,194.0,"B",1649,"Athens Center","apartment","1","Original Dataset",0.90
+"1bb05a55a326","https://www.spitogatos.gr/en/property/1117396909",900000.0,199.0,"C",4523,"Kolonaki","apartment","1","Original Dataset",0.90
+"79d4ea54b496","https://www.spitogatos.gr/en/property/1117570090",45000.0,45.0,"D",1000,"Athens Center","apartment","1","Original Dataset",0.90
+"d238e4b2054d","https://www.spitogatos.gr/en/property/1116863838",1000000.0,262.0,"C",3817,"Exarchia","apartment","1","Original Dataset",0.90
+"65cf84a1efc4","https://www.spitogatos.gr/en/property/1116989132",580000.0,112.0,"D",5179,"Plaka","apartment","1","Original Dataset",0.90
+"4825c809d9ba","https://www.spitogatos.gr/en/property/1117645874",920000.0,350.0,"A",2629,"Kipseli","apartment","1","Original Dataset",0.90
+"cbabe2eb642b","https://www.spitogatos.gr/en/property/1118042109",950000.0,97.0,"C",9794,"Koukaki","apartment","2","Original Dataset",0.90
+"72e6285ee82d","https://www.spitogatos.gr/en/property/1117003571",500000.0,147.0,"F",3401,"Athens Center","apartment","1","Original Dataset",0.90
+"91b57021e94b","https://www.spitogatos.gr/en/property/1117636362",650000.0,110.0,"C",5909,"Athens Center","apartment","1","Original Dataset",0.90
+"b7f6d10bd383","https://www.spitogatos.gr/en/property/1117524349",885000.0,270.0,"A",3278,"Athens Center","apartment","7","Original Dataset",0.90
+"76a0d420aec1","https://www.spitogatos.gr/en/property/1117953428",1180000.0,295.0,"A",4000,"Kolonaki","apartment","1","Original Dataset",0.90
+"586eb86ad04a","https://www.spitogatos.gr/en/property/1116929663",180000.0,132.0,"D",1364,"Athens Center","apartment","3","Original Dataset",0.90
+"d67c1d36f541","https://www.spitogatos.gr/en/property/1117897704",1250000.0,116.0,"F",10776,"Kolonaki","apartment","2","Original Dataset",0.90
+"f094773230d6","https://www.spitogatos.gr/en/property/1117447296",115000.0,45.0,"C",2556,"Athens Center","apartment","1","Original Dataset",0.90
+"b78cbe842b07","https://www.spitogatos.gr/en/property/1117914307",155000.0,50.0,"D",3100,"Athens Center","apartment","1","Original Dataset",0.90
+"033c26903bb9","https://www.spitogatos.gr/en/property/1117789231",140000.0,72.0,"B",1944,"Athens Center","apartment","1","Original Dataset",0.90
+"e48e69187182","https://www.spitogatos.gr/en/property/1117629227",340000.0,140.0,"C",2429,"Athens Center","apartment","1","Original Dataset",0.90
+"ATHS-EXP-2000001","https://www.spitogatos.gr/en/property/2001000",674936,130,"A",5192,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000002","https://www.spitogatos.gr/en/property/2001001",348981,174,"C",2006,"Παγκράτι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000003","https://www.spitogatos.gr/en/property/2001002",604961,130,"D",4654,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000004","https://www.spitogatos.gr/en/property/2001003",410715,194,"B",2117,"Εξάρχεια","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000005","https://www.spitogatos.gr/en/property/2001004",671091,77,"C",8715,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000006","https://www.spitogatos.gr/en/property/2001005",482047,137,"C",3519,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000007","https://www.spitogatos.gr/en/property/2001006",610395,183,"A",3335,"Neos Kosmos","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000008","https://www.spitogatos.gr/en/property/2001007",524472,172,"C",3049,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000009","https://www.spitogatos.gr/en/property/2001008",474694,153,"A",3103,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000010","https://www.spitogatos.gr/en/property/2001009",529888,193,"E",2746,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000011","https://www.spitogatos.gr/en/property/2001010",562636,180,"E",3126,"Θησείο","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000012","https://www.spitogatos.gr/en/property/2001011",629817,167,"D",3771,"Koukaki","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000013","https://www.spitogatos.gr/en/property/2001012",684176,121,"A",5654,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000014","https://www.spitogatos.gr/en/property/2001013",439183,108,"C",4067,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000015","https://www.spitogatos.gr/en/property/2001014",647870,145,"D",4468,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000016","https://www.spitogatos.gr/en/property/2001015",369087,187,"C",1974,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000017","https://www.spitogatos.gr/en/property/2001016",413415,78,"E",5300,"Mets","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000018","https://www.spitogatos.gr/en/property/2001017",461282,171,"B",2698,"Μοναστηράκι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000019","https://www.spitogatos.gr/en/property/2001018",499782,115,"A",4346,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000020","https://www.spitogatos.gr/en/property/2001019",652840,183,"D",3567,"Θησείο","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000021","https://www.spitogatos.gr/en/property/2001020",506033,79,"C",6405,"Exarchia","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000022","https://www.spitogatos.gr/en/property/2001021",359028,94,"A",3819,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000023","https://www.spitogatos.gr/en/property/2001022",475250,112,"D",4243,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000024","https://www.spitogatos.gr/en/property/2001023",261282,159,"D",1643,"Kallithea","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000025","https://www.spitogatos.gr/en/property/2001024",301880,79,"B",3821,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000026","https://www.spitogatos.gr/en/property/2001025",634378,156,"C",4067,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000027","https://www.spitogatos.gr/en/property/2001026",641174,98,"D",6543,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000028","https://www.spitogatos.gr/en/property/2001027",414543,173,"B",2396,"Nea Smyrni","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000029","https://www.spitogatos.gr/en/property/2001028",308120,82,"B",3758,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000030","https://www.spitogatos.gr/en/property/2001029",321643,72,"B",4467,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000031","https://www.spitogatos.gr/en/property/2001030",387231,103,"G",3760,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000032","https://www.spitogatos.gr/en/property/2001031",738438,126,"D",5861,"Kolonaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000033","https://www.spitogatos.gr/en/property/2001032",598395,126,"F",4749,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000034","https://www.spitogatos.gr/en/property/2001033",318471,126,"D",2528,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000035","https://www.spitogatos.gr/en/property/2001034",320704,127,"C",2525,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000036","https://www.spitogatos.gr/en/property/2001035",522890,114,"C",4587,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000037","https://www.spitogatos.gr/en/property/2001036",327313,163,"C",2008,"Μοναστηράκι","house","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000038","https://www.spitogatos.gr/en/property/2001037",571714,99,"D",5775,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000039","https://www.spitogatos.gr/en/property/2001038",381686,139,"C",2746,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000040","https://www.spitogatos.gr/en/property/2001039",323511,140,"A",2311,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000041","https://www.spitogatos.gr/en/property/2001040",341568,97,"C",3521,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000042","https://www.spitogatos.gr/en/property/2001041",623088,104,"C",5991,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000043","https://www.spitogatos.gr/en/property/2001042",386445,151,"D",2559,"Athens Center","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000044","https://www.spitogatos.gr/en/property/2001043",610025,131,"D",4657,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000045","https://www.spitogatos.gr/en/property/2001044",689613,71,"A",9713,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000046","https://www.spitogatos.gr/en/property/2001045",414882,178,"C",2331,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000047","https://www.spitogatos.gr/en/property/2001046",399951,115,"C",3478,"Kipseli","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000048","https://www.spitogatos.gr/en/property/2001047",506744,168,"B",3016,"Θησείο","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000049","https://www.spitogatos.gr/en/property/2001048",662126,120,"D",5518,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000050","https://www.spitogatos.gr/en/property/2001049",497611,153,"B",3252,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000051","https://www.spitogatos.gr/en/property/2001050",579753,98,"C",5916,"Θησείο","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000052","https://www.spitogatos.gr/en/property/2001051",387189,139,"D",2786,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000053","https://www.spitogatos.gr/en/property/2001052",403696,127,"F",3179,"Metaxourgeio","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000054","https://www.spitogatos.gr/en/property/2001053",343449,176,"C",1951,"Athens Center","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000055","https://www.spitogatos.gr/en/property/2001054",313011,172,"C",1820,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000056","https://www.spitogatos.gr/en/property/2001055",496036,125,"D",3968,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000057","https://www.spitogatos.gr/en/property/2001056",483565,156,"D",3100,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000058","https://www.spitogatos.gr/en/property/2001057",465245,144,"D",3231,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000059","https://www.spitogatos.gr/en/property/2001058",542489,71,"D",7641,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000060","https://www.spitogatos.gr/en/property/2001059",300469,69,"D",4355,"Παγκράτι","apartment","1","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000061","https://www.spitogatos.gr/en/property/2001060",560655,191,"C",2935,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000062","https://www.spitogatos.gr/en/property/2001061",368104,134,"C",2747,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000063","https://www.spitogatos.gr/en/property/2001062",317376,176,"D",1803,"Ψυρρή","maisonette","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000064","https://www.spitogatos.gr/en/property/2001063",576422,134,"C",4302,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000065","https://www.spitogatos.gr/en/property/2001064",549179,189,"A",2906,"Σύνταγμα","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000066","https://www.spitogatos.gr/en/property/2001065",575157,74,"B",7772,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000067","https://www.spitogatos.gr/en/property/2001066",342904,173,"B",1982,"Ψυρρή","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000068","https://www.spitogatos.gr/en/property/2001067",497434,65,"A",7653,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000069","https://www.spitogatos.gr/en/property/2001068",667536,160,"C",4172,"Μοναστηράκι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000070","https://www.spitogatos.gr/en/property/2001069",612715,176,"B",3481,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000071","https://www.spitogatos.gr/en/property/2001070",527038,154,"C",3422,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000072","https://www.spitogatos.gr/en/property/2001071",490060,116,"C",4225,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000073","https://www.spitogatos.gr/en/property/2001072",413808,160,"D",2586,"Athens Center","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000074","https://www.spitogatos.gr/en/property/2001073",512636,172,"D",2980,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000075","https://www.spitogatos.gr/en/property/2001074",647597,112,"B",5782,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000076","https://www.spitogatos.gr/en/property/2001075",411677,165,"D",2495,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000077","https://www.spitogatos.gr/en/property/2001076",424073,166,"C",2555,"Σύνταγμα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000078","https://www.spitogatos.gr/en/property/2001077",536508,152,"C",3530,"Παγκράτι","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000079","https://www.spitogatos.gr/en/property/2001078",625821,126,"B",4967,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000080","https://www.spitogatos.gr/en/property/2001079",408918,136,"B",3007,"Mets","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000081","https://www.spitogatos.gr/en/property/2001080",457283,141,"B",3243,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000082","https://www.spitogatos.gr/en/property/2001081",436562,87,"D",5018,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000083","https://www.spitogatos.gr/en/property/2001082",324984,90,"D",3611,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000084","https://www.spitogatos.gr/en/property/2001083",417451,127,"D",3287,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000085","https://www.spitogatos.gr/en/property/2001084",629663,127,"B",4958,"Metaxourgeio","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000086","https://www.spitogatos.gr/en/property/2001085",337849,78,"D",4331,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000087","https://www.spitogatos.gr/en/property/2001086",676962,184,"C",3679,"Μοναστηράκι","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000088","https://www.spitogatos.gr/en/property/2001087",481337,125,"A",3851,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000089","https://www.spitogatos.gr/en/property/2001088",484145,180,"C",2690,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000090","https://www.spitogatos.gr/en/property/2001089",416706,108,"C",3858,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000091","https://www.spitogatos.gr/en/property/2001090",532944,192,"C",2776,"Ψυρρή","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000092","https://www.spitogatos.gr/en/property/2001091",421335,98,"D",4299,"Exarchia","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000093","https://www.spitogatos.gr/en/property/2001092",491446,95,"D",5173,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000094","https://www.spitogatos.gr/en/property/2001093",598125,144,"B",4154,"Ampelokipoi","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000095","https://www.spitogatos.gr/en/property/2001094",569523,95,"D",5995,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000096","https://www.spitogatos.gr/en/property/2001095",513800,82,"C",6266,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000097","https://www.spitogatos.gr/en/property/2001096",337740,107,"D",3156,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000098","https://www.spitogatos.gr/en/property/2001097",467832,107,"B",4372,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000099","https://www.spitogatos.gr/en/property/2001098",367612,126,"F",2918,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000100","https://www.spitogatos.gr/en/property/2001099",460384,96,"F",4796,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000101","https://www.spitogatos.gr/en/property/2001100",392947,170,"A",2311,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000102","https://www.spitogatos.gr/en/property/2001101",323503,149,"D",2171,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000103","https://www.spitogatos.gr/en/property/2001102",527982,144,"C",3667,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000104","https://www.spitogatos.gr/en/property/2001103",681430,102,"A",6681,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000105","https://www.spitogatos.gr/en/property/2001104",608140,194,"E",3135,"Παγκράτι","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000106","https://www.spitogatos.gr/en/property/2001105",386370,130,"C",2972,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000107","https://www.spitogatos.gr/en/property/2001106",371418,171,"C",2172,"Μοναστηράκι","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000108","https://www.spitogatos.gr/en/property/2001107",334160,129,"D",2590,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000109","https://www.spitogatos.gr/en/property/2001108",560651,148,"D",3788,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000110","https://www.spitogatos.gr/en/property/2001109",646697,159,"B",4067,"Σύνταγμα","house","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000111","https://www.spitogatos.gr/en/property/2001110",598673,180,"C",3326,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000112","https://www.spitogatos.gr/en/property/2001111",336793,71,"C",4744,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000113","https://www.spitogatos.gr/en/property/2001112",665969,166,"C",4012,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000114","https://www.spitogatos.gr/en/property/2001113",603205,186,"A",3243,"Ψυρρή","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000115","https://www.spitogatos.gr/en/property/2001114",421263,72,"D",5851,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000116","https://www.spitogatos.gr/en/property/2001115",344459,134,"A",2571,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000117","https://www.spitogatos.gr/en/property/2001116",316706,135,"A",2346,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000118","https://www.spitogatos.gr/en/property/2001117",661466,135,"D",4900,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000119","https://www.spitogatos.gr/en/property/2001118",717653,78,"F",9201,"Gazi","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000120","https://www.spitogatos.gr/en/property/2001119",501533,74,"C",6777,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000121","https://www.spitogatos.gr/en/property/2001120",531946,151,"A",3523,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000122","https://www.spitogatos.gr/en/property/2001121",496565,166,"D",2991,"Μοναστηράκι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000123","https://www.spitogatos.gr/en/property/2001122",502341,97,"A+",5179,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000124","https://www.spitogatos.gr/en/property/2001123",429007,166,"D",2584,"Θησείο","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000125","https://www.spitogatos.gr/en/property/2001124",433847,171,"D",2537,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000126","https://www.spitogatos.gr/en/property/2001125",356142,168,"B",2120,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000127","https://www.spitogatos.gr/en/property/2001126",314805,153,"A",2058,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000128","https://www.spitogatos.gr/en/property/2001127",392025,109,"B",3597,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000129","https://www.spitogatos.gr/en/property/2001128",521592,120,"A",4347,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000130","https://www.spitogatos.gr/en/property/2001129",693667,130,"B",5336,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000131","https://www.spitogatos.gr/en/property/2001130",312829,66,"C",4740,"Ψυρρή","apartment","1","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000132","https://www.spitogatos.gr/en/property/2001131",340586,92,"D",3702,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000133","https://www.spitogatos.gr/en/property/2001132",602570,145,"D",4156,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000134","https://www.spitogatos.gr/en/property/2001133",669201,118,"C",5671,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000135","https://www.spitogatos.gr/en/property/2001134",262673,109,"D",2410,"Kallithea","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000136","https://www.spitogatos.gr/en/property/2001135",398026,128,"B",3110,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000137","https://www.spitogatos.gr/en/property/2001136",677675,84,"B",8068,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000138","https://www.spitogatos.gr/en/property/2001137",367333,152,"A",2417,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000139","https://www.spitogatos.gr/en/property/2001138",600154,80,"C",7502,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000140","https://www.spitogatos.gr/en/property/2001139",497206,150,"C",3315,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000141","https://www.spitogatos.gr/en/property/2001140",366807,130,"D",2822,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000142","https://www.spitogatos.gr/en/property/2001141",327256,125,"D",2618,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000143","https://www.spitogatos.gr/en/property/2001142",388184,88,"D",4411,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000144","https://www.spitogatos.gr/en/property/2001143",676396,105,"C",6442,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000145","https://www.spitogatos.gr/en/property/2001144",353945,166,"A",2132,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000146","https://www.spitogatos.gr/en/property/2001145",407115,101,"C",4031,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000147","https://www.spitogatos.gr/en/property/2001146",357017,115,"D",3104,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000148","https://www.spitogatos.gr/en/property/2001147",437767,191,"C",2292,"Εξάρχεια","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000149","https://www.spitogatos.gr/en/property/2001148",672449,143,"A",4702,"Σύνταγμα","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000150","https://www.spitogatos.gr/en/property/2001149",738128,140,"D",5272,"Petralona","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000151","https://www.spitogatos.gr/en/property/2001150",556581,139,"C",4004,"Σύνταγμα","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000152","https://www.spitogatos.gr/en/property/2001151",351686,101,"B",3482,"Keramikos","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000153","https://www.spitogatos.gr/en/property/2001152",592086,186,"D",3183,"Εξάρχεια","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000154","https://www.spitogatos.gr/en/property/2001153",412336,110,"D",3749,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000155","https://www.spitogatos.gr/en/property/2001154",445234,94,"A",4737,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000156","https://www.spitogatos.gr/en/property/2001155",616389,139,"B",4434,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000157","https://www.spitogatos.gr/en/property/2001156",493792,204,"C",2421,"Neos Kosmos","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000158","https://www.spitogatos.gr/en/property/2001157",620287,166,"C",3737,"Πλάκα","house","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000159","https://www.spitogatos.gr/en/property/2001158",304465,114,"A",2671,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000160","https://www.spitogatos.gr/en/property/2001159",355566,154,"B",2309,"Kypseli","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000161","https://www.spitogatos.gr/en/property/2001160",656055,136,"C",4824,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000162","https://www.spitogatos.gr/en/property/2001161",690631,110,"C",6278,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000163","https://www.spitogatos.gr/en/property/2001162",609192,136,"A",4479,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000164","https://www.spitogatos.gr/en/property/2001163",371003,186,"C",1995,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000165","https://www.spitogatos.gr/en/property/2001164",359083,146,"C",2459,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000166","https://www.spitogatos.gr/en/property/2001165",527078,69,"C",7639,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000167","https://www.spitogatos.gr/en/property/2001166",399777,108,"D",3702,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000168","https://www.spitogatos.gr/en/property/2001167",448338,142,"C",3157,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000169","https://www.spitogatos.gr/en/property/2001168",423400,91,"D",4653,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000170","https://www.spitogatos.gr/en/property/2001169",511664,173,"A",2958,"Mets","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000171","https://www.spitogatos.gr/en/property/2001170",354007,104,"B",3404,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000172","https://www.spitogatos.gr/en/property/2001171",346500,177,"D",1958,"Παγκράτι","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000173","https://www.spitogatos.gr/en/property/2001172",579324,88,"C",6583,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000174","https://www.spitogatos.gr/en/property/2001173",417316,120,"D",3478,"Σύνταγμα","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000175","https://www.spitogatos.gr/en/property/2001174",393340,106,"F",3711,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000176","https://www.spitogatos.gr/en/property/2001175",311624,122,"C",2554,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000177","https://www.spitogatos.gr/en/property/2001176",344988,160,"C",2156,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000178","https://www.spitogatos.gr/en/property/2001177",501012,145,"D",3455,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000179","https://www.spitogatos.gr/en/property/2001178",560424,148,"D",3787,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000180","https://www.spitogatos.gr/en/property/2001179",428206,132,"B",3244,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000181","https://www.spitogatos.gr/en/property/2001180",495569,164,"F",3022,"Εξάρχεια","house","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000182","https://www.spitogatos.gr/en/property/2001181",460178,191,"B",2409,"Gazi","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000183","https://www.spitogatos.gr/en/property/2001182",556208,182,"C",3056,"Πλάκα","house","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000184","https://www.spitogatos.gr/en/property/2001183",356610,144,"D",2476,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000185","https://www.spitogatos.gr/en/property/2001184",523635,105,"C",4987,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000186","https://www.spitogatos.gr/en/property/2001185",373899,102,"C",3666,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000187","https://www.spitogatos.gr/en/property/2001186",338202,86,"C",3933,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000188","https://www.spitogatos.gr/en/property/2001187",466580,168,"D",2777,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000189","https://www.spitogatos.gr/en/property/2001188",318578,87,"C",3662,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000190","https://www.spitogatos.gr/en/property/2001189",456511,80,"D",5706,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000191","https://www.spitogatos.gr/en/property/2001190",423007,136,"A",3110,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000192","https://www.spitogatos.gr/en/property/2001191",491806,123,"B",3998,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000193","https://www.spitogatos.gr/en/property/2001192",483361,136,"D",3554,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000194","https://www.spitogatos.gr/en/property/2001193",343085,92,"A",3729,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000195","https://www.spitogatos.gr/en/property/2001194",625477,122,"D",5127,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000196","https://www.spitogatos.gr/en/property/2001195",373339,104,"D",3590,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000197","https://www.spitogatos.gr/en/property/2001196",334790,189,"D",1771,"Σύνταγμα","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000198","https://www.spitogatos.gr/en/property/2001197",660541,140,"D",4718,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000199","https://www.spitogatos.gr/en/property/2001198",657174,105,"D",6259,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000200","https://www.spitogatos.gr/en/property/2001199",467660,170,"C",2751,"Πλάκα","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000201","https://www.spitogatos.gr/en/property/2001200",528797,125,"C",4230,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000202","https://www.spitogatos.gr/en/property/2001201",550988,82,"A+",6719,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000203","https://www.spitogatos.gr/en/property/2001202",550942,70,"C",7871,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000204","https://www.spitogatos.gr/en/property/2001203",682195,185,"C",3688,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000205","https://www.spitogatos.gr/en/property/2001204",458067,120,"E",3817,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000206","https://www.spitogatos.gr/en/property/2001205",301826,133,"D",2269,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000207","https://www.spitogatos.gr/en/property/2001206",599390,117,"C",5123,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000208","https://www.spitogatos.gr/en/property/2001207",546999,165,"B",3315,"Εξάρχεια","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000209","https://www.spitogatos.gr/en/property/2001208",407533,181,"C",2252,"Πλάκα","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000210","https://www.spitogatos.gr/en/property/2001209",669575,134,"A",4997,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000211","https://www.spitogatos.gr/en/property/2001210",505169,174,"B",2903,"Μοναστηράκι","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000212","https://www.spitogatos.gr/en/property/2001211",368830,145,"B",2544,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000213","https://www.spitogatos.gr/en/property/2001212",306673,128,"C",2396,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000214","https://www.spitogatos.gr/en/property/2001213",489785,98,"C",4998,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000215","https://www.spitogatos.gr/en/property/2001214",639974,131,"D",4885,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000216","https://www.spitogatos.gr/en/property/2001215",459051,184,"B",2495,"Σύνταγμα","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000217","https://www.spitogatos.gr/en/property/2001216",677037,158,"A",4285,"Εξάρχεια","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000218","https://www.spitogatos.gr/en/property/2001217",449331,139,"F",3233,"Ampelokipoi","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000219","https://www.spitogatos.gr/en/property/2001218",620929,177,"D",3508,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000220","https://www.spitogatos.gr/en/property/2001219",480770,191,"A",2517,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000221","https://www.spitogatos.gr/en/property/2001220",511824,84,"D",6093,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000222","https://www.spitogatos.gr/en/property/2001221",327431,90,"D",3638,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000223","https://www.spitogatos.gr/en/property/2001222",584557,102,"A",5731,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000224","https://www.spitogatos.gr/en/property/2001223",565563,192,"D",2946,"Πλάκα","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000225","https://www.spitogatos.gr/en/property/2001224",637245,187,"D",3408,"Θησείο","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000226","https://www.spitogatos.gr/en/property/2001225",346718,186,"B",1864,"Εξάρχεια","maisonette","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000227","https://www.spitogatos.gr/en/property/2001226",471353,106,"B",4447,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000228","https://www.spitogatos.gr/en/property/2001227",644115,162,"D",3976,"Παγκράτι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000229","https://www.spitogatos.gr/en/property/2001228",650126,135,"D",4816,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000230","https://www.spitogatos.gr/en/property/2001229",497859,160,"D",3112,"Metaxourgeio","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000231","https://www.spitogatos.gr/en/property/2001230",647509,178,"D",3638,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000232","https://www.spitogatos.gr/en/property/2001231",539957,103,"D",5242,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000233","https://www.spitogatos.gr/en/property/2001232",332156,145,"C",2291,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000234","https://www.spitogatos.gr/en/property/2001233",539735,171,"F",3156,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000235","https://www.spitogatos.gr/en/property/2001234",529536,138,"A",3837,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000236","https://www.spitogatos.gr/en/property/2001235",363559,178,"D",2042,"Μοναστηράκι","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000237","https://www.spitogatos.gr/en/property/2001236",345934,120,"C",2883,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000238","https://www.spitogatos.gr/en/property/2001237",315065,129,"C",2442,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000239","https://www.spitogatos.gr/en/property/2001238",460801,138,"C",3339,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000240","https://www.spitogatos.gr/en/property/2001239",584040,85,"D",6871,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000241","https://www.spitogatos.gr/en/property/2001240",585282,195,"D",3001,"Keramikos","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000242","https://www.spitogatos.gr/en/property/2001241",423113,176,"C",2404,"Ψυρρή","house","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000243","https://www.spitogatos.gr/en/property/2001242",613165,79,"A",7762,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000244","https://www.spitogatos.gr/en/property/2001243",349225,135,"C",2587,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000245","https://www.spitogatos.gr/en/property/2001244",578321,140,"D",4131,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000246","https://www.spitogatos.gr/en/property/2001245",407779,133,"B",3066,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000247","https://www.spitogatos.gr/en/property/2001246",419475,129,"D",3252,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000248","https://www.spitogatos.gr/en/property/2001247",514769,162,"C",3178,"Εξάρχεια","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000249","https://www.spitogatos.gr/en/property/2001248",421847,110,"B",3835,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000250","https://www.spitogatos.gr/en/property/2001249",636501,164,"C",3881,"Athens Center","maisonette","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000251","https://www.spitogatos.gr/en/property/2001250",448718,130,"C",3452,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000252","https://www.spitogatos.gr/en/property/2001251",686430,177,"B",3878,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000253","https://www.spitogatos.gr/en/property/2001252",635568,169,"D",3761,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000254","https://www.spitogatos.gr/en/property/2001253",409258,82,"C",4991,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000255","https://www.spitogatos.gr/en/property/2001254",394696,70,"A",5639,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000256","https://www.spitogatos.gr/en/property/2001255",562709,79,"D",7123,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000257","https://www.spitogatos.gr/en/property/2001256",339925,163,"A",2085,"Εξάρχεια","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000258","https://www.spitogatos.gr/en/property/2001257",604277,154,"A",3924,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000259","https://www.spitogatos.gr/en/property/2001258",445599,192,"C",2321,"Keramikos","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000260","https://www.spitogatos.gr/en/property/2001259",484526,83,"D",5838,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000261","https://www.spitogatos.gr/en/property/2001260",384520,141,"C",2727,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000262","https://www.spitogatos.gr/en/property/2001261",342559,192,"C",1784,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000263","https://www.spitogatos.gr/en/property/2001262",529252,159,"D",3329,"Εξάρχεια","house","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000264","https://www.spitogatos.gr/en/property/2001263",388227,149,"C",2606,"Σύνταγμα","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000265","https://www.spitogatos.gr/en/property/2001264",452877,111,"C",4080,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000266","https://www.spitogatos.gr/en/property/2001265",393249,74,"C",5314,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000267","https://www.spitogatos.gr/en/property/2001266",415028,78,"F",5321,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000268","https://www.spitogatos.gr/en/property/2001267",511538,136,"D",3761,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000269","https://www.spitogatos.gr/en/property/2001268",356343,94,"C",3791,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000270","https://www.spitogatos.gr/en/property/2001269",430936,67,"A",6432,"Ψυρρή","apartment","1","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000271","https://www.spitogatos.gr/en/property/2001270",501833,185,"D",2713,"Εξάρχεια","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000272","https://www.spitogatos.gr/en/property/2001271",542365,143,"C",3793,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000273","https://www.spitogatos.gr/en/property/2001272",465266,117,"C",3977,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000274","https://www.spitogatos.gr/en/property/2001273",663231,191,"D",3472,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000275","https://www.spitogatos.gr/en/property/2001274",614912,149,"D",4127,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000276","https://www.spitogatos.gr/en/property/2001275",345845,167,"B",2071,"Ψυρρή","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000277","https://www.spitogatos.gr/en/property/2001276",335299,171,"A",1961,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000278","https://www.spitogatos.gr/en/property/2001277",548272,95,"D",5771,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000279","https://www.spitogatos.gr/en/property/2001278",360044,172,"C",2093,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000280","https://www.spitogatos.gr/en/property/2001279",565241,152,"C",3719,"Θησείο","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000281","https://www.spitogatos.gr/en/property/2001280",371315,98,"B",3789,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000282","https://www.spitogatos.gr/en/property/2001281",665699,182,"C",3658,"Metaxourgeio","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000283","https://www.spitogatos.gr/en/property/2001282",347416,109,"C",3187,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000284","https://www.spitogatos.gr/en/property/2001283",640169,159,"C",4026,"Athens Center","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000285","https://www.spitogatos.gr/en/property/2001284",259240,173,"D",1498,"Keramikos","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000286","https://www.spitogatos.gr/en/property/2001285",525233,133,"A",3949,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000287","https://www.spitogatos.gr/en/property/2001286",393751,187,"D",2106,"Μοναστηράκι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000288","https://www.spitogatos.gr/en/property/2001287",694541,106,"C",6552,"Metaxourgeio","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000289","https://www.spitogatos.gr/en/property/2001288",345103,107,"C",3225,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000290","https://www.spitogatos.gr/en/property/2001289",652317,91,"C",7168,"Kallithea","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000291","https://www.spitogatos.gr/en/property/2001290",307563,110,"C",2796,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000292","https://www.spitogatos.gr/en/property/2001291",396148,162,"D",2445,"Εξάρχεια","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000293","https://www.spitogatos.gr/en/property/2001292",583693,182,"D",3207,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000294","https://www.spitogatos.gr/en/property/2001293",500915,161,"C",3111,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000295","https://www.spitogatos.gr/en/property/2001294",402306,145,"C",2775,"Gazi","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000296","https://www.spitogatos.gr/en/property/2001295",366127,113,"C",3240,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000297","https://www.spitogatos.gr/en/property/2001296",329807,189,"B",1745,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000298","https://www.spitogatos.gr/en/property/2001297",392996,82,"A",4793,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000299","https://www.spitogatos.gr/en/property/2001298",378315,103,"C",3673,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000300","https://www.spitogatos.gr/en/property/2001299",665316,190,"B",3502,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000301","https://www.spitogatos.gr/en/property/2001300",592045,118,"D",5017,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000302","https://www.spitogatos.gr/en/property/2001301",452604,159,"D",2847,"Ψυρρή","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000303","https://www.spitogatos.gr/en/property/2001302",528668,125,"D",4229,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000304","https://www.spitogatos.gr/en/property/2001303",498937,151,"B",3304,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000305","https://www.spitogatos.gr/en/property/2001304",450404,174,"B",2589,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000306","https://www.spitogatos.gr/en/property/2001305",545817,120,"D",4548,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000307","https://www.spitogatos.gr/en/property/2001306",624157,138,"D",4523,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000308","https://www.spitogatos.gr/en/property/2001307",629090,159,"D",3957,"Πλάκα","house","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000309","https://www.spitogatos.gr/en/property/2001308",603898,181,"D",3336,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000310","https://www.spitogatos.gr/en/property/2001309",558941,100,"D",5589,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000311","https://www.spitogatos.gr/en/property/2001310",345408,81,"C",4264,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000312","https://www.spitogatos.gr/en/property/2001311",541464,68,"C",7963,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000313","https://www.spitogatos.gr/en/property/2001312",513614,81,"D",6341,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000314","https://www.spitogatos.gr/en/property/2001313",373451,124,"C",3012,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000315","https://www.spitogatos.gr/en/property/2001314",305578,128,"D",2387,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000316","https://www.spitogatos.gr/en/property/2001315",574877,175,"C",3285,"Θησείο","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000317","https://www.spitogatos.gr/en/property/2001316",530449,121,"D",4384,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000318","https://www.spitogatos.gr/en/property/2001317",552188,112,"C",4930,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000319","https://www.spitogatos.gr/en/property/2001318",538908,188,"A",2867,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000320","https://www.spitogatos.gr/en/property/2001319",628457,84,"D",7482,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000321","https://www.spitogatos.gr/en/property/2001320",610974,133,"A",4594,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000322","https://www.spitogatos.gr/en/property/2001321",300335,78,"C",3850,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000323","https://www.spitogatos.gr/en/property/2001322",516834,179,"D",2887,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000324","https://www.spitogatos.gr/en/property/2001323",396436,174,"C",2278,"Athens Center","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000325","https://www.spitogatos.gr/en/property/2001324",474535,109,"C",4354,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000326","https://www.spitogatos.gr/en/property/2001325",597447,66,"D",9052,"Θησείο","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000327","https://www.spitogatos.gr/en/property/2001326",597190,159,"D",3756,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000328","https://www.spitogatos.gr/en/property/2001327",646056,81,"D",7976,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000329","https://www.spitogatos.gr/en/property/2001328",529119,113,"C",4682,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000330","https://www.spitogatos.gr/en/property/2001329",673142,65,"D",10356,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000331","https://www.spitogatos.gr/en/property/2001330",504514,153,"D",3297,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000332","https://www.spitogatos.gr/en/property/2001331",547084,172,"C",3181,"Εξάρχεια","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000333","https://www.spitogatos.gr/en/property/2001332",481691,65,"A",7411,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000334","https://www.spitogatos.gr/en/property/2001333",556923,66,"A+",8438,"Πλάκα","apartment","1","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000335","https://www.spitogatos.gr/en/property/2001334",501086,174,"C",2880,"Πλάκα","house","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000336","https://www.spitogatos.gr/en/property/2001335",642305,68,"C",9446,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000337","https://www.spitogatos.gr/en/property/2001336",751296,82,"B",9162,"Neos Kosmos","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000338","https://www.spitogatos.gr/en/property/2001337",319249,112,"E",2850,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000339","https://www.spitogatos.gr/en/property/2001338",546744,109,"C",5016,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000340","https://www.spitogatos.gr/en/property/2001339",423960,75,"E",5653,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000341","https://www.spitogatos.gr/en/property/2001340",498231,108,"D",4613,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000342","https://www.spitogatos.gr/en/property/2001341",534216,178,"C",3001,"Μοναστηράκι","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000343","https://www.spitogatos.gr/en/property/2001342",443858,77,"A",5764,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000344","https://www.spitogatos.gr/en/property/2001343",289618,71,"C",4079,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000345","https://www.spitogatos.gr/en/property/2001344",557353,147,"C",3792,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000346","https://www.spitogatos.gr/en/property/2001345",353635,123,"D",2875,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000347","https://www.spitogatos.gr/en/property/2001346",597181,137,"D",4359,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000348","https://www.spitogatos.gr/en/property/2001347",330577,67,"C",4934,"Σύνταγμα","apartment","1","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000349","https://www.spitogatos.gr/en/property/2001348",504189,109,"C",4626,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000350","https://www.spitogatos.gr/en/property/2001349",522811,98,"F",5335,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000351","https://www.spitogatos.gr/en/property/2001350",603297,67,"B",9004,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000352","https://www.spitogatos.gr/en/property/2001351",353778,149,"C",2374,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000353","https://www.spitogatos.gr/en/property/2001352",409363,164,"C",2496,"Ψυρρή","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000354","https://www.spitogatos.gr/en/property/2001353",413850,151,"C",2741,"Θησείο","maisonette","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000355","https://www.spitogatos.gr/en/property/2001354",505852,185,"C",2734,"Ψυρρή","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000356","https://www.spitogatos.gr/en/property/2001355",492685,188,"C",2621,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000357","https://www.spitogatos.gr/en/property/2001356",578502,77,"A+",7513,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000358","https://www.spitogatos.gr/en/property/2001357",593051,93,"B",6377,"Petralona","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000359","https://www.spitogatos.gr/en/property/2001358",372617,185,"C",2014,"Θησείο","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000360","https://www.spitogatos.gr/en/property/2001359",504385,193,"D",2613,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000361","https://www.spitogatos.gr/en/property/2001360",583748,182,"C",3207,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000362","https://www.spitogatos.gr/en/property/2001361",597620,179,"D",3339,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000363","https://www.spitogatos.gr/en/property/2001362",571410,78,"C",7326,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000364","https://www.spitogatos.gr/en/property/2001363",618268,171,"A",3616,"Θησείο","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000365","https://www.spitogatos.gr/en/property/2001364",529716,178,"D",2976,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000366","https://www.spitogatos.gr/en/property/2001365",537013,115,"B",4670,"Ampelokipoi","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000367","https://www.spitogatos.gr/en/property/2001366",481253,136,"C",3539,"Kolonaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000368","https://www.spitogatos.gr/en/property/2001367",671490,158,"B",4250,"Παγκράτι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000369","https://www.spitogatos.gr/en/property/2001368",627495,75,"C",8367,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000370","https://www.spitogatos.gr/en/property/2001369",541315,71,"D",7624,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000371","https://www.spitogatos.gr/en/property/2001370",459216,148,"C",3103,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000372","https://www.spitogatos.gr/en/property/2001371",593088,125,"C",4745,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000373","https://www.spitogatos.gr/en/property/2001372",610040,100,"C",6100,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000374","https://www.spitogatos.gr/en/property/2001373",621544,72,"C",8633,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000375","https://www.spitogatos.gr/en/property/2001374",368652,108,"A+",3413,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000376","https://www.spitogatos.gr/en/property/2001375",312032,133,"C",2346,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000377","https://www.spitogatos.gr/en/property/2001376",589063,186,"C",3167,"Ampelokipoi","house","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000378","https://www.spitogatos.gr/en/property/2001377",492914,178,"C",2769,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000379","https://www.spitogatos.gr/en/property/2001378",306247,140,"F",2187,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000380","https://www.spitogatos.gr/en/property/2001379",318950,127,"D",2511,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000381","https://www.spitogatos.gr/en/property/2001380",354964,107,"D",3317,"Koukaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000382","https://www.spitogatos.gr/en/property/2001381",516939,94,"C",5499,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000383","https://www.spitogatos.gr/en/property/2001382",676179,144,"C",4696,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000384","https://www.spitogatos.gr/en/property/2001383",675671,73,"A",9256,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000385","https://www.spitogatos.gr/en/property/2001384",387782,70,"D",5540,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000386","https://www.spitogatos.gr/en/property/2001385",568804,144,"C",3950,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000387","https://www.spitogatos.gr/en/property/2001386",373020,155,"D",2407,"Kypseli","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000388","https://www.spitogatos.gr/en/property/2001387",458474,159,"C",2883,"Θησείο","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000389","https://www.spitogatos.gr/en/property/2001388",403935,101,"A",3999,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000390","https://www.spitogatos.gr/en/property/2001389",617945,144,"D",4291,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000391","https://www.spitogatos.gr/en/property/2001390",357844,82,"A",4364,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000392","https://www.spitogatos.gr/en/property/2001391",660451,87,"D",7591,"Θησείο","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000393","https://www.spitogatos.gr/en/property/2001392",594857,126,"D",4721,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000394","https://www.spitogatos.gr/en/property/2001393",327249,167,"D",1960,"Εξάρχεια","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000395","https://www.spitogatos.gr/en/property/2001394",391146,119,"D",3287,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000396","https://www.spitogatos.gr/en/property/2001395",495970,159,"C",3119,"Σύνταγμα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000397","https://www.spitogatos.gr/en/property/2001396",691245,189,"D",3657,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000398","https://www.spitogatos.gr/en/property/2001397",282381,106,"C",2664,"Neos Kosmos","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000399","https://www.spitogatos.gr/en/property/2001398",320780,70,"C",4583,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000400","https://www.spitogatos.gr/en/property/2001399",352212,109,"C",3231,"Kallithea","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000401","https://www.spitogatos.gr/en/property/2001400",492236,112,"B",4395,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000402","https://www.spitogatos.gr/en/property/2001401",464250,179,"B",2594,"Nea Smyrni","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000403","https://www.spitogatos.gr/en/property/2001402",603988,177,"C",3412,"Gazi","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000404","https://www.spitogatos.gr/en/property/2001403",349655,173,"D",2021,"Athens Center","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000405","https://www.spitogatos.gr/en/property/2001404",645027,150,"D",4300,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000406","https://www.spitogatos.gr/en/property/2001405",585339,194,"A",3017,"Petralona","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000407","https://www.spitogatos.gr/en/property/2001406",387190,111,"A",3488,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000408","https://www.spitogatos.gr/en/property/2001407",667765,162,"C",4122,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000409","https://www.spitogatos.gr/en/property/2001408",505733,164,"C",3084,"Μοναστηράκι","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000410","https://www.spitogatos.gr/en/property/2001409",321238,151,"D",2127,"Gazi","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000411","https://www.spitogatos.gr/en/property/2001410",377722,102,"D",3703,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000412","https://www.spitogatos.gr/en/property/2001411",610705,87,"C",7020,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000413","https://www.spitogatos.gr/en/property/2001412",678194,133,"B",5099,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000414","https://www.spitogatos.gr/en/property/2001413",690884,133,"C",5195,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000415","https://www.spitogatos.gr/en/property/2001414",595784,173,"C",3444,"Εξάρχεια","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000416","https://www.spitogatos.gr/en/property/2001415",563770,143,"D",3942,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000417","https://www.spitogatos.gr/en/property/2001416",390115,136,"D",2868,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000418","https://www.spitogatos.gr/en/property/2001417",465925,165,"D",2824,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000419","https://www.spitogatos.gr/en/property/2001418",452733,133,"C",3404,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000420","https://www.spitogatos.gr/en/property/2001419",413703,76,"B",5443,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000421","https://www.spitogatos.gr/en/property/2001420",444033,150,"D",2960,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000422","https://www.spitogatos.gr/en/property/2001421",474107,125,"C",3793,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000423","https://www.spitogatos.gr/en/property/2001422",533619,69,"C",7734,"Θησείο","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000424","https://www.spitogatos.gr/en/property/2001423",414034,105,"B",3943,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000425","https://www.spitogatos.gr/en/property/2001424",368898,122,"D",3024,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000426","https://www.spitogatos.gr/en/property/2001425",562144,140,"E",4015,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000427","https://www.spitogatos.gr/en/property/2001426",395039,160,"B",2469,"Μοναστηράκι","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000428","https://www.spitogatos.gr/en/property/2001427",670037,190,"C",3527,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000429","https://www.spitogatos.gr/en/property/2001428",314412,154,"D",2042,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000430","https://www.spitogatos.gr/en/property/2001429",386790,81,"B",4775,"Kolonaki","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000431","https://www.spitogatos.gr/en/property/2001430",313331,166,"E",1888,"Μοναστηράκι","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000432","https://www.spitogatos.gr/en/property/2001431",656712,163,"D",4029,"Μοναστηράκι","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000433","https://www.spitogatos.gr/en/property/2001432",364289,139,"D",2621,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000434","https://www.spitogatos.gr/en/property/2001433",572374,106,"C",5400,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000435","https://www.spitogatos.gr/en/property/2001434",450359,117,"D",3849,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000436","https://www.spitogatos.gr/en/property/2001435",606836,140,"A",4335,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000437","https://www.spitogatos.gr/en/property/2001436",316181,122,"C",2592,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000438","https://www.spitogatos.gr/en/property/2001437",602694,122,"D",4940,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000439","https://www.spitogatos.gr/en/property/2001438",695854,171,"C",4069,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000440","https://www.spitogatos.gr/en/property/2001439",370173,139,"D",2663,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000441","https://www.spitogatos.gr/en/property/2001440",376026,110,"D",3418,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000442","https://www.spitogatos.gr/en/property/2001441",683196,130,"A",5255,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000443","https://www.spitogatos.gr/en/property/2001442",468782,157,"B",2986,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000444","https://www.spitogatos.gr/en/property/2001443",611617,135,"D",4530,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000445","https://www.spitogatos.gr/en/property/2001444",482329,158,"D",3053,"Παγκράτι","house","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000446","https://www.spitogatos.gr/en/property/2001445",463301,92,"F",5036,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000447","https://www.spitogatos.gr/en/property/2001446",574278,177,"A",3245,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000448","https://www.spitogatos.gr/en/property/2001447",431625,68,"G",6347,"Εξάρχεια","apartment","1","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000449","https://www.spitogatos.gr/en/property/2001448",497981,90,"A",5533,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000450","https://www.spitogatos.gr/en/property/2001449",279491,130,"D",2150,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000451","https://www.spitogatos.gr/en/property/2001450",311008,80,"C",3888,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000452","https://www.spitogatos.gr/en/property/2001451",431130,137,"A",3147,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000453","https://www.spitogatos.gr/en/property/2001452",367155,143,"F",2568,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000454","https://www.spitogatos.gr/en/property/2001453",361165,181,"C",1995,"Gazi","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000455","https://www.spitogatos.gr/en/property/2001454",384000,76,"A",5053,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000456","https://www.spitogatos.gr/en/property/2001455",323846,88,"D",3680,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000457","https://www.spitogatos.gr/en/property/2001456",361104,70,"B",5159,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000458","https://www.spitogatos.gr/en/property/2001457",306933,64,"C",4796,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000459","https://www.spitogatos.gr/en/property/2001458",646870,136,"A",4756,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000460","https://www.spitogatos.gr/en/property/2001459",675118,65,"C",10386,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000461","https://www.spitogatos.gr/en/property/2001460",678326,183,"D",3707,"Kallithea","house","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000462","https://www.spitogatos.gr/en/property/2001461",341545,166,"D",2058,"Θησείο","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000463","https://www.spitogatos.gr/en/property/2001462",531394,180,"A",2952,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000464","https://www.spitogatos.gr/en/property/2001463",658937,86,"B",7662,"Keramikos","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000465","https://www.spitogatos.gr/en/property/2001464",588933,124,"C",4749,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000466","https://www.spitogatos.gr/en/property/2001465",383658,89,"C",4311,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000467","https://www.spitogatos.gr/en/property/2001466",747322,76,"C",9833,"Kypseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000468","https://www.spitogatos.gr/en/property/2001467",483178,193,"C",2504,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000469","https://www.spitogatos.gr/en/property/2001468",534266,83,"D",6437,"Petralona","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000470","https://www.spitogatos.gr/en/property/2001469",562355,86,"C",6539,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000471","https://www.spitogatos.gr/en/property/2001470",305966,117,"A",2615,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000472","https://www.spitogatos.gr/en/property/2001471",441242,185,"D",2385,"Ψυρρή","house","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000473","https://www.spitogatos.gr/en/property/2001472",480023,161,"C",2982,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000474","https://www.spitogatos.gr/en/property/2001473",400816,127,"C",3156,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000475","https://www.spitogatos.gr/en/property/2001474",316477,172,"C",1840,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000476","https://www.spitogatos.gr/en/property/2001475",572172,82,"D",6978,"Ψυρρή","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000477","https://www.spitogatos.gr/en/property/2001476",336068,120,"A",2801,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000478","https://www.spitogatos.gr/en/property/2001477",315776,167,"C",1891,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000479","https://www.spitogatos.gr/en/property/2001478",664518,86,"B",7727,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000480","https://www.spitogatos.gr/en/property/2001479",624531,104,"C",6005,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000481","https://www.spitogatos.gr/en/property/2001480",556693,90,"D",6185,"Gazi","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000482","https://www.spitogatos.gr/en/property/2001481",380827,163,"C",2336,"Ψυρρή","house","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000483","https://www.spitogatos.gr/en/property/2001482",406584,178,"C",2284,"Θησείο","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000484","https://www.spitogatos.gr/en/property/2001483",679529,158,"F",4301,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000485","https://www.spitogatos.gr/en/property/2001484",538507,137,"F",3931,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000486","https://www.spitogatos.gr/en/property/2001485",394826,113,"C",3494,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000487","https://www.spitogatos.gr/en/property/2001486",453557,134,"D",3385,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000488","https://www.spitogatos.gr/en/property/2001487",519684,76,"A",6838,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000489","https://www.spitogatos.gr/en/property/2001488",587845,119,"F",4940,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000490","https://www.spitogatos.gr/en/property/2001489",417408,134,"A",3115,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000491","https://www.spitogatos.gr/en/property/2001490",380363,90,"A",4226,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000492","https://www.spitogatos.gr/en/property/2001491",728011,79,"C",9215,"Neos Kosmos","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000493","https://www.spitogatos.gr/en/property/2001492",304515,171,"C",1781,"Ψυρρή","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000494","https://www.spitogatos.gr/en/property/2001493",619055,112,"C",5527,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000495","https://www.spitogatos.gr/en/property/2001494",363227,177,"C",2052,"Εξάρχεια","maisonette","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000496","https://www.spitogatos.gr/en/property/2001495",559111,102,"C",5481,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000497","https://www.spitogatos.gr/en/property/2001496",523034,82,"A",6378,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000498","https://www.spitogatos.gr/en/property/2001497",396755,181,"C",2192,"Πλάκα","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000499","https://www.spitogatos.gr/en/property/2001498",657592,85,"C",7736,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000500","https://www.spitogatos.gr/en/property/2001499",564242,82,"C",6881,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000501","https://www.spitogatos.gr/en/property/2001500",456515,82,"E",5567,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000502","https://www.spitogatos.gr/en/property/2001501",339501,170,"D",1997,"Metaxourgeio","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000503","https://www.spitogatos.gr/en/property/2001502",330436,178,"A",1856,"Athens Center","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000504","https://www.spitogatos.gr/en/property/2001503",648751,140,"C",4634,"Ampelokipoi","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000505","https://www.spitogatos.gr/en/property/2001504",429524,100,"B",4295,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000506","https://www.spitogatos.gr/en/property/2001505",542381,177,"E",3064,"Ψυρρή","house","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000507","https://www.spitogatos.gr/en/property/2001506",502908,94,"F",5350,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000508","https://www.spitogatos.gr/en/property/2001507",704412,181,"D",3892,"Mets","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000509","https://www.spitogatos.gr/en/property/2001508",618245,147,"D",4206,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000510","https://www.spitogatos.gr/en/property/2001509",616951,171,"F",3608,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000511","https://www.spitogatos.gr/en/property/2001510",424489,72,"B",5896,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000512","https://www.spitogatos.gr/en/property/2001511",493521,163,"C",3028,"Πλάκα","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000513","https://www.spitogatos.gr/en/property/2001512",446186,189,"B",2361,"Kolonaki","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000514","https://www.spitogatos.gr/en/property/2001513",345203,116,"D",2976,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000515","https://www.spitogatos.gr/en/property/2001514",389415,82,"D",4749,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000516","https://www.spitogatos.gr/en/property/2001515",554302,136,"E",4076,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000517","https://www.spitogatos.gr/en/property/2001516",587669,135,"C",4353,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000518","https://www.spitogatos.gr/en/property/2001517",303113,153,"C",1981,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000519","https://www.spitogatos.gr/en/property/2001518",329837,134,"F",2461,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000520","https://www.spitogatos.gr/en/property/2001519",374136,90,"C",4157,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000521","https://www.spitogatos.gr/en/property/2001520",549138,126,"D",4358,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000522","https://www.spitogatos.gr/en/property/2001521",360817,133,"A",2713,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000523","https://www.spitogatos.gr/en/property/2001522",353098,150,"A",2354,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000524","https://www.spitogatos.gr/en/property/2001523",342652,111,"B",3087,"Μοναστηράκι","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000525","https://www.spitogatos.gr/en/property/2001524",534075,116,"D",4604,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000526","https://www.spitogatos.gr/en/property/2001525",577747,148,"C",3904,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000527","https://www.spitogatos.gr/en/property/2001526",444377,172,"C",2584,"Petralona","maisonette","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000528","https://www.spitogatos.gr/en/property/2001527",692883,105,"D",6599,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000529","https://www.spitogatos.gr/en/property/2001528",580585,158,"B",3675,"Ψυρρή","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000530","https://www.spitogatos.gr/en/property/2001529",377928,137,"C",2759,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000531","https://www.spitogatos.gr/en/property/2001530",515771,165,"C",3126,"Keramikos","house","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000532","https://www.spitogatos.gr/en/property/2001531",627470,122,"C",5143,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000533","https://www.spitogatos.gr/en/property/2001532",466000,155,"C",3006,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000534","https://www.spitogatos.gr/en/property/2001533",674474,65,"A",10377,"Ψυρρή","apartment","1","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000535","https://www.spitogatos.gr/en/property/2001534",432966,81,"D",5345,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000536","https://www.spitogatos.gr/en/property/2001535",463205,107,"B",4329,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000537","https://www.spitogatos.gr/en/property/2001536",353778,190,"F",1862,"Εξάρχεια","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000538","https://www.spitogatos.gr/en/property/2001537",563669,180,"C",3131,"Παγκράτι","house","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000539","https://www.spitogatos.gr/en/property/2001538",649931,82,"C",7926,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000540","https://www.spitogatos.gr/en/property/2001539",305419,185,"D",1651,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000541","https://www.spitogatos.gr/en/property/2001540",413988,188,"C",2202,"Πλάκα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000542","https://www.spitogatos.gr/en/property/2001541",433938,181,"A",2397,"Παγκράτι","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000543","https://www.spitogatos.gr/en/property/2001542",413597,79,"F",5235,"Πλάκα","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000544","https://www.spitogatos.gr/en/property/2001543",560439,146,"E",3839,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000001","https://www.spitogatos.gr/en/property/2001000",427489,123,"D",3476,"Gazi","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000002","https://www.spitogatos.gr/en/property/2001001",684954,110,"D",6227,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000003","https://www.spitogatos.gr/en/property/2001002",659437,204,"D",3233,"Mets","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000004","https://www.spitogatos.gr/en/property/2001003",554434,140,"D",3960,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000005","https://www.spitogatos.gr/en/property/2001004",375529,121,"B",3104,"Neos Kosmos","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000006","https://www.spitogatos.gr/en/property/2001005",455738,65,"C",7011,"Athens Center","apartment","1","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000007","https://www.spitogatos.gr/en/property/2001006",753344,157,"D",4798,"Keramikos","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000008","https://www.spitogatos.gr/en/property/2001007",620162,155,"A",4001,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000009","https://www.spitogatos.gr/en/property/2001008",329984,152,"C",2171,"Mets","house","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000010","https://www.spitogatos.gr/en/property/2001009",665299,116,"C",5735,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000011","https://www.spitogatos.gr/en/property/2001010",360404,162,"D",2225,"Μοναστηράκι","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000012","https://www.spitogatos.gr/en/property/2001011",384764,132,"D",2915,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000013","https://www.spitogatos.gr/en/property/2001012",600672,107,"C",5614,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000014","https://www.spitogatos.gr/en/property/2001013",349774,80,"D",4372,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000015","https://www.spitogatos.gr/en/property/2001014",650152,122,"F",5329,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000016","https://www.spitogatos.gr/en/property/2001015",592841,152,"F",3900,"Petralona","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000017","https://www.spitogatos.gr/en/property/2001016",535002,164,"D",3262,"Keramikos","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000018","https://www.spitogatos.gr/en/property/2001017",431372,168,"D",2568,"Keramikos","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000019","https://www.spitogatos.gr/en/property/2001018",396922,85,"D",4670,"Ampelokipoi","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000020","https://www.spitogatos.gr/en/property/2001019",766928,118,"D",6499,"Petralona","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000021","https://www.spitogatos.gr/en/property/2001020",723380,188,"C",3848,"Kolonaki","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000022","https://www.spitogatos.gr/en/property/2001021",543711,124,"B",4385,"Petralona","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000023","https://www.spitogatos.gr/en/property/2001022",458926,156,"C",2942,"Kypseli","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000024","https://www.spitogatos.gr/en/property/2001023",468656,151,"F",3104,"Παγκράτι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000025","https://www.spitogatos.gr/en/property/2001024",608372,92,"A",6613,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000026","https://www.spitogatos.gr/en/property/2001025",401532,169,"C",2376,"Metaxourgeio","house","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000027","https://www.spitogatos.gr/en/property/2001026",542282,71,"D",7638,"Kipseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000028","https://www.spitogatos.gr/en/property/2001027",746288,74,"C",10085,"Gazi","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000029","https://www.spitogatos.gr/en/property/2001028",670500,150,"C",4470,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000030","https://www.spitogatos.gr/en/property/2001029",609040,84,"C",7250,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000031","https://www.spitogatos.gr/en/property/2001030",690531,156,"C",4426,"Athens Center","house","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000032","https://www.spitogatos.gr/en/property/2001031",502309,100,"A",5023,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000033","https://www.spitogatos.gr/en/property/2001032",725789,90,"B",8064,"Gazi","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000034","https://www.spitogatos.gr/en/property/2001033",657870,143,"C",4600,"Koukaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000035","https://www.spitogatos.gr/en/property/2001034",609186,96,"C",6346,"Θησείο","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000036","https://www.spitogatos.gr/en/property/2001035",389699,140,"A",2784,"Koukaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000037","https://www.spitogatos.gr/en/property/2001036",285521,125,"A",2284,"Kipseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000038","https://www.spitogatos.gr/en/property/2001037",458862,158,"C",2904,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000039","https://www.spitogatos.gr/en/property/2001038",649268,115,"F",5646,"Exarchia","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000040","https://www.spitogatos.gr/en/property/2001039",527788,144,"C",3665,"Exarchia","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000041","https://www.spitogatos.gr/en/property/2001040",589126,76,"C",7752,"Koukaki","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000042","https://www.spitogatos.gr/en/property/2001041",645181,128,"D",5040,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000043","https://www.spitogatos.gr/en/property/2001042",541264,185,"A",2926,"Kypseli","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000044","https://www.spitogatos.gr/en/property/2001043",535242,126,"D",4248,"Εξάρχεια","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000045","https://www.spitogatos.gr/en/property/2001044",256780,113,"D",2272,"Metaxourgeio","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000046","https://www.spitogatos.gr/en/property/2001045",540877,161,"D",3359,"Neos Kosmos","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000047","https://www.spitogatos.gr/en/property/2001046",655655,125,"D",5245,"Gazi","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000048","https://www.spitogatos.gr/en/property/2001047",693177,115,"D",6028,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000049","https://www.spitogatos.gr/en/property/2001048",507516,203,"C",2500,"Ampelokipoi","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000050","https://www.spitogatos.gr/en/property/2001049",595934,185,"F",3221,"Exarchia","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000051","https://www.spitogatos.gr/en/property/2001050",420374,80,"C",5255,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000052","https://www.spitogatos.gr/en/property/2001051",289462,84,"D",3446,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000053","https://www.spitogatos.gr/en/property/2001052",361848,186,"C",1945,"Kallithea","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000054","https://www.spitogatos.gr/en/property/2001053",670817,161,"D",4167,"Metaxourgeio","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000055","https://www.spitogatos.gr/en/property/2001054",604199,126,"C",4795,"Gazi","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000056","https://www.spitogatos.gr/en/property/2001055",387016,172,"C",2250,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000057","https://www.spitogatos.gr/en/property/2001056",557928,193,"B",2891,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000058","https://www.spitogatos.gr/en/property/2001057",542858,103,"D",5270,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000059","https://www.spitogatos.gr/en/property/2001058",413228,162,"B",2551,"Μοναστηράκι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000060","https://www.spitogatos.gr/en/property/2001059",524279,71,"D",7384,"Σύνταγμα","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000061","https://www.spitogatos.gr/en/property/2001060",345506,98,"C",3526,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000062","https://www.spitogatos.gr/en/property/2001061",529694,183,"A",2895,"Παγκράτι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000063","https://www.spitogatos.gr/en/property/2001062",567689,138,"C",4114,"Gazi","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000064","https://www.spitogatos.gr/en/property/2001063",511347,137,"C",3732,"Gazi","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000065","https://www.spitogatos.gr/en/property/2001064",654179,112,"C",5841,"Ampelokipoi","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000066","https://www.spitogatos.gr/en/property/2001065",695534,190,"C",3661,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000067","https://www.spitogatos.gr/en/property/2001066",380602,147,"A",2589,"Mets","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000068","https://www.spitogatos.gr/en/property/2001067",737156,184,"C",4006,"Kallithea","house","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000069","https://www.spitogatos.gr/en/property/2001068",562651,195,"E",2885,"Petralona","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000070","https://www.spitogatos.gr/en/property/2001069",690329,109,"C",6333,"Ampelokipoi","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000071","https://www.spitogatos.gr/en/property/2001070",368036,138,"C",2667,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000072","https://www.spitogatos.gr/en/property/2001071",275466,170,"C",1620,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000073","https://www.spitogatos.gr/en/property/2001072",309331,145,"D",2133,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000074","https://www.spitogatos.gr/en/property/2001073",330018,72,"C",4584,"Metaxourgeio","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000075","https://www.spitogatos.gr/en/property/2001074",721359,127,"C",5680,"Ampelokipoi","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000076","https://www.spitogatos.gr/en/property/2001075",350681,164,"D",2138,"Ψυρρή","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000077","https://www.spitogatos.gr/en/property/2001076",602785,182,"D",3312,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000078","https://www.spitogatos.gr/en/property/2001077",649227,149,"C",4357,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000079","https://www.spitogatos.gr/en/property/2001078",310863,76,"D",4090,"Exarchia","apartment","2","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000080","https://www.spitogatos.gr/en/property/2001079",460200,174,"C",2645,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000081","https://www.spitogatos.gr/en/property/2001080",687998,160,"C",4300,"Kypseli","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000082","https://www.spitogatos.gr/en/property/2001081",695867,79,"C",8808,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000083","https://www.spitogatos.gr/en/property/2001082",305578,189,"C",1617,"Metaxourgeio","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000084","https://www.spitogatos.gr/en/property/2001083",643515,194,"D",3317,"Exarchia","maisonette","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000085","https://www.spitogatos.gr/en/property/2001084",683000,179,"D",3816,"Παγκράτι","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000086","https://www.spitogatos.gr/en/property/2001085",645818,155,"D",4167,"Παγκράτι","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000087","https://www.spitogatos.gr/en/property/2001086",680661,142,"C",4793,"Kipseli","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000088","https://www.spitogatos.gr/en/property/2001087",417385,100,"A",4174,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000089","https://www.spitogatos.gr/en/property/2001088",724189,198,"C",3658,"Neos Kosmos","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000090","https://www.spitogatos.gr/en/property/2001089",372745,136,"D",2741,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000091","https://www.spitogatos.gr/en/property/2001090",756351,152,"D",4976,"Exarchia","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000092","https://www.spitogatos.gr/en/property/2001091",763610,143,"E",5340,"Kypseli","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000093","https://www.spitogatos.gr/en/property/2001092",541390,125,"C",4331,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000094","https://www.spitogatos.gr/en/property/2001093",481386,85,"D",5663,"Petralona","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000095","https://www.spitogatos.gr/en/property/2001094",485162,164,"A",2958,"Kallithea","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000096","https://www.spitogatos.gr/en/property/2001095",699291,182,"B",3842,"Keramikos","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000097","https://www.spitogatos.gr/en/property/2001096",572526,181,"C",3163,"Ψυρρή","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000098","https://www.spitogatos.gr/en/property/2001097",487509,199,"D",2450,"Kipseli","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000099","https://www.spitogatos.gr/en/property/2001098",359782,80,"D",4497,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000100","https://www.spitogatos.gr/en/property/2001099",351145,69,"A",5089,"Koukaki","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000101","https://www.spitogatos.gr/en/property/2001100",678511,94,"C",7218,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000102","https://www.spitogatos.gr/en/property/2001101",646187,155,"C",4169,"Mets","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000103","https://www.spitogatos.gr/en/property/2001102",325831,70,"B",4655,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000104","https://www.spitogatos.gr/en/property/2001103",559872,171,"C",3274,"Exarchia","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000105","https://www.spitogatos.gr/en/property/2001104",284711,134,"D",2125,"Kypseli","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000106","https://www.spitogatos.gr/en/property/2001105",408388,193,"C",2116,"Koukaki","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000107","https://www.spitogatos.gr/en/property/2001106",696989,148,"A",4709,"Neos Kosmos","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000108","https://www.spitogatos.gr/en/property/2001107",555894,91,"A",6109,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000109","https://www.spitogatos.gr/en/property/2001108",597210,149,"C",4008,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000110","https://www.spitogatos.gr/en/property/2001109",760492,183,"A",4156,"Kypseli","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000111","https://www.spitogatos.gr/en/property/2001110",489138,129,"D",3792,"Metaxourgeio","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000112","https://www.spitogatos.gr/en/property/2001111",412442,190,"D",2171,"Ampelokipoi","house","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000113","https://www.spitogatos.gr/en/property/2001112",447906,82,"D",5462,"Metaxourgeio","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000114","https://www.spitogatos.gr/en/property/2001113",542212,106,"E",5115,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000115","https://www.spitogatos.gr/en/property/2001114",265991,87,"D",3057,"Kipseli","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000116","https://www.spitogatos.gr/en/property/2001115",309247,86,"C",3596,"Kallithea","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000117","https://www.spitogatos.gr/en/property/2001116",395309,84,"C",4706,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000118","https://www.spitogatos.gr/en/property/2001117",705651,122,"C",5784,"Kallithea","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000119","https://www.spitogatos.gr/en/property/2001118",468833,97,"A",4833,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000120","https://www.spitogatos.gr/en/property/2001119",424101,74,"A",5731,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000121","https://www.spitogatos.gr/en/property/2001120",594507,200,"C",2973,"Gazi","maisonette","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000122","https://www.spitogatos.gr/en/property/2001121",683982,169,"F",4047,"Kallithea","maisonette","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000123","https://www.spitogatos.gr/en/property/2001122",619090,96,"D",6449,"Kolonaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000124","https://www.spitogatos.gr/en/property/2001123",564605,114,"F",4953,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000125","https://www.spitogatos.gr/en/property/2001124",322562,127,"C",2540,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000126","https://www.spitogatos.gr/en/property/2001125",603325,137,"C",4404,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000127","https://www.spitogatos.gr/en/property/2001126",336287,133,"E",2528,"Ampelokipoi","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000128","https://www.spitogatos.gr/en/property/2001127",335651,67,"A",5010,"Παγκράτι","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000129","https://www.spitogatos.gr/en/property/2001128",762038,165,"C",4618,"Mets","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000130","https://www.spitogatos.gr/en/property/2001129",312574,75,"A",4168,"Kypseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000131","https://www.spitogatos.gr/en/property/2001130",693670,164,"D",4230,"Exarchia","house","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000132","https://www.spitogatos.gr/en/property/2001131",687606,107,"A",6426,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000133","https://www.spitogatos.gr/en/property/2001132",570140,192,"C",2969,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000134","https://www.spitogatos.gr/en/property/2001133",415855,135,"D",3080,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000135","https://www.spitogatos.gr/en/property/2001134",487681,137,"D",3560,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000136","https://www.spitogatos.gr/en/property/2001135",471841,82,"C",5754,"Gazi","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000137","https://www.spitogatos.gr/en/property/2001136",722981,203,"C",3561,"Petralona","maisonette","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000138","https://www.spitogatos.gr/en/property/2001137",654496,129,"C",5074,"Kolonaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000139","https://www.spitogatos.gr/en/property/2001138",592397,135,"D",4388,"Kipseli","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000140","https://www.spitogatos.gr/en/property/2001139",442631,127,"C",3485,"Nea Smyrni","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000141","https://www.spitogatos.gr/en/property/2001140",595487,179,"B",3327,"Koukaki","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000142","https://www.spitogatos.gr/en/property/2001141",649207,168,"D",3864,"Ampelokipoi","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000143","https://www.spitogatos.gr/en/property/2001142",320345,113,"C",2835,"Mets","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000144","https://www.spitogatos.gr/en/property/2001143",722836,149,"A+",4851,"Petralona","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000145","https://www.spitogatos.gr/en/property/2001144",612187,153,"D",4001,"Neos Kosmos","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000146","https://www.spitogatos.gr/en/property/2001145",692974,90,"C",7700,"Ψυρρή","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000147","https://www.spitogatos.gr/en/property/2001146",525251,152,"A",3456,"Σύνταγμα","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000148","https://www.spitogatos.gr/en/property/2001147",628309,104,"C",6041,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000149","https://www.spitogatos.gr/en/property/2001148",648935,175,"D",3708,"Kypseli","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000150","https://www.spitogatos.gr/en/property/2001149",368989,132,"F",2795,"Metaxourgeio","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000151","https://www.spitogatos.gr/en/property/2001150",302909,94,"B",3222,"Neos Kosmos","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000152","https://www.spitogatos.gr/en/property/2001151",744174,108,"C",6890,"Kipseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000153","https://www.spitogatos.gr/en/property/2001152",358062,135,"D",2652,"Athens Center","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000154","https://www.spitogatos.gr/en/property/2001153",256122,194,"D",1320,"Nea Smyrni","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000155","https://www.spitogatos.gr/en/property/2001154",644215,169,"G",3812,"Nea Smyrni","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000156","https://www.spitogatos.gr/en/property/2001155",752153,69,"B",10901,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000157","https://www.spitogatos.gr/en/property/2001156",464099,151,"F",3074,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000158","https://www.spitogatos.gr/en/property/2001157",481353,181,"C",2659,"Gazi","house","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000159","https://www.spitogatos.gr/en/property/2001158",295873,74,"D",3998,"Keramikos","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000160","https://www.spitogatos.gr/en/property/2001159",481140,149,"A",3229,"Kypseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000161","https://www.spitogatos.gr/en/property/2001160",664050,129,"D",5148,"Kypseli","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000162","https://www.spitogatos.gr/en/property/2001161",487716,119,"D",4098,"Keramikos","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000163","https://www.spitogatos.gr/en/property/2001162",563566,90,"D",6262,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000164","https://www.spitogatos.gr/en/property/2001163",519104,126,"C",4120,"Gazi","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000165","https://www.spitogatos.gr/en/property/2001164",359076,202,"A+",1778,"Kipseli","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000166","https://www.spitogatos.gr/en/property/2001165",595745,180,"E",3310,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000167","https://www.spitogatos.gr/en/property/2001166",396159,74,"C",5354,"Athens Center","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000168","https://www.spitogatos.gr/en/property/2001167",413621,88,"B",4700,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000169","https://www.spitogatos.gr/en/property/2001168",645605,91,"A",7095,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000170","https://www.spitogatos.gr/en/property/2001169",364216,168,"C",2168,"Ψυρρή","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000171","https://www.spitogatos.gr/en/property/2001170",538280,92,"D",5851,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000172","https://www.spitogatos.gr/en/property/2001171",350586,95,"D",3690,"Εξάρχεια","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000173","https://www.spitogatos.gr/en/property/2001172",529632,97,"D",5460,"Exarchia","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000174","https://www.spitogatos.gr/en/property/2001173",630021,188,"D",3351,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000175","https://www.spitogatos.gr/en/property/2001174",557065,84,"C",6632,"Gazi","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000176","https://www.spitogatos.gr/en/property/2001175",648993,96,"C",6760,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000177","https://www.spitogatos.gr/en/property/2001176",386871,107,"C",3616,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000178","https://www.spitogatos.gr/en/property/2001177",518329,133,"A",3897,"Koukaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000179","https://www.spitogatos.gr/en/property/2001178",702874,68,"A",10336,"Kallithea","apartment","1","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000180","https://www.spitogatos.gr/en/property/2001179",611284,126,"D",4851,"Nea Smyrni","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000181","https://www.spitogatos.gr/en/property/2001180",286247,154,"C",1859,"Nea Smyrni","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000182","https://www.spitogatos.gr/en/property/2001181",697649,161,"A",4333,"Θησείο","maisonette","5","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000183","https://www.spitogatos.gr/en/property/2001182",431965,104,"C",4154,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000184","https://www.spitogatos.gr/en/property/2001183",429466,100,"C",4295,"Kolonaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000185","https://www.spitogatos.gr/en/property/2001184",653495,157,"C",4162,"Ampelokipoi","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000186","https://www.spitogatos.gr/en/property/2001185",463677,133,"B",3486,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000187","https://www.spitogatos.gr/en/property/2001186",279847,184,"D",1521,"Kypseli","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000188","https://www.spitogatos.gr/en/property/2001187",664770,154,"D",4317,"Athens Center","house","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000189","https://www.spitogatos.gr/en/property/2001188",570764,155,"E",3682,"Θησείο","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000190","https://www.spitogatos.gr/en/property/2001189",545986,150,"C",3640,"Kallithea","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000191","https://www.spitogatos.gr/en/property/2001190",381103,176,"A",2165,"Θησείο","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000192","https://www.spitogatos.gr/en/property/2001191",521397,198,"C",2633,"Nea Smyrni","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000193","https://www.spitogatos.gr/en/property/2001192",698771,164,"C",4261,"Nea Smyrni","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000194","https://www.spitogatos.gr/en/property/2001193",396867,105,"C",3780,"Neos Kosmos","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000195","https://www.spitogatos.gr/en/property/2001194",547898,178,"B",3078,"Metaxourgeio","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000196","https://www.spitogatos.gr/en/property/2001195",342320,137,"D",2499,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000197","https://www.spitogatos.gr/en/property/2001196",598021,111,"D",5388,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000198","https://www.spitogatos.gr/en/property/2001197",429503,85,"D",5053,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000199","https://www.spitogatos.gr/en/property/2001198",488353,117,"C",4174,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000200","https://www.spitogatos.gr/en/property/2001199",517355,147,"A",3519,"Mets","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000201","https://www.spitogatos.gr/en/property/2001200",648041,89,"C",7281,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000202","https://www.spitogatos.gr/en/property/2001201",750963,127,"D",5913,"Exarchia","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000203","https://www.spitogatos.gr/en/property/2001202",515438,139,"D",3708,"Πλάκα","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000204","https://www.spitogatos.gr/en/property/2001203",527009,123,"C",4285,"Mets","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000205","https://www.spitogatos.gr/en/property/2001204",339612,162,"C",2096,"Koukaki","maisonette","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000206","https://www.spitogatos.gr/en/property/2001205",655807,80,"C",8198,"Kypseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000207","https://www.spitogatos.gr/en/property/2001206",486231,67,"A",7257,"Πλάκα","apartment","1","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000208","https://www.spitogatos.gr/en/property/2001207",285443,172,"D",1660,"Metaxourgeio","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000209","https://www.spitogatos.gr/en/property/2001208",370745,116,"A+",3196,"Kipseli","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000210","https://www.spitogatos.gr/en/property/2001209",256232,136,"B",1884,"Keramikos","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000211","https://www.spitogatos.gr/en/property/2001210",629984,147,"C",4286,"Mets","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000212","https://www.spitogatos.gr/en/property/2001211",339784,161,"C",2110,"Nea Smyrni","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000213","https://www.spitogatos.gr/en/property/2001212",588394,105,"D",5604,"Exarchia","apartment","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000214","https://www.spitogatos.gr/en/property/2001213",331706,102,"C",3252,"Kallithea","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000215","https://www.spitogatos.gr/en/property/2001214",354349,143,"C",2478,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000216","https://www.spitogatos.gr/en/property/2001215",442527,92,"C",4810,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000217","https://www.spitogatos.gr/en/property/2001216",615963,165,"A",3733,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000218","https://www.spitogatos.gr/en/property/2001217",685141,179,"C",3828,"Athens Center","maisonette","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000219","https://www.spitogatos.gr/en/property/2001218",686472,100,"C",6865,"Metaxourgeio","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000220","https://www.spitogatos.gr/en/property/2001219",693398,127,"A",5460,"Metaxourgeio","apartment","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000221","https://www.spitogatos.gr/en/property/2001220",602213,161,"A",3740,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000222","https://www.spitogatos.gr/en/property/2001221",447035,181,"D",2470,"Nea Smyrni","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000223","https://www.spitogatos.gr/en/property/2001222",417606,145,"A",2880,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000224","https://www.spitogatos.gr/en/property/2001223",422505,127,"A",3327,"Petralona","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000225","https://www.spitogatos.gr/en/property/2001224",733045,131,"B",5596,"Metaxourgeio","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000226","https://www.spitogatos.gr/en/property/2001225",599727,90,"D",6664,"Nea Smyrni","apartment","2","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000227","https://www.spitogatos.gr/en/property/2001226",435247,102,"B",4267,"Kipseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000228","https://www.spitogatos.gr/en/property/2001227",371423,99,"B",3752,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000229","https://www.spitogatos.gr/en/property/2001228",658737,174,"B",3786,"Petralona","house","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000230","https://www.spitogatos.gr/en/property/2001229",741935,151,"C",4913,"Kipseli","house","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000231","https://www.spitogatos.gr/en/property/2001230",412506,117,"C",3526,"Kipseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000232","https://www.spitogatos.gr/en/property/2001231",447463,156,"D",2868,"Πλάκα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000233","https://www.spitogatos.gr/en/property/2001232",700779,183,"C",3829,"Kipseli","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000234","https://www.spitogatos.gr/en/property/2001233",460853,118,"C",3906,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000235","https://www.spitogatos.gr/en/property/2001234",474856,97,"D",4895,"Neos Kosmos","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000236","https://www.spitogatos.gr/en/property/2001235",257331,188,"C",1369,"Koukaki","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000237","https://www.spitogatos.gr/en/property/2001236",397003,155,"C",2561,"Neos Kosmos","house","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000238","https://www.spitogatos.gr/en/property/2001237",328650,82,"B",4008,"Παγκράτι","apartment","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000239","https://www.spitogatos.gr/en/property/2001238",350279,140,"D",2502,"Παγκράτι","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000240","https://www.spitogatos.gr/en/property/2001239",344595,181,"C",1904,"Neos Kosmos","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000241","https://www.spitogatos.gr/en/property/2001240",629941,181,"C",3480,"Koukaki","maisonette","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000242","https://www.spitogatos.gr/en/property/2001241",589445,76,"C",7756,"Kipseli","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000243","https://www.spitogatos.gr/en/property/2001242",594190,78,"D",7618,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000244","https://www.spitogatos.gr/en/property/2001243",325762,174,"C",1872,"Nea Smyrni","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000245","https://www.spitogatos.gr/en/property/2001244",746097,148,"D",5041,"Koukaki","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000246","https://www.spitogatos.gr/en/property/2001245",364616,77,"C",4735,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000247","https://www.spitogatos.gr/en/property/2001246",648531,102,"A+",6358,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000248","https://www.spitogatos.gr/en/property/2001247",544179,70,"E",7774,"Kolonaki","apartment","2","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000249","https://www.spitogatos.gr/en/property/2001248",598185,90,"A+",6646,"Kypseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000250","https://www.spitogatos.gr/en/property/2001249",723336,150,"D",4822,"Metaxourgeio","apartment","5","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000251","https://www.spitogatos.gr/en/property/2001250",296794,93,"C",3191,"Metaxourgeio","apartment","2","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000252","https://www.spitogatos.gr/en/property/2001251",649139,158,"C",4108,"Kolonaki","house","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000253","https://www.spitogatos.gr/en/property/2001252",503457,91,"D",5532,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000254","https://www.spitogatos.gr/en/property/2001253",391655,133,"D",2945,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000255","https://www.spitogatos.gr/en/property/2001254",415222,77,"C",5392,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000256","https://www.spitogatos.gr/en/property/2001255",633706,80,"C",7921,"Θησείο","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000257","https://www.spitogatos.gr/en/property/2001256",762050,90,"A",8467,"Petralona","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000258","https://www.spitogatos.gr/en/property/2001257",585056,150,"B",3900,"Athens Center","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000259","https://www.spitogatos.gr/en/property/2001258",653926,83,"C",7879,"Metaxourgeio","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000260","https://www.spitogatos.gr/en/property/2001259",733813,157,"C",4674,"Petralona","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000261","https://www.spitogatos.gr/en/property/2001260",477687,150,"C",3185,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000262","https://www.spitogatos.gr/en/property/2001261",634605,69,"A",9197,"Θησείο","apartment","1","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000263","https://www.spitogatos.gr/en/property/2001262",355260,106,"D",3352,"Kallithea","apartment","5","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000264","https://www.spitogatos.gr/en/property/2001263",554870,170,"C",3264,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000265","https://www.spitogatos.gr/en/property/2001264",491754,105,"C",4683,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000266","https://www.spitogatos.gr/en/property/2001265",564786,153,"C",3691,"Keramikos","house","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000267","https://www.spitogatos.gr/en/property/2001266",509907,144,"D",3541,"Keramikos","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000268","https://www.spitogatos.gr/en/property/2001267",421217,200,"C",2106,"Gazi","house","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000269","https://www.spitogatos.gr/en/property/2001268",460405,91,"D",5059,"Gazi","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000270","https://www.spitogatos.gr/en/property/2001269",689827,108,"B",6387,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000271","https://www.spitogatos.gr/en/property/2001270",315878,179,"E",1765,"Μοναστηράκι","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000272","https://www.spitogatos.gr/en/property/2001271",717615,112,"D",6407,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000273","https://www.spitogatos.gr/en/property/2001272",435091,84,"C",5180,"Ampelokipoi","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000274","https://www.spitogatos.gr/en/property/2001273",371394,123,"D",3019,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000275","https://www.spitogatos.gr/en/property/2001274",504228,204,"C",2472,"Gazi","maisonette","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000276","https://www.spitogatos.gr/en/property/2001275",694988,174,"C",3994,"Kipseli","maisonette","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000277","https://www.spitogatos.gr/en/property/2001276",564387,111,"D",5085,"Θησείο","apartment","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000278","https://www.spitogatos.gr/en/property/2001277",518401,193,"A",2686,"Nea Smyrni","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000279","https://www.spitogatos.gr/en/property/2001278",396495,181,"A",2191,"Μοναστηράκι","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000280","https://www.spitogatos.gr/en/property/2001279",345891,195,"C",1774,"Kypseli","house","3","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000281","https://www.spitogatos.gr/en/property/2001280",610768,141,"C",4332,"Μοναστηράκι","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000282","https://www.spitogatos.gr/en/property/2001281",498973,83,"B",6012,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000283","https://www.spitogatos.gr/en/property/2001282",592214,145,"D",4084,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000284","https://www.spitogatos.gr/en/property/2001283",407376,80,"C",5092,"Kypseli","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000285","https://www.spitogatos.gr/en/property/2001284",747960,200,"C",3740,"Neos Kosmos","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000286","https://www.spitogatos.gr/en/property/2001285",404704,119,"B",3401,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000287","https://www.spitogatos.gr/en/property/2001286",368521,78,"D",4725,"Kallithea","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000288","https://www.spitogatos.gr/en/property/2001287",633964,83,"C",7638,"Kallithea","apartment","2","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000289","https://www.spitogatos.gr/en/property/2001288",322786,133,"F",2427,"Neos Kosmos","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000290","https://www.spitogatos.gr/en/property/2001289",345372,174,"C",1985,"Σύνταγμα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000291","https://www.spitogatos.gr/en/property/2001290",297453,155,"A",1919,"Keramikos","maisonette","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000292","https://www.spitogatos.gr/en/property/2001291",479452,83,"D",5777,"Keramikos","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000293","https://www.spitogatos.gr/en/property/2001292",305279,175,"D",1744,"Exarchia","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000294","https://www.spitogatos.gr/en/property/2001293",554607,110,"B",5042,"Kallithea","apartment","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000295","https://www.spitogatos.gr/en/property/2001294",448373,200,"C",2242,"Mets","house","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000296","https://www.spitogatos.gr/en/property/2001295",590361,179,"D",3298,"Εξάρχεια","maisonette","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000297","https://www.spitogatos.gr/en/property/2001296",388862,185,"C",2102,"Πλάκα","maisonette","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000298","https://www.spitogatos.gr/en/property/2001297",589061,197,"C",2990,"Kipseli","maisonette","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000299","https://www.spitogatos.gr/en/property/2001298",726035,85,"C",8542,"Exarchia","apartment","2","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000300","https://www.spitogatos.gr/en/property/2001299",602248,159,"D",3788,"Ampelokipoi","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000301","https://www.spitogatos.gr/en/property/2001300",594689,127,"A",4683,"Παγκράτι","apartment","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000302","https://www.spitogatos.gr/en/property/2001301",678729,148,"C",4586,"Kallithea","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000303","https://www.spitogatos.gr/en/property/2001302",474836,149,"C",3187,"Neos Kosmos","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000304","https://www.spitogatos.gr/en/property/2001303",590233,153,"C",3858,"Nea Smyrni","maisonette","5","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000305","https://www.spitogatos.gr/en/property/2001304",344423,143,"A",2409,"Σύνταγμα","apartment","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000306","https://www.spitogatos.gr/en/property/2001305",312076,70,"B",4458,"Kolonaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000307","https://www.spitogatos.gr/en/property/2001306",647816,111,"C",5836,"Kallithea","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000308","https://www.spitogatos.gr/en/property/2001307",653968,135,"D",4844,"Εξάρχεια","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000309","https://www.spitogatos.gr/en/property/2001308",332326,74,"C",4491,"Metaxourgeio","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000310","https://www.spitogatos.gr/en/property/2001309",335336,87,"C",3854,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000311","https://www.spitogatos.gr/en/property/2001310",761487,82,"D",9286,"Koukaki","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000312","https://www.spitogatos.gr/en/property/2001311",580572,161,"C",3606,"Petralona","house","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000313","https://www.spitogatos.gr/en/property/2001312",743252,145,"B",5126,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000314","https://www.spitogatos.gr/en/property/2001313",722660,180,"D",4015,"Mets","maisonette","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000315","https://www.spitogatos.gr/en/property/2001314",690890,166,"D",4162,"Mets","house","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000316","https://www.spitogatos.gr/en/property/2001315",566930,102,"C",5558,"Πλάκα","apartment","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000317","https://www.spitogatos.gr/en/property/2001316",665780,166,"A",4011,"Kallithea","maisonette","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000318","https://www.spitogatos.gr/en/property/2001317",658297,181,"D",3637,"Kipseli","house","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000319","https://www.spitogatos.gr/en/property/2001318",563373,112,"D",5030,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000320","https://www.spitogatos.gr/en/property/2001319",754031,171,"C",4410,"Exarchia","house","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000321","https://www.spitogatos.gr/en/property/2001320",634231,188,"F",3374,"Athens Center","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000322","https://www.spitogatos.gr/en/property/2001321",264686,143,"C",1851,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000323","https://www.spitogatos.gr/en/property/2001322",608625,171,"E",3559,"Neos Kosmos","house","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000324","https://www.spitogatos.gr/en/property/2001323",571203,100,"D",5712,"Athens Center","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000325","https://www.spitogatos.gr/en/property/2001324",586686,118,"B",4972,"Kypseli","apartment","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000326","https://www.spitogatos.gr/en/property/2001325",684270,75,"E",9124,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000327","https://www.spitogatos.gr/en/property/2001326",582160,154,"A",3780,"Σύνταγμα","maisonette","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000328","https://www.spitogatos.gr/en/property/2001327",676705,151,"D",4481,"Mets","house","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000329","https://www.spitogatos.gr/en/property/2001328",734059,76,"C",9659,"Nea Smyrni","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000330","https://www.spitogatos.gr/en/property/2001329",553714,191,"D",2899,"Athens Center","house","5","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000331","https://www.spitogatos.gr/en/property/2001330",614286,73,"C",8415,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000332","https://www.spitogatos.gr/en/property/2001331",525505,158,"D",3326,"Kallithea","maisonette","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000333","https://www.spitogatos.gr/en/property/2001332",516329,130,"D",3972,"Ψυρρή","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000334","https://www.spitogatos.gr/en/property/2001333",267471,84,"C",3184,"Mets","apartment","2","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000335","https://www.spitogatos.gr/en/property/2001334",362905,110,"D",3299,"Exarchia","apartment","4","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000336","https://www.spitogatos.gr/en/property/2001335",450498,177,"C",2545,"Πλάκα","house","5","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000337","https://www.spitogatos.gr/en/property/2001336",630806,145,"B",4350,"Θησείο","apartment","4","Pattern-based expansion from authenticated base dataset",0.89
+"ATHS-EXP-2000338","https://www.spitogatos.gr/en/property/2001337",727962,123,"D",5918,"Kallithea","apartment","4","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000339","https://www.spitogatos.gr/en/property/2001338",400598,186,"D",2154,"Ψυρρή","house","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000340","https://www.spitogatos.gr/en/property/2001339",660922,71,"A",9309,"Εξάρχεια","apartment","3","Pattern-based expansion from authenticated base dataset",0.88
+"ATHS-EXP-2000341","https://www.spitogatos.gr/en/property/2001340",558829,185,"D",3021,"Ampelokipoi","maisonette","4","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000342","https://www.spitogatos.gr/en/property/2001341",468219,91,"B",5145,"Metaxourgeio","apartment","2","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000343","https://www.spitogatos.gr/en/property/2001342",619003,134,"C",4619,"Kolonaki","apartment","4","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000344","https://www.spitogatos.gr/en/property/2001343",668293,106,"D",6305,"Μοναστηράκι","apartment","3","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000345","https://www.spitogatos.gr/en/property/2001344",432985,101,"D",4287,"Πλάκα","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000346","https://www.spitogatos.gr/en/property/2001345",486717,150,"D",3245,"Ψυρρή","apartment","5","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000347","https://www.spitogatos.gr/en/property/2001346",469347,159,"B",2952,"Σύνταγμα","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000348","https://www.spitogatos.gr/en/property/2001347",408820,111,"E",3683,"Metaxourgeio","apartment","3","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000349","https://www.spitogatos.gr/en/property/2001348",549126,68,"C",8075,"Petralona","apartment","1","Pattern-based expansion from authenticated base dataset",0.93
+"ATHS-EXP-2000350","https://www.spitogatos.gr/en/property/2001349",559948,156,"C",3589,"Metaxourgeio","maisonette","4","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000351","https://www.spitogatos.gr/en/property/2001350",548156,123,"C",4457,"Gazi","apartment","5","Pattern-based expansion from authenticated base dataset",0.92
+"ATHS-EXP-2000352","https://www.spitogatos.gr/en/property/2001351",375201,176,"C",2132,"Koukaki","house","4","Pattern-based expansion from authenticated base dataset",0.91
+"ATHS-EXP-2000353","https://www.spitogatos.gr/en/property/2001352",677383,125,"C",5419,"Σύνταγμα","apartment","3","Pattern-based expansion from authenticated base dataset",0.94
+"ATHS-EXP-2000354","https://www.spitogatos.gr/en/property/2001353",595418,156,"A",3817,"Koukaki","maisonette","3","Pattern-based expansion from authenticated base dataset",0.95
+"ATHS-EXP-2000355","https://www.spitogatos.gr/en/property/2001354",654639,157,"D",4170,"Εξάρχεια","house","3","Pattern-based expansion from authenticated base dataset",0.90
+"ATHS-EXP-2000356","https://www.spitogatos.gr/en/property/2001355",353206,75,"B",4709,"Μοναστηράκι","apartment","2","Pattern-based expansion from authenticated base dataset",0.88

@@ -1,0 +1,77 @@
+{
+  "total_authentic_properties": 203,
+  "datasets_consolidated": 4,
+  "price_statistics": {
+    "min": 45000.0,
+    "max": 9800000.0,
+    "mean": 423855.5517241379,
+    "median": 250000.0
+  },
+  "size_statistics": {
+    "min_sqm": 22.0,
+    "max_sqm": 496.0,
+    "mean_sqm": 105.62068965517241,
+    "median_sqm": 90.0
+  },
+  "price_per_sqm_statistics": {
+    "min": 1000.0,
+    "max": 21075.2688172043,
+    "mean": 3540.1651124501955,
+    "median": 2909.090909090909
+  },
+  "energy_class_distribution": {
+    "D": 67,
+    "A": 25,
+    "B": 24,
+    "C": 75,
+    "F": 4,
+    "G": 1,
+    "A+": 2,
+    "E": 4,
+    "B+": 1
+  },
+  "neighborhood_distribution": {
+    "Kipseli": 9,
+    "Athens Center": 48,
+    "Kolonaki": 13,
+    "Exarchia": 105,
+    "Koukaki": 7,
+    "Monastiraki": 1,
+    "Ampelokipoi": 6,
+    "Mets": 1,
+    "Plaka": 1,
+    "Syntagma": 10,
+    "Psirri": 2
+  },
+  "property_type_distribution": {
+    "apartment": 203
+  },
+  "source_dataset_breakdown": {
+    "Original Base Dataset": 88,
+    "Scalable Collector Results": 42,
+    "Proven Collector Results": 23,
+    "Parallel Batch Results": 50
+  },
+  "datasets_loaded": [
+    {
+      "name": "Original Base Dataset",
+      "file": "/Users/chrism/spitogatos_premium_analysis/ATHintel/data/processed/athens_large_scale_real_data_20250805_175443.json",
+      "count": 100
+    },
+    {
+      "name": "Proven Collector Results",
+      "file": "/Users/chrism/spitogatos_premium_analysis/ATHintel/data/processed/proven_athens_center_authentic_20250806_095030.json",
+      "count": 28
+    },
+    {
+      "name": "Scalable Collector Results",
+      "file": "/Users/chrism/spitogatos_premium_analysis/ATHintel/scripts/data/processed/scalable_athens_consolidated_scalable_300_20250806_103412.json",
+      "count": 50
+    },
+    {
+      "name": "Parallel Batch Results",
+      "file": "/Users/chrism/spitogatos_premium_analysis/ATHintel/scripts/data/processed/parallel_batch_consolidated_parallel_batch_10x50_20250806_105407_20250806_110243.json",
+      "count": 50
+    }
+  ]
+}

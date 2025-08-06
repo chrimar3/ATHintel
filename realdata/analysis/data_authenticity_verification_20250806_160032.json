@@ -1,0 +1,754 @@
+{
+  "report_metadata": {
+    "verification_timestamp": "20250806_160032",
+    "total_files_analyzed": 13,
+    "total_properties_claimed": 987,
+    "total_properties_found": 2587,
+    "discrepancy": -1600
+  },
+  "authenticity_assessment": {
+    "overall_verdict": "MIXED AUTHENTICITY",
+    "authenticity_percentage": 61.1905682257441,
+    "authentic_property_count": 1583,
+    "verdict_confidence": "Medium"
+  },
+  "file_analysis": {
+    "high_authenticity_files": [
+      [
+        "proven_athens_center_authentic_20250806_095030.json",
+        1.0
+      ],
+      [
+        "athens_comprehensive_consolidated_authenticated_20250806_114015.json",
+        1.0
+      ],
+      [
+        "athens_large_scale_real_data_20250805_175443.json",
+        1.0
+      ],
+      [
+        "athens_center_blocks_analysis_20250805_120606.json",
+        1.0
+      ],
+      [
+        "athens_1000_properties_expanded_20250806_012407.json",
+        0.9000000000000001
+      ],
+      [
+        "athens_complete_real_data_20250805_173722.json",
+        1.0
+      ]
+    ],
+    "medium_authenticity_files": [
+      [
+        "spitogatos_working_athens_20250805_172250.json",
+        0.6000000000000001
+      ]
+    ],
+    "low_authenticity_files": [
+      [
+        "spitogatos_working_athens_20250805_172415.json",
+        0.4
+      ]
+    ],
+    "suspicious_files": [
+      [
+        "athens_1000_expansion_stats_20250806_012407.json",
+        0.0
+      ],
+      [
+        "athens_comprehensive_statistics_20250806_114015.json",
+        0.0
+      ],
+      [
+        "enhanced_deployment_report_20250806_135910.json",
+        0.0
+      ],
+      [
+        "enhanced_investment_analysis_20250806_135910.json",
+        0.0
+      ],
+      [
+        "comprehensive_real_data_analysis_20250806_142308.json",
+        0.0
+      ]
+    ]
+  },
+  "detailed_findings": {
+    "files_analysis": {
+      "spitogatos_working_athens_20250805_172250.json": {
+        "file_name": "spitogatos_working_athens_20250805_172250.json",
+        "file_size_mb": 0.0014667510986328125,
+        "property_count": 2,
+        "data_structure": "list",
+        "authenticity_score": 0.6000000000000001,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 2/2",
+          "Extraction timestamps present: 2 properties",
+          "Unique HTML source hashes: 2 properties"
+        ],
+        "synthetic_patterns": [
+          "Too many round prices: 2/2 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 67m² Kolonaki - Lykavittos, Kolon",
+            "price": 350000.0,
+            "sqm": 67.0,
+            "url": "https://www.spitogatos.gr/en/property/1117890847",
+            "neighborhood": "Homes for sale"
+          },
+          {
+            "title": "Sale, Apartment, 165m² Ilisia, Hilton | 16349256 |",
+            "price": 1390000.0,
+            "sqm": 165.0,
+            "url": "https://www.spitogatos.gr/en/property/1116349256",
+            "neighborhood": "Homes for sale"
+          }
+        ]
+      },
+      "proven_athens_center_authentic_20250806_095030.json": {
+        "file_name": "proven_athens_center_authentic_20250806_095030.json",
+        "file_size_mb": 0.018670082092285156,
+        "property_count": 28,
+        "data_structure": "list",
+        "authenticity_score": 1.0,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 28/28",
+          "Realistic price variation (CV: 1.12)",
+          "Greek neighborhoods: 28 properties",
+          "Realistic property sizes (median: 98m²)",
+          "Unique property IDs: 28 properties",
+          "Extraction timestamps present: 28 properties",
+          "Unique HTML source hashes: 28 properties"
+        ],
+        "synthetic_patterns": [
+          "Too many round prices: 16/28 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 62m² Gizi - Pedion Areos, Lofos F",
+            "price": 120000.0,
+            "sqm": 62.0,
+            "url": "https://www.spitogatos.gr/en/property/1117980770",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 110m² Kipseli, Ano Kipseli - Evel",
+            "price": 280000.0,
+            "sqm": 110.0,
+            "url": "https://www.spitogatos.gr/en/property/1117855978",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 111m² Ampelokipoi - Pentagon, Eli",
+            "price": 275000.0,
+            "sqm": 111.0,
+            "url": "https://www.spitogatos.gr/en/property/1116729276",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 69m² Attiki, Platia Attikis | 174",
+            "price": 120000.0,
+            "sqm": 69.0,
+            "url": "https://www.spitogatos.gr/en/property/1117483426",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Maisonette, 300m² Historic Center, Plaka | 1",
+            "price": 2000000.0,
+            "sqm": 300.0,
+            "url": "https://www.spitogatos.gr/en/property/1117002630",
+            "neighborhood": "Monastiraki"
+          },
+          {
+            "title": "Sale, Apartment, 70m² Pagkrati, Alsos Pagkratiou |",
+            "price": 265000.0,
+            "sqm": 70.0,
+            "url": "https://www.spitogatos.gr/en/property/1117822604",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 111m² Kipseli, Ano Kipseli - Evel",
+            "price": 350000.0,
+            "sqm": 111.0,
+            "url": "https://www.spitogatos.gr/en/property/1117299465",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 120m² Athens - Center, Pagkrati |",
+            "price": 135000.0,
+            "sqm": 120.0,
+            "url": "https://www.spitogatos.gr/en/property/1118028443",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 84m² Pagkrati, Varnava | 17914488",
+            "price": 300000.0,
+            "sqm": 84.0,
+            "url": "https://www.spitogatos.gr/en/property/1117914488",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 57m² Kolonaki - Lykavittos, Kolon",
+            "price": 500000.0,
+            "sqm": 57.0,
+            "url": "https://www.spitogatos.gr/en/property/1117136794",
+            "neighborhood": "Exarchia"
+          }
+        ]
+      },
+      "athens_comprehensive_consolidated_authenticated_20250806_114015.json": {
+        "file_name": "athens_comprehensive_consolidated_authenticated_20250806_114015.json",
+        "file_size_mb": 0.17644119262695312,
+        "property_count": 203,
+        "data_structure": "list",
+        "authenticity_score": 1.0,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 203/203",
+          "Realistic price variation (CV: 1.78)",
+          "Greek neighborhoods: 132 properties",
+          "Realistic property sizes (median: 90m²)",
+          "Unique property IDs: 203 properties",
+          "Extraction timestamps present: 203 properties",
+          "Unique HTML source hashes: 203 properties"
+        ],
+        "synthetic_patterns": [
+          "Too many round prices: 120/203 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 38m² Athens - Center, Kipseli | 1",
+            "price": 70000.0,
+            "sqm": 38.0,
+            "url": "https://www.spitogatos.gr/en/property/1117828519",
+            "neighborhood": "Kipseli"
+          },
+          {
+            "title": "Sale, Apartment, 98m² Athens - Center, Gizi - Pedi",
+            "price": 377000.0,
+            "sqm": 98.0,
+            "url": "https://www.spitogatos.gr/en/property/1117931915",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 340m² Kolonaki - Lykavittos, Kolo",
+            "price": 1850000.0,
+            "sqm": 340.0,
+            "url": "https://www.spitogatos.gr/en/property/1117053990",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 102m² Neos Kosmos, Center | 17246",
+            "price": 295000.0,
+            "sqm": 102.0,
+            "url": "https://www.spitogatos.gr/en/property/1117246803",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 150m² Kolonaki - Lykavittos, Kolo",
+            "price": 950000.0,
+            "sqm": 150.0,
+            "url": "https://www.spitogatos.gr/en/property/1118047438",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 56m² Athens - Center, Historic Ce",
+            "price": 395000.0,
+            "sqm": 56.0,
+            "url": "https://www.spitogatos.gr/en/property/1117303634",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 62m² Pagkrati, Pagkrati Center | ",
+            "price": 140000.0,
+            "sqm": 62.0,
+            "url": "https://www.spitogatos.gr/en/property/1117482555",
+            "neighborhood": "Exarchia"
+          },
+          {
+            "title": "Sale, Apartment, 68m² Gazi - Metaxourgio - Votanik",
+            "price": 265000.0,
+            "sqm": 68.0,
+            "url": "https://www.spitogatos.gr/en/property/1117131266",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 50m² Koukaki - Makrygianni, Kouka",
+            "price": 175000.0,
+            "sqm": 50.0,
+            "url": "https://www.spitogatos.gr/en/property/1117349380",
+            "neighborhood": "Koukaki"
+          },
+          {
+            "title": "Sale, Apartment, 78m² Athens - Center, Attiki | 17",
+            "price": 120000.0,
+            "sqm": 78.0,
+            "url": "https://www.spitogatos.gr/en/property/1117952031",
+            "neighborhood": "Athens Center"
+          }
+        ]
+      },
+      "athens_large_scale_real_data_20250805_175443.json": {
+        "file_name": "athens_large_scale_real_data_20250805_175443.json",
+        "file_size_mb": 0.06712818145751953,
+        "property_count": 100,
+        "data_structure": "list",
+        "authenticity_score": 1.0,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 100/100",
+          "Realistic price variation (CV: 2.02)",
+          "Greek neighborhoods: 19 properties",
+          "Realistic property sizes (median: 90m²)",
+          "Unique property IDs: 100 properties",
+          "Extraction timestamps present: 100 properties",
+          "Unique HTML source hashes: 100 properties"
+        ],
+        "synthetic_patterns": [
+          "Too many round prices: 57/100 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 38m² Athens - Center, Kipseli | 1",
+            "price": 70000.0,
+            "sqm": 38.0,
+            "url": "https://www.spitogatos.gr/en/property/1117828519",
+            "neighborhood": "Kipseli"
+          },
+          {
+            "title": "Sale, Apartment, 98m² Athens - Center, Gizi - Pedi",
+            "price": 377000.0,
+            "sqm": 98.0,
+            "url": "https://www.spitogatos.gr/en/property/1117931915",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 340m² Kolonaki - Lykavittos, Kolo",
+            "price": 1850000.0,
+            "sqm": 340.0,
+            "url": "https://www.spitogatos.gr/en/property/1117053990",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 102m² Neos Kosmos, Center | 17246",
+            "price": 295000.0,
+            "sqm": 102.0,
+            "url": "https://www.spitogatos.gr/en/property/1117246803",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 150m² Kolonaki - Lykavittos, Kolo",
+            "price": 950000.0,
+            "sqm": 150.0,
+            "url": "https://www.spitogatos.gr/en/property/1118047438",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 56m² Athens - Center, Historic Ce",
+            "price": 395000.0,
+            "sqm": 56.0,
+            "url": "https://www.spitogatos.gr/en/property/1117303634",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 62m² Pagkrati, Pagkrati Center | ",
+            "price": 140000.0,
+            "sqm": 62.0,
+            "url": "https://www.spitogatos.gr/en/property/1117482555",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 68m² Gazi - Metaxourgio - Votanik",
+            "price": 265000.0,
+            "sqm": 68.0,
+            "url": "https://www.spitogatos.gr/en/property/1117131266",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 50m² Koukaki - Makrygianni, Kouka",
+            "price": 175000.0,
+            "sqm": 50.0,
+            "url": "https://www.spitogatos.gr/en/property/1117349380",
+            "neighborhood": "Koukaki"
+          },
+          {
+            "title": "Sale, Apartment, 78m² Athens - Center, Attiki | 17",
+            "price": 120000.0,
+            "sqm": 78.0,
+            "url": "https://www.spitogatos.gr/en/property/1117952031",
+            "neighborhood": "Athens Center"
+          }
+        ]
+      },
+      "athens_1000_expansion_stats_20250806_012407.json": {
+        "file_name": "athens_1000_expansion_stats_20250806_012407.json",
+        "file_size_mb": 0.0011434555053710938,
+        "property_count": 1000,
+        "data_structure": "metadata_only",
+        "authenticity_score": 0.0,
+        "authenticity_indicators": [],
+        "synthetic_patterns": [],
+        "sample_properties": []
+      },
+      "athens_center_blocks_analysis_20250805_120606.json": {
+        "file_name": "athens_center_blocks_analysis_20250805_120606.json",
+        "file_size_mb": 0.1465473175048828,
+        "property_count": 220,
+        "data_structure": "object_with_properties",
+        "authenticity_score": 1.0,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 220/220",
+          "Realistic price variation (CV: 0.43)",
+          "Greek neighborhoods: 160 properties",
+          "Realistic property sizes (median: 104m²)",
+          "Unique property IDs: 220 properties"
+        ],
+        "synthetic_patterns": [],
+        "sample_properties": [
+          {
+            "title": "N/A",
+            "price": 390000,
+            "sqm": 75,
+            "url": "https://spitogatos.gr/property/syn-001-0",
+            "neighborhood": "Syntagma Square East"
+          },
+          {
+            "title": "N/A",
+            "price": 312000,
+            "sqm": 75,
+            "url": "https://spitogatos.gr/property/pla-001-0",
+            "neighborhood": "Plaka Central"
+          },
+          {
+            "title": "N/A",
+            "price": 420810,
+            "sqm": 78,
+            "url": "https://spitogatos.gr/property/syn-001-1",
+            "neighborhood": "Syntagma Square East"
+          },
+          {
+            "title": "N/A",
+            "price": 336648,
+            "sqm": 78,
+            "url": "https://spitogatos.gr/property/pla-001-1",
+            "neighborhood": "Plaka Central"
+          },
+          {
+            "title": "N/A",
+            "price": 348000,
+            "sqm": 75,
+            "url": "https://spitogatos.gr/property/syn-002-0",
+            "neighborhood": "Syntagma Square West"
+          },
+          {
+            "title": "N/A",
+            "price": 270000,
+            "sqm": 75,
+            "url": "https://spitogatos.gr/property/mon-001-0",
+            "neighborhood": "Monastiraki Square"
+          },
+          {
+            "title": "N/A",
+            "price": 288000,
+            "sqm": 75,
+            "url": "https://spitogatos.gr/property/pla-002-0",
+            "neighborhood": "Plaka North"
+          },
+          {
+            "title": "N/A",
+            "price": 452790,
+            "sqm": 81,
+            "url": "https://spitogatos.gr/property/syn-001-2",
+            "neighborhood": "Syntagma Square East"
+          },
+          {
+            "title": "N/A",
+            "price": 362232,
+            "sqm": 81,
+            "url": "https://spitogatos.gr/property/pla-001-2",
+            "neighborhood": "Plaka Central"
+          },
+          {
+            "title": "N/A",
+            "price": 630240,
+            "sqm": 96,
+            "url": "https://spitogatos.gr/property/syn-001-7",
+            "neighborhood": "Syntagma Square East"
+          }
+        ]
+      },
+      "athens_1000_properties_expanded_20250806_012407.json": {
+        "file_name": "athens_1000_properties_expanded_20250806_012407.json",
+        "file_size_mb": 0.7539997100830078,
+        "property_count": 1000,
+        "data_structure": "list",
+        "authenticity_score": 0.9000000000000001,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 1000/1000",
+          "Realistic price variation (CV: 0.69)",
+          "Greek neighborhoods: 58 properties",
+          "Realistic property sizes (median: 130m²)",
+          "Extraction timestamps present: 1000 properties",
+          "Unique HTML source hashes: 1000 properties"
+        ],
+        "synthetic_patterns": [
+          "Duplicate URLs detected: 356 duplicates"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 38m² Athens - Center, Kipseli | 1",
+            "price": 70000.0,
+            "sqm": 38.0,
+            "url": "https://www.spitogatos.gr/en/property/1117828519",
+            "neighborhood": "Kipseli"
+          },
+          {
+            "title": "Sale, Apartment, 98m² Athens - Center, Gizi - Pedi",
+            "price": 377000.0,
+            "sqm": 98.0,
+            "url": "https://www.spitogatos.gr/en/property/1117931915",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 340m² Kolonaki - Lykavittos, Kolo",
+            "price": 1850000.0,
+            "sqm": 340.0,
+            "url": "https://www.spitogatos.gr/en/property/1117053990",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 102m² Neos Kosmos, Center | 17246",
+            "price": 295000.0,
+            "sqm": 102.0,
+            "url": "https://www.spitogatos.gr/en/property/1117246803",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 150m² Kolonaki - Lykavittos, Kolo",
+            "price": 950000.0,
+            "sqm": 150.0,
+            "url": "https://www.spitogatos.gr/en/property/1118047438",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 56m² Athens - Center, Historic Ce",
+            "price": 395000.0,
+            "sqm": 56.0,
+            "url": "https://www.spitogatos.gr/en/property/1117303634",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 62m² Pagkrati, Pagkrati Center | ",
+            "price": 140000.0,
+            "sqm": 62.0,
+            "url": "https://www.spitogatos.gr/en/property/1117482555",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 68m² Gazi - Metaxourgio - Votanik",
+            "price": 265000.0,
+            "sqm": 68.0,
+            "url": "https://www.spitogatos.gr/en/property/1117131266",
+            "neighborhood": "Athens Center"
+          },
+          {
+            "title": "Sale, Apartment, 50m² Koukaki - Makrygianni, Kouka",
+            "price": 175000.0,
+            "sqm": 50.0,
+            "url": "https://www.spitogatos.gr/en/property/1117349380",
+            "neighborhood": "Koukaki"
+          },
+          {
+            "title": "Sale, Apartment, 78m² Athens - Center, Attiki | 17",
+            "price": 120000.0,
+            "sqm": 78.0,
+            "url": "https://www.spitogatos.gr/en/property/1117952031",
+            "neighborhood": "Athens Center"
+          }
+        ]
+      },
+      "athens_complete_real_data_20250805_173722.json": {
+        "file_name": "athens_complete_real_data_20250805_173722.json",
+        "file_size_mb": 0.020318031311035156,
+        "property_count": 30,
+        "data_structure": "list",
+        "authenticity_score": 1.0,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 30/30",
+          "Realistic price variation (CV: 0.84)",
+          "Greek neighborhoods: 30 properties",
+          "Realistic property sizes (median: 90m²)",
+          "Unique property IDs: 30 properties",
+          "Extraction timestamps present: 30 properties",
+          "Unique HTML source hashes: 30 properties"
+        ],
+        "synthetic_patterns": [
+          "Too many round prices: 14/30 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 67m² Pagkrati, Profitis Ilias | 1",
+            "price": 84000.0,
+            "sqm": 67.0,
+            "url": "https://www.spitogatos.gr/en/property/1117933932",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 132m² Exarchia - Neapoli, Mouseio",
+            "price": 437000.0,
+            "sqm": 132.0,
+            "url": "https://www.spitogatos.gr/en/property/1117366343",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 80m² Petralona, Ano Petralona | 1",
+            "price": 210000.0,
+            "sqm": 80.0,
+            "url": "https://www.spitogatos.gr/en/property/1116699355",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 116m² Athens - Center, Ampelokipo",
+            "price": 250000.0,
+            "sqm": 116.0,
+            "url": "https://www.spitogatos.gr/en/property/1117188887",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 56m² Kipseli, Ano Kipseli - Evelp",
+            "price": 78000.0,
+            "sqm": 56.0,
+            "url": "https://www.spitogatos.gr/en/property/1117926586",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Studio, 30m² Gizi - Pedion Areos, Gkyzi - Ar",
+            "price": 72000.0,
+            "sqm": 30.0,
+            "url": "https://www.spitogatos.gr/en/property/1117333068",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 329m² Historic Center, Plaka | 17",
+            "price": 1085700.0,
+            "sqm": 329.0,
+            "url": "https://www.spitogatos.gr/en/property/1117768248",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 81m² Kipseli, Ano Kipseli - Evelp",
+            "price": 230000.0,
+            "sqm": 81.0,
+            "url": "https://www.spitogatos.gr/en/property/1117299409",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 50m² Ampelokipoi - Pentagon, Erit",
+            "price": 165000.0,
+            "sqm": 50.0,
+            "url": "https://www.spitogatos.gr/en/property/1118047730",
+            "neighborhood": "Kolonaki"
+          },
+          {
+            "title": "Sale, Apartment, 100m² Pagkrati, Pagkrati Center |",
+            "price": 380000.0,
+            "sqm": 100.0,
+            "url": "https://www.spitogatos.gr/en/property/1117533786",
+            "neighborhood": "Kolonaki"
+          }
+        ]
+      },
+      "spitogatos_working_athens_20250805_172415.json": {
+        "file_name": "spitogatos_working_athens_20250805_172415.json",
+        "file_size_mb": 0.002948760986328125,
+        "property_count": 4,
+        "data_structure": "list",
+        "authenticity_score": 0.4,
+        "authenticity_indicators": [
+          "Authentic Spitogatos URLs: 4/4",
+          "Extraction timestamps present: 4 properties",
+          "Unique HTML source hashes: 4 properties"
+        ],
+        "synthetic_patterns": [
+          "Synthetic price patterns: 2/4 properties",
+          "Too many round prices: 4/4 properties"
+        ],
+        "sample_properties": [
+          {
+            "title": "Sale, Apartment, 56m² Exarchia - Neapoli, Exarchei",
+            "price": 250000.0,
+            "sqm": 56.0,
+            "url": "https://www.spitogatos.gr/en/property/1117901845",
+            "neighborhood": "Homes for sale"
+          },
+          {
+            "title": "Sale, Apartment, 50m² Kolonaki - Lykavittos, Kolon",
+            "price": 500000.0,
+            "sqm": 50.0,
+            "url": "https://www.spitogatos.gr/en/property/1118047512",
+            "neighborhood": "Homes for sale"
+          },
+          {
+            "title": "Sale, Apartment, 94m² Patision - Acharnon, Plateia",
+            "price": 180000.0,
+            "sqm": 94.0,
+            "url": "https://www.spitogatos.gr/en/property/1117816840",
+            "neighborhood": "Homes for sale"
+          },
+          {
+            "title": "Sale, Apartment, 131m² Mets - Kalimarmaro, Mets | ",
+            "price": 330000.0,
+            "sqm": 131.0,
+            "url": "https://www.spitogatos.gr/en/property/1117480346",
+            "neighborhood": "Homes for sale"
+          }
+        ]
+      },
+      "athens_comprehensive_statistics_20250806_114015.json": {
+        "file_name": "athens_comprehensive_statistics_20250806_114015.json",
+        "file_size_mb": 0.001934051513671875,
+        "property_count": 0,
+        "data_structure": "unknown",
+        "authenticity_score": 0.0,
+        "authenticity_indicators": [],
+        "synthetic_patterns": [],
+        "sample_properties": []
+      },
+      "enhanced_deployment_report_20250806_135910.json": {
+        "file_name": "enhanced_deployment_report_20250806_135910.json",
+        "file_size_mb": 0.0022373199462890625,
+        "property_count": 0,
+        "data_structure": "unknown",
+        "authenticity_score": 0.0,
+        "authenticity_indicators": [],
+        "synthetic_patterns": [],
+        "sample_properties": []
+      },
+      "enhanced_investment_analysis_20250806_135910.json": {
+        "file_name": "enhanced_investment_analysis_20250806_135910.json",
+        "file_size_mb": 0.0008258819580078125,
+        "property_count": 0,
+        "data_structure": "unknown",
+        "authenticity_score": 0.0,
+        "authenticity_indicators": [],
+        "synthetic_patterns": [],
+        "sample_properties": []
+      },
+      "comprehensive_real_data_analysis_20250806_142308.json": {
+        "file_name": "comprehensive_real_data_analysis_20250806_142308.json",
+        "file_size_mb": 0.13481998443603516,
+        "property_count": 0,
+        "data_structure": "unknown",
+        "authenticity_score": 0.0,
+        "authenticity_indicators": [],
+        "synthetic_patterns": [],
+        "sample_properties": []
+      }
+    }
+  },
+  "recommendations": [
+    "⚠️ Mixed authenticity - proceed with caution",
+    "🧹 Data cleaning and validation recommended",
+    "🔍 Review suspicious files: athens_1000_expansion_stats_20250806_012407.json, athens_comprehensive_statistics_20250806_114015.json, enhanced_deployment_report_20250806_135910.json, enhanced_investment_analysis_20250806_135910.json, comprehensive_real_data_analysis_20250806_142308.json"
+  ]
+}
