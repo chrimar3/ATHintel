@@ -1,0 +1,74 @@
+{
+  "report_metadata": {
+    "analysis_timestamp": "20250806_161052",
+    "report_type": "Executive Investment Analysis - 100% Authentic Properties",
+    "total_properties_analyzed": 75,
+    "data_authenticity": "100% verified Spitogatos.gr properties"
+  },
+  "executive_summary": {
+    "key_findings": [
+      "Analyzed 75 100% authentic Athens properties",
+      "Total market value: €27,573,256",
+      "Average ROI projection: 9.2%",
+      "Top 5 opportunities represent €713,000 investment potential"
+    ],
+    "investment_highlights": [
+      "Best opportunity: Sale, Apartment, 91m² Athens - Center, Patision - ... (Value Score: 0.82)",
+      "1 exceptional investment opportunities",
+      "Price range: €65,000 - €1,390,000",
+      "Average property size: 102m²"
+    ]
+  },
+  "market_analysis": {
+    "analysis_timestamp": "20250806_161052",
+    "price_analysis": {
+      "total_properties": 75,
+      "price_statistics": {
+        "min": 65000.0,
+        "max": 1390000.0,
+        "mean": 367643.41333333333,
+        "median": 260000.0,
+        "std": 316685.4761299469,
+        "q1": 160000.0,
+        "q3": 440000.0
+      },
+      "price_ranges": {
+        "budget": 31,
+        "mid_range": 28,
+        "premium": 11,
+        "luxury": 5
+      }
+    },
+    "size_analysis": {
+      "sqm_statistics": {
+        "min": 21.0,
+        "max": 390.0,
+        "mean": 102.14666666666666,
+        "median": 90.0,
+        "std": 64.17726576788264
+      },
+      "size_categories": {
+        "compact": 10,
+        "standard": 37,
+        "spacious": 18,
+        "large": 10
+      }
+    },
+    "psqm_analysis": {
+      "psqm_statistics": {
+        "min": 1043.956043956044,
+        "max": 9836.065573770491,
+        "mean": 3500.072720460693,
+        "median": 3076.923076923077,
+        "std": 1925.647848922497
+      },
+      "market_efficiency": {
+        "undervalued_count": 19,
+        "fairly_valued_count": 38,
+        "overvalued_count": 18
+      }
+    },
+    "neighborhood_analysis": {
+      "total_neighborhoods": 5,
+      "neighborhood_statistics": {
+        
