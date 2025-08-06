@@ -1,6 +1,13 @@
-# 🏛️ RealData - 100% Authentic Athens Properties
+# 🏆 RealData - Professional Investment Intelligence
 
-**This folder contains ONLY verified, authentic real estate data from Athens, Greece.**
+**⭐⭐⭐ 100% AUTHENTIC ATHENS REAL ESTATE INVESTMENT ANALYSIS ⭐⭐⭐**
+
+[![Authentic Properties](https://img.shields.io/badge/Properties-75%20Verified-brightgreen?style=for-the-badge&logo=home)](./datasets/)
+[![Portfolio Value](https://img.shields.io/badge/Portfolio-€27.6M-gold?style=for-the-badge&logo=chart-line)](./investment_reports/)
+[![Investment Analysis](https://img.shields.io/badge/Analysis-Enterprise%20Grade-blue?style=for-the-badge&logo=analytics)](./analysis/)
+[![ROI Projections](https://img.shields.io/badge/ROI-6.5%25--8.5%25-success?style=for-the-badge&logo=trending-up)](./investment_reports/Enterprise_Investment_Analysis_Report.md)
+
+**This folder contains ONLY verified, authentic real estate data from Athens, Greece with complete professional investment analysis.**
 
 ## 🎯 Data Authenticity Guarantee
 
