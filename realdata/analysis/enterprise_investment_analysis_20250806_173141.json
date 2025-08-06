@@ -1,0 +1,33 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-08-06T17:31:41.176495",
+    "analyzer_version": "2.0.0",
+    "data_source": "realdata/datasets/authentic_properties_only_20250806_160825.json",
+    "total_properties": 75,
+    "analysis_completeness": "comprehensive"
+  },
+  "market_overview": {
+    "total_properties_analyzed": 75,
+    "total_market_value": 27573256.0,
+    "average_price": 367643.41333333333,
+    "average_price_per_sqm": 3500.072720460693,
+    "price_range": {
+      "min": 65000.0,
+      "max": 1390000.0
+    },
+    "size_range": {
+      "min": 21.0,
+      "max": 390.0,
+      "average": 102.14666666666666
+    }
+  },
+  "data_quality": {
+    "completeness": {
+      "energy_class_available": 94.66666666666667,
+      "rooms_available": 94.66666666666667,
+      "floor_available": 5.333333333333334,
+      "price_sqm_complete": 100.0,
+      "location_data_complete": 100.0
+    },
+    "missing_data": {
+      "energy_class": 
