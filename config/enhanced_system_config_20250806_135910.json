@@ -1,0 +1,45 @@
+{
+  "deployment_info": {
+    "timestamp": "20250806_135910",
+    "version": "ATHintel_Enhanced_2025",
+    "integration_status": {
+      "crawlee_python": "v0.6.0+",
+      "playwright": "v1.54.0+",
+      "ai_extraction": "Firecrawl + Crawl4AI",
+      "anti_detection": "Advanced fingerprint evasion",
+      "architecture": "Hexagonal with adapter pattern"
+    }
+  },
+  "scraping_configuration": {
+    "adaptive_rendering": {
+      "http_client": "httpx with enhanced headers",
+      "browser_automation": "Playwright with stealth",
+      "intelligent_switching": "Success rate based",
+      "fingerprint_evasion": "Multi-vector approach"
+    },
+    "success_optimization": {
+      "proven_id_ranges": "From successful 203 properties",
+      "batch_processing": "Optimized concurrent workers",
+      "rate_limiting": "Adaptive based on detection risk",
+      "error_recovery": "Intelligent retry with exponential backoff"
+    },
+    "data_validation": {
+      "authenticity_checks": "Enhanced synthetic pattern detection",
+      "market_validation": "2025 Athens real estate ranges",
+      "confidence_scoring": "AI-enhanced reliability metrics"
+    }
+  },
+  "performance_targets": {
+    "current_success_rate": "0%",
+    "projected_success_rate_with_crawlee": "15-25%",
+    "scaling_capacity_improvement": "50x (203 -> 10,000+)",
+    "response_time_improvement": "15x faster",
+    "detection_evasion_improvement": "52.93% success vs DataDome"
+  },
+  "monitoring": {
+    "success_rates": "Real-time tracking per method",
+    "detection_scores": "Continuous risk assessment",
+    "response_times": "Performance optimization metrics",
+    "data_quality": "Authenticity validation tracking"
+  }
+}
