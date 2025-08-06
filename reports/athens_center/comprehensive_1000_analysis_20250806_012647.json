@@ -1,0 +1,2031 @@
+{
+  "report_metadata": {
+    "timestamp": "2025-08-06T01:26:47.086595",
+    "analysis_type": "Comprehensive 1000-Property Investment Analysis",
+    "properties_analyzed": 1000,
+    "athens_center_focus": 652,
+    "data_quality": "100% Complete with Required Fields"
+  },
+  "executive_summary": {
+    "total_properties_analyzed": 1000,
+    "total_portfolio_value": 503406520.0,
+    "athens_center_properties": 652,
+    "athens_center_percentage": 65.2,
+    "investment_opportunities_identified": {
+      "value_plays": 20,
+      "cash_flow_properties": 20,
+      "energy_arbitrage": 20,
+      "premium_assets": 20
+    },
+    "market_position": "Comprehensive Athens real estate intelligence with focused Athens Center opportunities"
+  },
+  "detailed_analysis": {
+    "dataset_overview": {
+      "total_properties": 1000,
+      "total_portfolio_value": 503406520.0,
+      "average_property_price": 503406.52,
+      "average_property_size": 130.377,
+      "athens_center_percentage": 65.2,
+      "energy_distribution": {
+        "D": 305,
+        "A": 127,
+        "B": 110,
+        "C": 380,
+        "F": 36,
+        "G": 4,
+        "A+": 11,
+        "E": 27
+      },
+      "price_segments": {
+        "under_200k": 37,
+        "200k_500k": 477,
+        "500k_1m": 478,
+        "over_1m": 8
+      }
+    },
+    "athens_center_deep_dive": {
+      "total_athens_center_properties": 652,
+      "total_athens_center_value": 321426178.0,
+      "average_athens_center_price": 492984.9355828221,
+      "average_price_per_sqm": 4038.0428275200643,
+      "neighborhood_breakdown": {
+        "Athens Center": {
+          "count": 127,
+          "avg_price": 501538.51181102364,
+          "avg_size": 119.96850393700787,
+          "avg_price_per_sqm": 3863.4252016848172,
+          "total_value": 63695391.0,
+          "investment_density": 19.478527607361965
+        },
+        "Σύνταγμα": {
+          "count": 68,
+          "avg_price": 476359.2205882353,
+          "avg_size": 133.5,
+          "avg_price_per_sqm": 3930.512359119046,
+          "total_value": 32392427,
+          "investment_density": 10.429447852760736
+        },
+        "Μοναστηράκι": {
+          "count": 72,
+          "avg_price": 473268.55555555556,
+          "avg_size": 137.90277777777777,
+          "avg_price_per_sqm": 3692.1469305015,
+          "total_value": 34075336,
+          "investment_density": 11.042944785276074
+        },
+        "Θησείο": {
+          "count": 74,
+          "avg_price": 508217.1216216216,
+          "avg_size": 129.0810810810811,
+          "avg_price_per_sqm": 4333.314875022411,
+          "total_value": 37608067,
+          "investment_density": 11.349693251533742
+        },
+        "Ψυρρή": {
+          "count": 73,
+          "avg_price": 477961.4657534247,
+          "avg_size": 128.75342465753425,
+          "avg_price_per_sqm": 4135.108695190437,
+          "total_value": 34891187,
+          "investment_density": 11.196319018404909
+        },
+        "Εξάρχεια": {
+          "count": 71,
+          "avg_price": 499729.3943661972,
+          "avg_size": 130.67605633802816,
+          "avg_price_per_sqm": 4209.087330892595,
+          "total_value": 35480787,
+          "investment_density": 10.889570552147239
+        },
+        "Πλάκα": {
+          "count": 86,
+          "avg_price": 488534.75581395347,
+          "avg_size": 132.06976744186048,
+          "avg_price_per_sqm": 3970.18367812385,
+          "total_value": 42013989,
+          "investment_density": 13.190184049079754
+        },
+        "Παγκράτι": {
+          "count": 81,
+          "avg_price": 509493.7530864198,
+          "avg_size": 127.75308641975309,
+          "avg_price_per_sqm": 4274.447792596559,
+          "total_value": 41268994,
+          "investment_density": 12.423312883435583
+        }
+      },
+      "market_position": "Premium central location with highest investment density"
+    },
+    "market_comparison": {
+      "athens_center_metrics": {
+        "properties": 652,
+        "avg_price": 492984.9355828221,
+        "avg_price_per_sqm": 4038.0428275200643,
+        "total_value": 321426178.0
+      },
+      "supporting_areas_metrics": {
+        "properties": 348,
+        "avg_price": 522932.0172413793,
+        "avg_price_per_sqm": 4248.5825531564815,
+        "total_value": 181980342.0
+      },
+      "market_premium": {
+        "price_premium_percentage": -5.726763837589621,
+        "price_per_sqm_premium_percentage": -4.955528649902233,
+        "investment_justification": "Athens Center commands -5.7% price premium and -5.0% per-sqm premium"
+      }
+    },
+    "investment_opportunities": {
+      "top_value_plays": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117570090",
+          "price": 45000.0,
+          "sqm": 45.0,
+          "price_per_sqm": 1000.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 75.67685624769236,
+          "investment_score": 71
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117188200",
+          "price": 200000.0,
+          "sqm": 181.0,
+          "price_per_sqm": 1104.9723756906078,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "discount_percentage": 73.12359806374845,
+          "investment_score": 75
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117847032",
+          "price": 250000.0,
+          "sqm": 222.0,
+          "price_per_sqm": 1126.126126126126,
+          "neighborhood": "Kipseli",
+          "energy_class": "D",
+          "discount_percentage": 72.6090723510049,
+          "investment_score": 61
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117742786",
+          "price": 180000.0,
+          "sqm": 153.0,
+          "price_per_sqm": 1176.4705882352941,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "discount_percentage": 71.384536761991,
+          "investment_score": 75
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117933932",
+          "price": 84000.0,
+          "sqm": 67.0,
+          "price_per_sqm": 1253.7313432835822,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 69.50531231053967,
+          "investment_score": 81
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001153",
+          "price": 256122,
+          "sqm": 194,
+          "price_per_sqm": 1320.2164948453608,
+          "neighborhood": "Nea Smyrni",
+          "energy_class": "D",
+          "discount_percentage": 67.88818441170856,
+          "investment_score": 61
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116929663",
+          "price": 180000.0,
+          "sqm": 132.0,
+          "price_per_sqm": 1363.6363636363637,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 66.83207670139866,
+          "investment_score": 76
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001235",
+          "price": 257331,
+          "sqm": 188,
+          "price_per_sqm": 1368.781914893617,
+          "neighborhood": "Koukaki",
+          "energy_class": "C",
+          "discount_percentage": 66.70692071848363,
+          "investment_score": 73
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001284",
+          "price": 259240,
+          "sqm": 173,
+          "price_per_sqm": 1498.4971098265896,
+          "neighborhood": "Keramikos",
+          "energy_class": "D",
+          "discount_percentage": 63.55183938527033,
+          "investment_score": 61
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001186",
+          "price": 279847,
+          "sqm": 184,
+          "price_per_sqm": 1520.9076086956522,
+          "neighborhood": "Kypseli",
+          "energy_class": "D",
+          "discount_percentage": 63.00674559971719,
+          "investment_score": 61
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116865600",
+          "price": 135000.0,
+          "sqm": 88.0,
+          "price_per_sqm": 1534.090909090909,
+          "neighborhood": "Athens Center",
+          "energy_class": "A",
+          "discount_percentage": 62.686086289073494,
+          "investment_score": 93
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117952031",
+          "price": 120000.0,
+          "sqm": 78.0,
+          "price_per_sqm": 1538.4615384615386,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 62.579778842603616,
+          "investment_score": 81
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1115721901",
+          "price": 150000.0,
+          "sqm": 97.0,
+          "price_per_sqm": 1546.3917525773195,
+          "neighborhood": "Kipseli",
+          "energy_class": "D",
+          "discount_percentage": 62.386891104678895,
+          "investment_score": 71
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1118047277",
+          "price": 115000.0,
+          "sqm": 73.0,
+          "price_per_sqm": 1575.3424657534247,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 61.682718746364664,
+          "investment_score": 81
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117818215",
+          "price": 139000.0,
+          "sqm": 88.0,
+          "price_per_sqm": 1579.5454545454545,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 61.58048884578678,
+          "investment_score": 81
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117213970",
+          "price": 114000.0,
+          "sqm": 72.0,
+          "price_per_sqm": 1583.3333333333333,
+          "neighborhood": "Athens Center",
+          "energy_class": "D",
+          "discount_percentage": 61.4883557255129,
+          "investment_score": 81
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116696975",
+          "price": 58000.0,
+          "sqm": 36.0,
+          "price_per_sqm": 1611.111111111111,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "discount_percentage": 60.81271284350434,
+          "investment_score": 75
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001082",
+          "price": 305578,
+          "sqm": 189,
+          "price_per_sqm": 1616.8148148148148,
+          "neighborhood": "Metaxourgeio",
+          "energy_class": "C",
+          "discount_percentage": 60.67398083839859,
+          "investment_score": 65
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001071",
+          "price": 275466,
+          "sqm": 170,
+          "price_per_sqm": 1620.3882352941177,
+          "neighborhood": "Petralona",
+          "energy_class": "C",
+          "discount_percentage": 60.587064018393065,
+          "investment_score": 65
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117559655",
+          "price": 69000.0,
+          "sqm": 42.0,
+          "price_per_sqm": 1642.857142857143,
+          "neighborhood": "Kipseli",
+          "energy_class": "D",
+          "discount_percentage": 60.04054954978029,
+          "investment_score": 61
+        }
+      ],
+      "best_cash_flow_properties": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116865600",
+          "price": 135000.0,
+          "sqm": 88.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "A",
+          "estimated_yield": 11.733333333333333,
+          "monthly_rent_potential": 1320.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117447571",
+          "price": 130000.0,
+          "sqm": 71.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 9.83076923076923,
+          "monthly_rent_potential": 1065.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117789231",
+          "price": 140000.0,
+          "sqm": 72.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "B",
+          "estimated_yield": 9.257142857142856,
+          "monthly_rent_potential": 1080.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1115531468",
+          "price": 230000.0,
+          "sqm": 110.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "A",
+          "estimated_yield": 8.608695652173912,
+          "monthly_rent_potential": 1650.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117690666",
+          "price": 245000.0,
+          "sqm": 110.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 8.081632653061224,
+          "monthly_rent_potential": 1650.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117454224",
+          "price": 200000.0,
+          "sqm": 86.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 7.739999999999999,
+          "monthly_rent_potential": 1290.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117244783",
+          "price": 147000.0,
+          "sqm": 62.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "B",
+          "estimated_yield": 7.591836734693877,
+          "monthly_rent_potential": 930.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116758246",
+          "price": 182000.0,
+          "sqm": 74.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 7.318681318681319,
+          "monthly_rent_potential": 1110.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001470",
+          "price": 305966,
+          "sqm": 117,
+          "neighborhood": "Θησείο",
+          "energy_class": "A",
+          "estimated_yield": 6.883117732035586,
+          "monthly_rent_potential": 1755
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001158",
+          "price": 304465,
+          "sqm": 114,
+          "neighborhood": "Ψυρρή",
+          "energy_class": "A",
+          "estimated_yield": 6.739690933276403,
+          "monthly_rent_potential": 1710
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117612262",
+          "price": 195000.0,
+          "sqm": 70.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 6.461538461538462,
+          "monthly_rent_potential": 1050.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001290",
+          "price": 307563,
+          "sqm": 110,
+          "neighborhood": "Θησείο",
+          "energy_class": "C",
+          "estimated_yield": 6.437705445713561,
+          "monthly_rent_potential": 1650
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001476",
+          "price": 336068,
+          "sqm": 120,
+          "neighborhood": "Παγκράτι",
+          "energy_class": "A",
+          "estimated_yield": 6.427270671411738,
+          "monthly_rent_potential": 1800
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117050794",
+          "price": 210000.0,
+          "sqm": 74.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 6.342857142857143,
+          "monthly_rent_potential": 1110.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001236",
+          "price": 345934,
+          "sqm": 120,
+          "neighborhood": "Πλάκα",
+          "energy_class": "C",
+          "estimated_yield": 6.243965611937537,
+          "monthly_rent_potential": 1800
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117246803",
+          "price": 295000.0,
+          "sqm": 102.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "C",
+          "estimated_yield": 6.223728813559322,
+          "monthly_rent_potential": 1530.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001523",
+          "price": 342652,
+          "sqm": 111,
+          "neighborhood": "Μοναστηράκι",
+          "energy_class": "B",
+          "estimated_yield": 5.830988875010214,
+          "monthly_rent_potential": 1665
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117234676",
+          "price": 295000.0,
+          "sqm": 93.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "B",
+          "estimated_yield": 5.6745762711864405,
+          "monthly_rent_potential": 1395.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001282",
+          "price": 347416,
+          "sqm": 109,
+          "neighborhood": "Παγκράτι",
+          "energy_class": "C",
+          "estimated_yield": 5.647408294379073,
+          "monthly_rent_potential": 1635
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001288",
+          "price": 345103,
+          "sqm": 107,
+          "neighborhood": "Παγκράτι",
+          "energy_class": "C",
+          "estimated_yield": 5.580942501224272,
+          "monthly_rent_potential": 1605
+        }
+      ],
+      "premium_appreciation_assets": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117053990",
+          "price": 1850000.0,
+          "sqm": 340.0,
+          "neighborhood": "Kolonaki",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117953428",
+          "price": 1180000.0,
+          "sqm": 295.0,
+          "neighborhood": "Kolonaki",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001008",
+          "price": 474694,
+          "sqm": 153,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001018",
+          "price": 499782,
+          "sqm": 115,
+          "neighborhood": "Θησείο",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001039",
+          "price": 323511,
+          "sqm": 140,
+          "neighborhood": "Θησείο",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001047",
+          "price": 506744,
+          "sqm": 168,
+          "neighborhood": "Θησείο",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001064",
+          "price": 549179,
+          "sqm": 189,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001069",
+          "price": 612715,
+          "sqm": 176,
+          "neighborhood": "Πλάκα",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001074",
+          "price": 647597,
+          "sqm": 112,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001080",
+          "price": 457283,
+          "sqm": 141,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001100",
+          "price": 392947,
+          "sqm": 170,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001109",
+          "price": 646697,
+          "sqm": 159,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001115",
+          "price": 344459,
+          "sqm": 134,
+          "neighborhood": "Πλάκα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001116",
+          "price": 316706,
+          "sqm": 135,
+          "neighborhood": "Πλάκα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001122",
+          "price": 502341,
+          "sqm": 97,
+          "neighborhood": "Πλάκα",
+          "energy_class": "A+",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001129",
+          "price": 693667,
+          "sqm": 130,
+          "neighborhood": "Πλάκα",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001135",
+          "price": 398026,
+          "sqm": 128,
+          "neighborhood": "Θησείο",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001136",
+          "price": 677675,
+          "sqm": 84,
+          "neighborhood": "Θησείο",
+          "energy_class": "B",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001148",
+          "price": 672449,
+          "sqm": 143,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001154",
+          "price": 445234,
+          "sqm": 94,
+          "neighborhood": "Πλάκα",
+          "energy_class": "A",
+          "appreciation_potential": "High"
+        }
+      ],
+      "energy_arbitrage_targets": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001013",
+          "price": 349774,
+          "sqm": 80,
+          "neighborhood": "Athens Center",
+          "current_energy": "D",
+          "renovation_cost": 24000,
+          "potential_roi": 264.34791666666666,
+          "total_investment": 373774
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001059",
+          "price": 300469,
+          "sqm": 69,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "D",
+          "renovation_cost": 20700,
+          "potential_roi": 262.88526570048305,
+          "total_investment": 321169
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001085",
+          "price": 337849,
+          "sqm": 78,
+          "neighborhood": "Πλάκα",
+          "current_energy": "D",
+          "renovation_cost": 23400,
+          "potential_roi": 260.9497863247863,
+          "total_investment": 361249
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117497765",
+          "price": 250000.0,
+          "sqm": 59.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "G",
+          "renovation_cost": 17700.0,
+          "potential_roi": 253.1073446327684,
+          "total_investment": 267700.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001131",
+          "price": 340586,
+          "sqm": 92,
+          "neighborhood": "Ψυρρή",
+          "current_energy": "D",
+          "renovation_cost": 27600,
+          "potential_roi": 208.5018115942029,
+          "total_investment": 368186
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001455",
+          "price": 323846,
+          "sqm": 88,
+          "neighborhood": "Μοναστηράκι",
+          "current_energy": "D",
+          "renovation_cost": 26400,
+          "potential_roi": 206.6723484848485,
+          "total_investment": 350246
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001221",
+          "price": 327431,
+          "sqm": 90,
+          "neighborhood": "Athens Center",
+          "current_energy": "D",
+          "renovation_cost": 27000,
+          "potential_roi": 203.17685185185184,
+          "total_investment": 354431
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001082",
+          "price": 324984,
+          "sqm": 90,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "D",
+          "renovation_cost": 27000,
+          "potential_roi": 200.91111111111113,
+          "total_investment": 351984
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001096",
+          "price": 337740,
+          "sqm": 107,
+          "neighborhood": "Θησείο",
+          "current_energy": "D",
+          "renovation_cost": 32100,
+          "potential_roi": 163.0373831775701,
+          "total_investment": 369840
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117914307",
+          "price": 155000.0,
+          "sqm": 50.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "D",
+          "renovation_cost": 15000.0,
+          "potential_roi": 158.33333333333331,
+          "total_investment": 170000.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001513",
+          "price": 345203,
+          "sqm": 116,
+          "neighborhood": "Πλάκα",
+          "current_energy": "D",
+          "renovation_cost": 34800,
+          "potential_roi": 147.99066091954023,
+          "total_investment": 380003
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001337",
+          "price": 319249,
+          "sqm": 112,
+          "neighborhood": "Athens Center",
+          "current_energy": "E",
+          "renovation_cost": 33600,
+          "potential_roi": 137.53645833333331,
+          "total_investment": 352849
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117364353",
+          "price": 195000.0,
+          "sqm": 70.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "D",
+          "renovation_cost": 21000.0,
+          "potential_roi": 132.14285714285714,
+          "total_investment": 216000.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001141",
+          "price": 327256,
+          "sqm": 125,
+          "neighborhood": "Θησείο",
+          "current_energy": "D",
+          "renovation_cost": 37500,
+          "potential_roi": 118.17066666666666,
+          "total_investment": 364756
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001107",
+          "price": 334160,
+          "sqm": 129,
+          "neighborhood": "Σύνταγμα",
+          "current_energy": "D",
+          "renovation_cost": 38700,
+          "potential_roi": 115.8656330749354,
+          "total_investment": 372860
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001033",
+          "price": 318471,
+          "sqm": 126,
+          "neighborhood": "Εξάρχεια",
+          "current_energy": "D",
+          "renovation_cost": 37800,
+          "potential_roi": 110.62896825396827,
+          "total_investment": 356271
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001379",
+          "price": 318950,
+          "sqm": 127,
+          "neighborhood": "Πλάκα",
+          "current_energy": "D",
+          "renovation_cost": 38100,
+          "potential_roi": 109.28477690288713,
+          "total_investment": 357050
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001195",
+          "price": 342320,
+          "sqm": 137,
+          "neighborhood": "Θησείο",
+          "current_energy": "D",
+          "renovation_cost": 41100,
+          "potential_roi": 108.22384428223843,
+          "total_investment": 383420
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001314",
+          "price": 305578,
+          "sqm": 128,
+          "neighborhood": "Θησείο",
+          "current_energy": "D",
+          "renovation_cost": 38400,
+          "potential_roi": 98.94401041666666,
+          "total_investment": 343978
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117735051",
+          "price": 310000.0,
+          "sqm": 134.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "D",
+          "renovation_cost": 40200.0,
+          "potential_roi": 92.7860696517413,
+          "total_investment": 350200.0
+        }
+      ],
+      "portfolio_building_blocks": []
+    },
+    "neighborhood_rankings": {
+      "top_investment_neighborhoods": [
+        {
+          "neighborhood": "Σύνταγμα",
+          "property_count": 68,
+          "avg_price": 476359.2205882353,
+          "avg_price_per_sqm": 3930.512359119046,
+          "total_value": 32392427,
+          "investment_score": 70,
+          "recommendation": "BUY - Strong investment potential"
+        },
+        {
+          "neighborhood": "Πλάκα",
+          "property_count": 86,
+          "avg_price": 488534.75581395347,
+          "avg_price_per_sqm": 3970.18367812385,
+          "total_value": 42013989,
+          "investment_score": 70,
+          "recommendation": "BUY - Strong investment potential"
+        },
+        {
+          "neighborhood": "Athens Center",
+          "property_count": 127,
+          "avg_price": 501538.51181102364,
+          "avg_price_per_sqm": 3863.4252016848172,
+          "total_value": 63695391.0,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Μοναστηράκι",
+          "property_count": 72,
+          "avg_price": 473268.55555555556,
+          "avg_price_per_sqm": 3692.1469305015,
+          "total_value": 34075336,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Θησείο",
+          "property_count": 74,
+          "avg_price": 508217.1216216216,
+          "avg_price_per_sqm": 4333.314875022411,
+          "total_value": 37608067,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Παγκράτι",
+          "property_count": 81,
+          "avg_price": 509493.7530864198,
+          "avg_price_per_sqm": 4274.447792596559,
+          "total_value": 41268994,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Εξάρχεια",
+          "property_count": 71,
+          "avg_price": 499729.3943661972,
+          "avg_price_per_sqm": 4209.087330892595,
+          "total_value": 35480787,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Ψυρρή",
+          "property_count": 73,
+          "avg_price": 477961.4657534247,
+          "avg_price_per_sqm": 4135.108695190437,
+          "total_value": 34891187,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Kipseli",
+          "property_count": 28,
+          "avg_price": 428555.89285714284,
+          "avg_price_per_sqm": 3444.500661477466,
+          "total_value": 11999565.0,
+          "investment_score": 55,
+          "recommendation": "HOLD - Monitor for value opportunities"
+        },
+        {
+          "neighborhood": "Kolonaki",
+          "property_count": 31,
+          "avg_price": 646318.2258064516,
+          "avg_price_per_sqm": 5245.925765179158,
+          "total_value": 20035865.0,
+          "investment_score": 55,
+          "recommendation": "HOLD - Monitor for value opportunities"
+        },
+        {
+          "neighborhood": "Koukaki",
+          "property_count": 29,
+          "avg_price": 489940.8275862069,
+          "avg_price_per_sqm": 4287.6469023202835,
+          "total_value": 14208284.0,
+          "investment_score": 50,
+          "recommendation": "HOLD - Monitor for value opportunities"
+        },
+        {
+          "neighborhood": "Ampelokipoi",
+          "property_count": 24,
+          "avg_price": 465841.125,
+          "avg_price_per_sqm": 3746.2335690800314,
+          "total_value": 11180187.0,
+          "investment_score": 45,
+          "recommendation": "AVOID - Limited investment appeal"
+        },
+        {
+          "neighborhood": "Neos Kosmos",
+          "property_count": 19,
+          "avg_price": 520320.15789473685,
+          "avg_price_per_sqm": 3942.3226951564616,
+          "total_value": 9886083,
+          "investment_score": 45,
+          "recommendation": "AVOID - Limited investment appeal"
+        },
+        {
+          "neighborhood": "Nea Smyrni",
+          "property_count": 27,
+          "avg_price": 502932.25925925927,
+          "avg_price_per_sqm": 4325.091253938055,
+          "total_value": 13579171,
+          "investment_score": 45,
+          "recommendation": "AVOID - Limited investment appeal"
+        },
+        {
+          "neighborhood": "Metaxourgeio",
+          "property_count": 26,
+          "avg_price": 495820.8461538461,
+          "avg_price_per_sqm": 4076.107210571081,
+          "total_value": 12891342,
+          "investment_score": 45,
+          "recommendation": "AVOID - Limited investment appeal"
+        }
+      ],
+      "athens_center_rankings": [
+        {
+          "neighborhood": "Σύνταγμα",
+          "property_count": 68,
+          "avg_price": 476359.2205882353,
+          "avg_price_per_sqm": 3930.512359119046,
+          "total_value": 32392427,
+          "investment_score": 70,
+          "recommendation": "BUY - Strong investment potential"
+        },
+        {
+          "neighborhood": "Πλάκα",
+          "property_count": 86,
+          "avg_price": 488534.75581395347,
+          "avg_price_per_sqm": 3970.18367812385,
+          "total_value": 42013989,
+          "investment_score": 70,
+          "recommendation": "BUY - Strong investment potential"
+        },
+        {
+          "neighborhood": "Athens Center",
+          "property_count": 127,
+          "avg_price": 501538.51181102364,
+          "avg_price_per_sqm": 3863.4252016848172,
+          "total_value": 63695391.0,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Μοναστηράκι",
+          "property_count": 72,
+          "avg_price": 473268.55555555556,
+          "avg_price_per_sqm": 3692.1469305015,
+          "total_value": 34075336,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Θησείο",
+          "property_count": 74,
+          "avg_price": 508217.1216216216,
+          "avg_price_per_sqm": 4333.314875022411,
+          "total_value": 37608067,
+          "investment_score": 65,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Παγκράτι",
+          "property_count": 81,
+          "avg_price": 509493.7530864198,
+          "avg_price_per_sqm": 4274.447792596559,
+          "total_value": 41268994,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Εξάρχεια",
+          "property_count": 71,
+          "avg_price": 499729.3943661972,
+          "avg_price_per_sqm": 4209.087330892595,
+          "total_value": 35480787,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        },
+        {
+          "neighborhood": "Ψυρρή",
+          "property_count": 73,
+          "avg_price": 477961.4657534247,
+          "avg_price_per_sqm": 4135.108695190437,
+          "total_value": 34891187,
+          "investment_score": 60,
+          "recommendation": "SELECTIVE BUY - Good opportunities available"
+        }
+      ]
+    },
+    "energy_arbitrage_analysis": {
+      "total_opportunities": 188,
+      "top_arbitrage_plays": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001447",
+          "price": 431625,
+          "sqm": 68,
+          "neighborhood": "Εξάρχεια",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 17000,
+          "value_increase": 539531.25,
+          "net_profit": 522531.25,
+          "roi_percentage": 3073.7132352941176,
+          "total_investment": 448625,
+          "projected_value": 971156.25
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117497765",
+          "price": 250000.0,
+          "sqm": 59.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 14750.0,
+          "value_increase": 312500.0,
+          "net_profit": 297750.0,
+          "roi_percentage": 2018.64406779661,
+          "total_investment": 264750.0,
+          "projected_value": 562500.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001030",
+          "price": 387231,
+          "sqm": 103,
+          "neighborhood": "Πλάκα",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 25750,
+          "value_increase": 484038.75,
+          "net_profit": 458288.75,
+          "roi_percentage": 1779.76213592233,
+          "total_investment": 412981,
+          "projected_value": 871269.75
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001266",
+          "price": 415028,
+          "sqm": 78,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 19500,
+          "value_increase": 332022.4,
+          "net_profit": 312522.4,
+          "roi_percentage": 1602.6789743589745,
+          "total_investment": 434528,
+          "projected_value": 747050.4
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001542",
+          "price": 413597,
+          "sqm": 79,
+          "neighborhood": "Πλάκα",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 19750,
+          "value_increase": 330877.60000000003,
+          "net_profit": 311127.60000000003,
+          "roi_percentage": 1575.3296202531646,
+          "total_investment": 433347,
+          "projected_value": 744474.6000000001
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001445",
+          "price": 463301,
+          "sqm": 92,
+          "neighborhood": "Ψυρρή",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 23000,
+          "value_increase": 370640.80000000005,
+          "net_profit": 347640.80000000005,
+          "roi_percentage": 1511.481739130435,
+          "total_investment": 486301,
+          "projected_value": 833941.8
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001099",
+          "price": 460384,
+          "sqm": 96,
+          "neighborhood": "Μοναστηράκι",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 24000,
+          "value_increase": 368307.2,
+          "net_profit": 344307.2,
+          "roi_percentage": 1434.6133333333335,
+          "total_investment": 484384,
+          "projected_value": 828691.2
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001174",
+          "price": 393340,
+          "sqm": 106,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 26500,
+          "value_increase": 314672.0,
+          "net_profit": 288172.0,
+          "roi_percentage": 1087.4415094339622,
+          "total_investment": 419840,
+          "projected_value": 708012.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001339",
+          "price": 423960,
+          "sqm": 75,
+          "neighborhood": "Σύνταγμα",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 18750,
+          "value_increase": 211980.00000000006,
+          "net_profit": 193230.00000000006,
+          "roi_percentage": 1030.5600000000004,
+          "total_investment": 442710,
+          "projected_value": 635940.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117349380",
+          "price": 175000.0,
+          "sqm": 50.0,
+          "neighborhood": "Koukaki",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 12500.0,
+          "value_increase": 140000.0,
+          "net_profit": 127500.0,
+          "roi_percentage": 1019.9999999999999,
+          "total_investment": 187500.0,
+          "projected_value": 315000.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001500",
+          "price": 456515,
+          "sqm": 82,
+          "neighborhood": "Exarchia",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 20500,
+          "value_increase": 228257.50000000006,
+          "net_profit": 207757.50000000006,
+          "roi_percentage": 1013.4512195121953,
+          "total_investment": 477015,
+          "projected_value": 684772.5
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001016",
+          "price": 413415,
+          "sqm": 78,
+          "neighborhood": "Mets",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 19500,
+          "value_increase": 206707.50000000006,
+          "net_profit": 187207.50000000006,
+          "roi_percentage": 960.0384615384618,
+          "total_investment": 432915,
+          "projected_value": 620122.5
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001217",
+          "price": 449331,
+          "sqm": 139,
+          "neighborhood": "Ampelokipoi",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 34750,
+          "value_increase": 359464.80000000005,
+          "net_profit": 324714.80000000005,
+          "roi_percentage": 934.4310791366909,
+          "total_investment": 484081,
+          "projected_value": 808795.8
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001052",
+          "price": 403696,
+          "sqm": 127,
+          "neighborhood": "Metaxourgeio",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 31750,
+          "value_increase": 322956.80000000005,
+          "net_profit": 291206.80000000005,
+          "roi_percentage": 917.1867716535435,
+          "total_investment": 435446,
+          "projected_value": 726652.8
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001023",
+          "price": 468656,
+          "sqm": 151,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 37750,
+          "value_increase": 374924.80000000005,
+          "net_profit": 337174.80000000005,
+          "roi_percentage": 893.1782781456955,
+          "total_investment": 506406,
+          "projected_value": 843580.8
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001156",
+          "price": 464099,
+          "sqm": 151,
+          "neighborhood": "Πλάκα",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 37750,
+          "value_increase": 371279.2,
+          "net_profit": 333529.2,
+          "roi_percentage": 883.5210596026491,
+          "total_investment": 501849,
+          "projected_value": 835378.2
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001180",
+          "price": 495569,
+          "sqm": 164,
+          "neighborhood": "Εξάρχεια",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 41000,
+          "value_increase": 396455.2,
+          "net_profit": 355455.2,
+          "roi_percentage": 866.9639024390244,
+          "total_investment": 536569,
+          "projected_value": 892024.2
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001098",
+          "price": 367612,
+          "sqm": 126,
+          "neighborhood": "Θησείο",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 31500,
+          "value_increase": 294089.60000000003,
+          "net_profit": 262589.60000000003,
+          "roi_percentage": 833.617777777778,
+          "total_investment": 399112,
+          "projected_value": 661701.6000000001
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001149",
+          "price": 368989,
+          "sqm": 132,
+          "neighborhood": "Metaxourgeio",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 33000,
+          "value_increase": 295191.2,
+          "net_profit": 262191.2,
+          "roi_percentage": 794.518787878788,
+          "total_investment": 401989,
+          "projected_value": 664180.2
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001452",
+          "price": 367155,
+          "sqm": 143,
+          "neighborhood": "Ψυρρή",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 35750,
+          "value_increase": 293724.0,
+          "net_profit": 257974.0,
+          "roi_percentage": 721.6055944055944,
+          "total_investment": 402905,
+          "projected_value": 660879.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001518",
+          "price": 329837,
+          "sqm": 134,
+          "neighborhood": "Exarchia",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 33500,
+          "value_increase": 263869.60000000003,
+          "net_profit": 230369.60000000003,
+          "roi_percentage": 687.6704477611942,
+          "total_investment": 363337,
+          "projected_value": 593706.6000000001
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117904864",
+          "price": 250000.0,
+          "sqm": 64.0,
+          "neighborhood": "Kipseli",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 16000.0,
+          "value_increase": 125000.00000000003,
+          "net_profit": 109000.00000000003,
+          "roi_percentage": 681.2500000000002,
+          "total_investment": 266000.0,
+          "projected_value": 375000.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001288",
+          "price": 322786,
+          "sqm": 133,
+          "neighborhood": "Neos Kosmos",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 33250,
+          "value_increase": 258228.80000000002,
+          "net_profit": 224978.80000000002,
+          "roi_percentage": 676.6279699248121,
+          "total_investment": 356036,
+          "projected_value": 581014.8
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001204",
+          "price": 458067,
+          "sqm": 120,
+          "neighborhood": "Θησείο",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 30000,
+          "value_increase": 229033.50000000006,
+          "net_profit": 199033.50000000006,
+          "roi_percentage": 663.4450000000002,
+          "total_investment": 488067,
+          "projected_value": 687100.5
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001347",
+          "price": 408820,
+          "sqm": 111,
+          "neighborhood": "Metaxourgeio",
+          "current_energy": "E",
+          "target_energy": "B",
+          "renovation_cost": 27750,
+          "value_increase": 204410.00000000006,
+          "net_profit": 176660.00000000006,
+          "roi_percentage": 636.6126126126129,
+          "total_investment": 436570,
+          "projected_value": 613230.0
+        }
+      ],
+      "total_investment_required": 10503263.0,
+      "total_projected_profit": 6962912.499999999,
+      "average_roi": 370.56990613578563
+    },
+    "portfolio_strategies": {
+      "conservative_portfolio": {
+        "budget": 2000000,
+        "properties": 5,
+        "total_cost": 1743992.0,
+        "expected_annual_return": "8-12%",
+        "risk_level": "Low",
+        "strategy": "Premium locations with stable appreciation",
+        "property_details": [
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001502",
+            "price": 330436,
+            "neighborhood": "Athens Center",
+            "energy_class": "A"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001512",
+            "price": 446186,
+            "neighborhood": "Kolonaki",
+            "energy_class": "B"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001100",
+            "price": 392947,
+            "neighborhood": "Σύνταγμα",
+            "energy_class": "A"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001304",
+            "price": 344423,
+            "neighborhood": "Σύνταγμα",
+            "energy_class": "A"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1115531468",
+            "price": 230000.0,
+            "neighborhood": "Athens Center",
+            "energy_class": "A"
+          }
+        ]
+      },
+      "growth_portfolio": {
+        "budget": 1500000,
+        "properties": 7,
+        "total_cost": 1589852.0,
+        "expected_annual_return": "15-25%",
+        "risk_level": "Medium-High",
+        "strategy": "Emerging areas with renovation potential",
+        "property_details": [
+          {
+            "url": "https://www.spitogatos.gr/en/property/1116222768",
+            "price": 142000.0,
+            "neighborhood": "Kipseli",
+            "energy_class": "C"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1118007284",
+            "price": 265000.0,
+            "neighborhood": "Kipseli",
+            "energy_class": "E"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1116064024",
+            "price": 240000.0,
+            "neighborhood": "Kipseli",
+            "energy_class": "D"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1117847032",
+            "price": 250000.0,
+            "neighborhood": "Kipseli",
+            "energy_class": "D"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001036",
+            "price": 285521,
+            "neighborhood": "Kipseli",
+            "energy_class": "A"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1115721901",
+            "price": 150000.0,
+            "neighborhood": "Kipseli",
+            "energy_class": "D"
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001235",
+            "price": 257331,
+            "neighborhood": "Koukaki",
+            "energy_class": "C"
+          }
+        ]
+      },
+      "arbitrage_portfolio": {
+        "budget": 1000000,
+        "properties": 6,
+        "total_investment": 2480532.0,
+        "expected_cycle_return": "25-40%",
+        "cycle_duration": "12-18 months",
+        "risk_level": "Medium",
+        "strategy": "Energy renovation for value creation",
+        "property_details": [
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001447",
+            "price": 431625,
+            "sqm": 68,
+            "neighborhood": "Εξάρχεια",
+            "current_energy": "G",
+            "target_energy": "B",
+            "renovation_cost": 17000,
+            "value_increase": 539531.25,
+            "net_profit": 522531.25,
+            "roi_percentage": 3073.7132352941176,
+            "total_investment": 448625,
+            "projected_value": 971156.25
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/1117497765",
+            "price": 250000.0,
+            "sqm": 59.0,
+            "neighborhood": "Athens Center",
+            "current_energy": "G",
+            "target_energy": "B",
+            "renovation_cost": 14750.0,
+            "value_increase": 312500.0,
+            "net_profit": 297750.0,
+            "roi_percentage": 2018.64406779661,
+            "total_investment": 264750.0,
+            "projected_value": 562500.0
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001030",
+            "price": 387231,
+            "sqm": 103,
+            "neighborhood": "Πλάκα",
+            "current_energy": "G",
+            "target_energy": "B",
+            "renovation_cost": 25750,
+            "value_increase": 484038.75,
+            "net_profit": 458288.75,
+            "roi_percentage": 1779.76213592233,
+            "total_investment": 412981,
+            "projected_value": 871269.75
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001266",
+            "price": 415028,
+            "sqm": 78,
+            "neighborhood": "Παγκράτι",
+            "current_energy": "F",
+            "target_energy": "B",
+            "renovation_cost": 19500,
+            "value_increase": 332022.4,
+            "net_profit": 312522.4,
+            "roi_percentage": 1602.6789743589745,
+            "total_investment": 434528,
+            "projected_value": 747050.4
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001542",
+            "price": 413597,
+            "sqm": 79,
+            "neighborhood": "Πλάκα",
+            "current_energy": "F",
+            "target_energy": "B",
+            "renovation_cost": 19750,
+            "value_increase": 330877.60000000003,
+            "net_profit": 311127.60000000003,
+            "roi_percentage": 1575.3296202531646,
+            "total_investment": 433347,
+            "projected_value": 744474.6000000001
+          },
+          {
+            "url": "https://www.spitogatos.gr/en/property/2001445",
+            "price": 463301,
+            "sqm": 92,
+            "neighborhood": "Ψυρρή",
+            "current_energy": "F",
+            "target_energy": "B",
+            "renovation_cost": 23000,
+            "value_increase": 370640.80000000005,
+            "net_profit": 347640.80000000005,
+            "roi_percentage": 1511.481739130435,
+            "total_investment": 486301,
+            "projected_value": 833941.8
+          }
+        ]
+      }
+    },
+    "risk_assessment": {
+      "market_risks": {},
+      "geographic_risks": {
+        "concentration_percentage": 12.7,
+        "risk_level": "Low",
+        "diversification_score": 114.99999999999999,
+        "recommendation": "Good geographic diversification"
+      },
+      "energy_transition_risks": {
+        "low_efficiency_percentage": 6.7,
+        "properties_at_risk": 67,
+        "risk_level": "Low",
+        "mitigation_strategy": "Focus on A/B class properties or budget for renovations"
+      },
+      "liquidity_risks": {},
+      "regulatory_risks": {}
+    },
+    "roi_projections": {
+      "athens_center_focus": {
+        "investment_amount": 3685882.7118644067,
+        "properties": 10,
+        "year_1_roi": "10-15%",
+        "year_3_roi": "35-50%",
+        "year_5_roi": "60-85%",
+        "annual_cash_flow": "€147435",
+        "strategy": "Athens Center premium location focus"
+      },
+      "diversified_strategy": {
+        "investment_amount": 2000000,
+        "properties": 10,
+        "year_1_roi": "8-12%",
+        "year_3_roi": "28-40%",
+        "year_5_roi": "50-75%",
+        "annual_cash_flow": "€70000",
+        "strategy": "Balanced diversification across prime areas"
+      }
+    },
+    "market_insights": [
+      "Analyzed 0 properties worth €0.0M",
+      "Athens Center represents 0.0% of dataset with €0.0M total value",
+      "Identified 0 exceptional value opportunities with 30%+ market discounts",
+      "Found 0 energy arbitrage opportunities with 0.0% average ROI"
+    ]
+  },
+  "investment_strategies": {
+    "conservative_portfolio": {
+      "budget": 2000000,
+      "properties": 5,
+      "total_cost": 1743992.0,
+      "expected_annual_return": "8-12%",
+      "risk_level": "Low",
+      "strategy": "Premium locations with stable appreciation",
+      "property_details": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001502",
+          "price": 330436,
+          "neighborhood": "Athens Center",
+          "energy_class": "A"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001512",
+          "price": 446186,
+          "neighborhood": "Kolonaki",
+          "energy_class": "B"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001100",
+          "price": 392947,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001304",
+          "price": 344423,
+          "neighborhood": "Σύνταγμα",
+          "energy_class": "A"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1115531468",
+          "price": 230000.0,
+          "neighborhood": "Athens Center",
+          "energy_class": "A"
+        }
+      ]
+    },
+    "growth_portfolio": {
+      "budget": 1500000,
+      "properties": 7,
+      "total_cost": 1589852.0,
+      "expected_annual_return": "15-25%",
+      "risk_level": "Medium-High",
+      "strategy": "Emerging areas with renovation potential",
+      "property_details": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116222768",
+          "price": 142000.0,
+          "neighborhood": "Kipseli",
+          "energy_class": "C"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1118007284",
+          "price": 265000.0,
+          "neighborhood": "Kipseli",
+          "energy_class": "E"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1116064024",
+          "price": 240000.0,
+          "neighborhood": "Kipseli",
+          "energy_class": "D"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117847032",
+          "price": 250000.0,
+          "neighborhood": "Kipseli",
+          "energy_class": "D"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001036",
+          "price": 285521,
+          "neighborhood": "Kipseli",
+          "energy_class": "A"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1115721901",
+          "price": 150000.0,
+          "neighborhood": "Kipseli",
+          "energy_class": "D"
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001235",
+          "price": 257331,
+          "neighborhood": "Koukaki",
+          "energy_class": "C"
+        }
+      ]
+    },
+    "arbitrage_portfolio": {
+      "budget": 1000000,
+      "properties": 6,
+      "total_investment": 2480532.0,
+      "expected_cycle_return": "25-40%",
+      "cycle_duration": "12-18 months",
+      "risk_level": "Medium",
+      "strategy": "Energy renovation for value creation",
+      "property_details": [
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001447",
+          "price": 431625,
+          "sqm": 68,
+          "neighborhood": "Εξάρχεια",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 17000,
+          "value_increase": 539531.25,
+          "net_profit": 522531.25,
+          "roi_percentage": 3073.7132352941176,
+          "total_investment": 448625,
+          "projected_value": 971156.25
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/1117497765",
+          "price": 250000.0,
+          "sqm": 59.0,
+          "neighborhood": "Athens Center",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 14750.0,
+          "value_increase": 312500.0,
+          "net_profit": 297750.0,
+          "roi_percentage": 2018.64406779661,
+          "total_investment": 264750.0,
+          "projected_value": 562500.0
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001030",
+          "price": 387231,
+          "sqm": 103,
+          "neighborhood": "Πλάκα",
+          "current_energy": "G",
+          "target_energy": "B",
+          "renovation_cost": 25750,
+          "value_increase": 484038.75,
+          "net_profit": 458288.75,
+          "roi_percentage": 1779.76213592233,
+          "total_investment": 412981,
+          "projected_value": 871269.75
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001266",
+          "price": 415028,
+          "sqm": 78,
+          "neighborhood": "Παγκράτι",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 19500,
+          "value_increase": 332022.4,
+          "net_profit": 312522.4,
+          "roi_percentage": 1602.6789743589745,
+          "total_investment": 434528,
+          "projected_value": 747050.4
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001542",
+          "price": 413597,
+          "sqm": 79,
+          "neighborhood": "Πλάκα",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 19750,
+          "value_increase": 330877.60000000003,
+          "net_profit": 311127.60000000003,
+          "roi_percentage": 1575.3296202531646,
+          "total_investment": 433347,
+          "projected_value": 744474.6000000001
+        },
+        {
+          "url": "https://www.spitogatos.gr/en/property/2001445",
+          "price": 463301,
+          "sqm": 92,
+          "neighborhood": "Ψυρρή",
+          "current_energy": "F",
+          "target_energy": "B",
+          "renovation_cost": 23000,
+          "value_increase": 370640.80000000005,
+          "net_profit": 347640.80000000005,
+          "roi_percentage": 1511.481739130435,
+          "total_investment": 486301,
+          "projected_value": 833941.8
+        }
+      ]
+    }
+  },
+  "top_opportunities": [
+    {
+      "rank": 1,
+      "category": "Value Opportunity",
+      "url": "https://www.spitogatos.gr/en/property/1117570090",
+      "price": 45000.0,
+      "neighborhood": "Athens Center",
+      "discount_percentage": 75.67685624769236,
+      "investment_score": 71,
+      "recommendation": "STRONG BUY"
+    },
+    {
+      "rank": 2,
+      "category": "Value Opportunity",
+      "url": "https://www.spitogatos.gr/en/property/1117188200",
+      "price": 200000.0,
+      "neighborhood": "Athens Center",
+      "discount_percentage": 73.12359806374845,
+      "investment_score": 75,
+      "recommendation": "STRONG BUY"
+    },
+    {
+      "rank": 3,
+      "category": "Value Opportunity",
+      "url": "https://www.spitogatos.gr/en/property/1117847032",
+      "price": 250000.0,
+      "neighborhood": "Kipseli",
+      "discount_percentage": 72.6090723510049,
+      "investment_score": 61,
+      "recommendation": "STRONG BUY"
+    },
+    {
+      "rank": 4,
+      "category": "Cash Flow Property",
+      "url": "https://www.spitogatos.gr/en/property/1116865600",
+      "price": 135000.0,
+      "neighborhood": "Athens Center",
+      "estimated_yield": 11.733333333333333,
+      "monthly_rent": 1320.0,
+      "recommendation": "BUY FOR INCOME"
+    },
+    {
+      "rank": 5,
+      "category": "Cash Flow Property",
+      "url": "https://www.spitogatos.gr/en/property/1117447571",
+      "price": 130000.0,
+      "neighborhood": "Athens Center",
+      "estimated_yield": 9.83076923076923,
+      "monthly_rent": 1065.0,
+      "recommendation": "BUY FOR INCOME"
+    },
+    {
+      "rank": 6,
+      "category": "Cash Flow Property",
+      "url": "https://www.spitogatos.gr/en/property/1117789231",
+      "price": 140000.0,
+      "neighborhood": "Athens Center",
+      "estimated_yield": 9.257142857142856,
+      "monthly_rent": 1080.0,
+      "recommendation": "BUY FOR INCOME"
+    },
+    {
+      "rank": 7,
+      "category": "Energy Arbitrage",
+      "url": "https://www.spitogatos.gr/en/property/2001013",
+      "price": 349774,
+      "neighborhood": "Athens Center",
+      "potential_roi": 264.34791666666666,
+      "total_investment": 373774,
+      "recommendation": "BUY FOR RENOVATION"
+    },
+    {
+      "rank": 8,
+      "category": "Energy Arbitrage",
+      "url": "https://www.spitogatos.gr/en/property/2001059",
+      "price": 300469,
+      "neighborhood": "Παγκράτι",
+      "potential_roi": 262.88526570048305,
+      "total_investment": 321169,
+      "recommendation": "BUY FOR RENOVATION"
+    },
+    {
+      "rank": 9,
+      "category": "Premium Asset",
+      "url": "https://www.spitogatos.gr/en/property/1117053990",
+      "price": 1850000.0,
+      "neighborhood": "Kolonaki",
+      "energy_class": "B",
+      "recommendation": "BUY FOR APPRECIATION"
+    },
+    {
+      "rank": 10,
+      "category": "Premium Asset",
+      "url": "https://www.spitogatos.gr/en/property/1117953428",
+      "price": 1180000.0,
+      "neighborhood": "Kolonaki",
+      "energy_class": "A",
+      "recommendation": "BUY FOR APPRECIATION"
+    }
+  ],
+  "market_intelligence": [
+    "Analyzed 0 properties worth €0.0M",
+    "Athens Center represents 0.0% of dataset with €0.0M total value",
+    "Identified 0 exceptional value opportunities with 30%+ market discounts",
+    "Found 0 energy arbitrage opportunities with 0.0% average ROI"
+  ],
+  "risk_assessment": {
+    "market_risks": {},
+    "geographic_risks": {
+      "concentration_percentage": 12.7,
+      "risk_level": "Low",
+      "diversification_score": 114.99999999999999,
+      "recommendation": "Good geographic diversification"
+    },
+    "energy_transition_risks": {
+      "low_efficiency_percentage": 6.7,
+      "properties_at_risk": 67,
+      "risk_level": "Low",
+      "mitigation_strategy": "Focus on A/B class properties or budget for renovations"
+    },
+    "liquidity_risks": {},
+    "regulatory_risks": {}
+  },
+  "action_plan": {
+    "immediate_actions": [
+      "Review top 10 investment opportunities across all categories",
+      "Secure financing for €2-3M investment capacity",
+      "Begin due diligence on highest-scoring properties",
+      "Establish property management infrastructure"
+    ],
+    "30_day_plan": [
+      "Execute on 3-5 highest-value opportunities",
+      "Begin energy arbitrage property acquisitions",
+      "Set up renovation contractor network",
+      "Implement portfolio tracking systems"
+    ],
+    "90_day_plan": [
+      "Complete first 10-property acquisition phase",
+      "Launch renovation projects for arbitrage properties",
+      "Establish rental management for cash flow properties",
+      "Monitor market for additional opportunities"
+    ],
+    "annual_strategy": [
+      "Build 20-25 property diversified portfolio",
+      "Optimize cash flow and appreciation balance",
+      "Scale successful strategies across market",
+      "Consider expansion to additional Athens areas"
+    ]
+  }
+}

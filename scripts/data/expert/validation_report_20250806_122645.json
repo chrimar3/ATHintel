@@ -1,0 +1,77 @@
+{
+  "validation_completed": "2025-08-06T12:26:45.190657",
+  "runtime_seconds": 1.003689,
+  "tests_passed": 6,
+  "total_tests": 6,
+  "success_rate": 100.0,
+  "deployment_ready": true,
+  "test_results": {
+    "token_bucket": {
+      "status": "PASS",
+      "initial_consumption": true,
+      "overconsumption_blocked": true,
+      "refill_working": true,
+      "details": "Token bucket operates correctly"
+    },
+    "exponential_backoff": {
+      "status": "PASS",
+      "delays": [
+        1.207773410362702,
+        2.2072334079171236,
+        4.255971538995094,
+        8.293922427124578,
+        10.120323960617338
+      ],
+      "exponential_growth": true,
+      "max_delay_respected": true,
+      "min_delay_respected": true,
+      "details": "Delays: ['1.21', '2.21', '4.26', '8.29', '10.12']"
+    },
+    "session_management": {
+      "status": "PASS",
+      "initial_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap",
+      "rotation_triggered": true,
+      "user_agent_changed": true,
+      "headers_valid": true,
+      "session_count": 1,
+      "details": "Session management working correctly"
+    },
+    "property_validation": {
+      "status": "PASS",
+      "valid_property_passed": true,
+      "invalid_property_rejected": true,
+      "price_per_sqm_calculated": true,
+      "validation_flags_added": true,
+      "details": "Valid: True, Invalid rejected: True"
+    },
+    "collector_init": {
+      "status": "PASS",
+      "components_initialized": true,
+      "target_properties": 300,
+      "min_success_rate": 15.0,
+      "batch_size": 15,
+      "session_id": "expert_athens_20250806_122645",
+      "details": "Collector initialization complete"
+    },
+    "small_collection": {
+      "status": "PASS",
+      "seeds_loaded": 300,
+      "targets_generated": 448,
+      "seed_sample": [
+        1115028910,
+        1115036040,
+        1115036858,
+        1115038480,
+        1115043250
+      ],
+      "target_sample": [
+        1115028907,
+        1115028908,
+        1115028909,
+        1115028911,
+        1115028912
+      ],
+      "details": "Small collection test: 300 seeds, 448 targets"
+    }
+  }
+}

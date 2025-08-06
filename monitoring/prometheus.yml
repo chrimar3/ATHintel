@@ -1,0 +1,230 @@
+# ATHintel Enterprise Monitoring - Prometheus Configuration
+# Production-ready monitoring with comprehensive metrics collection
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    cluster: 'athintel-production'
+    region: 'eu-central-1'
+
+rule_files:
+  - "rules/*.yml"
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+          - alertmanager:9093
+
+scrape_configs:
+  # Prometheus self-monitoring
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+    scrape_interval: 30s
+    metrics_path: /metrics
+
+  # ATHintel API service
+  - job_name: 'athintel-api'
+    static_configs:
+      - targets: ['api:8000']
+    scrape_interval: 15s
+    metrics_path: /metrics
+    scrape_timeout: 10s
+    honor_labels: true
+    params:
+      format: ['prometheus']
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: api:8000
+
+  # ATHintel Dashboard
+  - job_name: 'athintel-dashboard'
+    static_configs:
+      - targets: ['dashboard:8501']
+    scrape_interval: 30s
+    metrics_path: /metrics
+    honor_labels: true
+
+  # Analytics Workers
+  - job_name: 'athintel-analytics-workers'
+    static_configs:
+      - targets: 
+        - 'analytics-worker-1:9090'
+        - 'analytics-worker-2:9090'
+    scrape_interval: 15s
+    metrics_path: /metrics
+    honor_labels: true
+
+  # Scraper Workers
+  - job_name: 'athintel-scraper-workers'
+    static_configs:
+      - targets:
+        - 'scraper-worker-1:9090'
+        - 'scraper-worker-2:9090'
+        - 'scraper-worker-3:9090'
+    scrape_interval: 15s
+    metrics_path: /metrics
+    honor_labels: true
+
+  # PostgreSQL Database
+  - job_name: 'postgresql'
+    static_configs:
+      - targets: ['postgres-exporter:9187']
+    scrape_interval: 30s
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: instance
+        replacement: 'athintel-postgres'
+
+  # Redis Cache
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['redis-exporter:9121']
+    scrape_interval: 30s
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: instance
+        replacement: 'athintel-redis'
+
+  # Node Exporter (System Metrics)
+  - job_name: 'node-exporter'
+    static_configs:
+      - targets:
+        - 'node-exporter-api:9100'
+        - 'node-exporter-dashboard:9100'
+        - 'node-exporter-worker-1:9100'
+        - 'node-exporter-worker-2:9100'
+    scrape_interval: 30s
+    relabel_configs:
+      - source_labels: [__address__]
+        regex: '(.+):9100'
+        target_label: instance
+        replacement: '${1}'
+
+  # Blackbox Exporter (Endpoint Monitoring)
+  - job_name: 'blackbox-http'
+    metrics_path: /probe
+    params:
+      module: [http_2xx]
+    static_configs:
+      - targets:
+        - http://api:8000/health
+        - http://dashboard:8501/healthz
+        - https://api.athintel.com/health
+        - https://dashboard.athintel.com
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: blackbox-exporter:9115
+
+  # Kubernetes Metrics (if deployed on K8s)
+  - job_name: 'kubernetes-apiservers'
+    kubernetes_sd_configs:
+      - role: endpoints
+        namespaces:
+          names:
+            - default
+            - athintel-production
+    scheme: https
+    tls_config:
+      ca_file: /var/run/secrets/kubernetes.io/serviceaccount/ca.crt
+    bearer_token_file: /var/run/secrets/kubernetes.io/serviceaccount/token
+    relabel_configs:
+      - source_labels: [__meta_kubernetes_namespace, __meta_kubernetes_service_name, __meta_kubernetes_endpoint_port_name]
+        action: keep
+        regex: default;kubernetes;https
+
+  - job_name: 'kubernetes-pods'
+    kubernetes_sd_configs:
+      - role: pod
+        namespaces:
+          names:
+            - athintel-production
+    relabel_configs:
+      - source_labels: [__meta_kubernetes_pod_annotation_prometheus_io_scrape]
+        action: keep
+        regex: true
+      - source_labels: [__meta_kubernetes_pod_annotation_prometheus_io_path]
+        action: replace
+        target_label: __metrics_path__
+        regex: (.+)
+      - source_labels: [__address__, __meta_kubernetes_pod_annotation_prometheus_io_port]
+        action: replace
+        regex: ([^:]+)(?::\d+)?;(\d+)
+        replacement: $1:$2
+        target_label: __address__
+      - action: labelmap
+        regex: __meta_kubernetes_pod_label_(.+)
+      - source_labels: [__meta_kubernetes_namespace]
+        action: replace
+        target_label: kubernetes_namespace
+      - source_labels: [__meta_kubernetes_pod_name]
+        action: replace
+        target_label: kubernetes_pod_name
+
+  # Custom ATHintel Business Metrics
+  - job_name: 'athintel-business-metrics'
+    static_configs:
+      - targets: ['monitoring-worker:9091']
+    scrape_interval: 60s  # Business metrics don't need high frequency
+    metrics_path: /business-metrics
+    honor_labels: true
+    params:
+      format: ['prometheus']
+
+  # Celery Workers (Task Queue Monitoring)
+  - job_name: 'celery-workers'
+    static_configs:
+      - targets: ['flower:5555']
+    scrape_interval: 30s
+    metrics_path: /api/workers
+    metric_relabel_configs:
+      - source_labels: [__name__]
+        regex: 'celery_(.+)'
+        target_label: __name__
+        replacement: 'athintel_celery_${1}'
+
+  # NGINX Load Balancer
+  - job_name: 'nginx'
+    static_configs:
+      - targets: ['nginx-exporter:9113']
+    scrape_interval: 30s
+
+  # Application Performance Monitoring
+  - job_name: 'athintel-apm'
+    static_configs:
+      - targets: ['apm-server:8200']
+    scrape_interval: 30s
+    metrics_path: /stats
+    honor_labels: true
+
+# Remote write configuration for long-term storage
+remote_write:
+  - url: "https://prometheus-remote-write.monitoring.svc.cluster.local/api/v1/write"
+    queue_config:
+      max_samples_per_send: 1000
+      max_shards: 200
+      capacity: 2500
+    remote_timeout: 30s
+    write_relabel_configs:
+      - source_labels: [__name__]
+        regex: 'athintel_(.+)'
+        target_label: __name__
+        replacement: '${1}'
+
+# Storage configuration
+storage:
+  tsdb:
+    retention.time: 30d
+    retention.size: 50GB
+    path: /prometheus
+    wal-compression: true

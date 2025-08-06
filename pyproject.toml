@@ -1,0 +1,156 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "athintel"
+version = "2.0.0"
+description = "Enterprise Athens Real Estate Intelligence Platform with Advanced 2025 Web Scraping"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+    {name = "ATHintel Enterprise Team", email = "enterprise@athintel.com"},
+]
+keywords = [
+    "real-estate", 
+    "athens", 
+    "investment-analysis", 
+    "web-scraping", 
+    "enterprise", 
+    "ai-enhanced"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Financial and Insurance Industry",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial :: Investment",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    # Core Framework Stack
+    "pydantic>=2.5.3",
+    "typer>=0.9.0",
+    "asyncio>=3.4.3",
+    "aiofiles>=23.2.0",
+    
+    # Advanced Web Scraping
+    "crawlee>=0.6.0",
+    "playwright>=1.54.0", 
+    "selenium>=4.16.0",
+    "undetected-chromedriver>=3.5.4",
+    
+    # Data Processing
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "polars>=0.20.0",
+    
+    # Analytics & ML
+    "scikit-learn>=1.4.0",
+    "scipy>=1.12.0",
+    "plotly>=5.18.0",
+    
+    # Database & Storage
+    "sqlalchemy>=2.0.25",
+    "asyncpg>=0.29.0",
+    "redis>=5.0.1",
+    
+    # API & Web Framework
+    "fastapi>=0.108.0",
+    "uvicorn>=0.27.0",
+    
+    # Monitoring
+    "prometheus-client>=0.19.0",
+    "structlog>=24.1.0",
+    "loguru>=0.7.2",
+]
+
+[project.optional-dependencies]
+enterprise = [
+    "streamlit>=1.30.0",
+    "dash>=2.16.0", 
+    "grafana-api>=1.0.3",
+    "kubernetes>=28.1.0",
+    "terraform>=1.7.0",
+]
+
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "pytest-cov>=4.0.0",
+    "black>=24.1.0",
+    "isort>=5.13.2",
+    "mypy>=1.8.0",
+    "pre-commit>=3.6.0",
+]
+
+[project.scripts]
+athintel = "src.cli.main:app"
+athintel-scraper = "src.adapters.scrapers.main:run"
+athintel-analytics = "src.core.analytics.main:run"
+
+[project.urls]
+Homepage = "https://github.com/athintel/enterprise-platform"
+Documentation = "https://docs.athintel.com"
+Repository = "https://github.com/athintel/enterprise-platform"
+"Bug Tracker" = "https://github.com/athintel/enterprise-platform/issues"
+
+[tool.hatch.version]
+path = "src/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.black]
+line-length = 88
+target-version = ['py311', 'py312']
+include = '\.pyi?$'
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra -q --cov=src --cov-report=term-missing --cov-report=html"
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "*/tests/*",
+    "*/venv/*",
+    "*/env/*",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]

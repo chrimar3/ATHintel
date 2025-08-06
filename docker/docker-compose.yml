@@ -1,0 +1,446 @@
+# ATHintel Enterprise Platform - Docker Compose Configuration
+# Production-ready multi-service deployment with monitoring and scaling
+
+version: '3.8'
+
+services:
+  # ============================================================================
+  # Core Application Services
+  # ============================================================================
+  
+  api:
+    build:
+      context: ..
+      target: production
+      dockerfile: Dockerfile
+    image: athintel:latest
+    container_name: athintel-api
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      - ATHINTEL_ENV=production
+      - ATHINTEL_LOG_LEVEL=info
+      - DATABASE_URL=postgresql://athintel:${POSTGRES_PASSWORD:-athintel123}@postgres:5432/athintel
+      - REDIS_URL=redis://redis:6379/0
+      - CORS_ORIGINS=http://localhost:3000,https://dashboard.athintel.com
+    ports:
+      - "8000:8000"
+    volumes:
+      - app_data:/app/data
+      - app_logs:/app/logs
+      - app_reports:/app/reports
+    networks:
+      - athintel_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 4G
+        reservations:
+          cpus: '1.0'
+          memory: 2G
+  
+  dashboard:
+    build:
+      context: ..
+      target: dashboard
+      dockerfile: Dockerfile
+    image: athintel:dashboard
+    container_name: athintel-dashboard
+    restart: unless-stopped
+    depends_on:
+      - api
+      - postgres
+      - redis
+    environment:
+      - ATHINTEL_ENV=production
+      - ATHINTEL_API_URL=http://api:8000
+      - DATABASE_URL=postgresql://athintel:${POSTGRES_PASSWORD:-athintel123}@postgres:5432/athintel
+      - REDIS_URL=redis://redis:6379/0
+    ports:
+      - "8501:8501"
+    volumes:
+      - app_data:/app/data:ro
+      - app_reports:/app/reports:ro
+    networks:
+      - athintel_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 3G
+        reservations:
+          cpus: '0.5'
+          memory: 1G
+
+  # ============================================================================
+  # Worker Services
+  # ============================================================================
+  
+  analytics-worker:
+    build:
+      context: ..
+      target: analytics-worker
+      dockerfile: Dockerfile
+    image: athintel:analytics-worker
+    container_name: athintel-analytics-worker
+    restart: unless-stopped
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      - ATHINTEL_ENV=production
+      - ATHINTEL_WORKER_TYPE=analytics
+      - DATABASE_URL=postgresql://athintel:${POSTGRES_PASSWORD:-athintel123}@postgres:5432/athintel
+      - REDIS_URL=redis://redis:6379/0
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    volumes:
+      - app_data:/app/data
+      - app_logs:/app/logs
+    networks:
+      - athintel_network
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 6G
+        reservations:
+          cpus: '1.0'
+          memory: 3G
+  
+  scraper-worker:
+    build:
+      context: ..
+      target: scraper-worker
+      dockerfile: Dockerfile
+    image: athintel:scraper-worker
+    container_name: athintel-scraper-worker
+    restart: unless-stopped
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      - ATHINTEL_ENV=production
+      - ATHINTEL_WORKER_TYPE=scraper
+      - DATABASE_URL=postgresql://athintel:${POSTGRES_PASSWORD:-athintel123}@postgres:5432/athintel
+      - REDIS_URL=redis://redis:6379/1
+      - CELERY_BROKER_URL=redis://redis:6379/1
+      - CELERY_RESULT_BACKEND=redis://redis:6379/1
+      - PLAYWRIGHT_BROWSERS_PATH=/home/athintel/.cache/ms-playwright
+    volumes:
+      - app_data:/app/data
+      - app_logs:/app/logs
+      - browser_cache:/home/athintel/.cache/ms-playwright
+    networks:
+      - athintel_network
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 4G
+        reservations:
+          cpus: '0.5'
+          memory: 2G
+    security_opt:
+      - seccomp:unconfined  # Required for browser sandboxing
+
+  # ============================================================================
+  # Database Services
+  # ============================================================================
+  
+  postgres:
+    image: postgres:15-alpine
+    container_name: athintel-postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=athintel
+      - POSTGRES_USER=athintel
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-athintel123}
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ../database/init:/docker-entrypoint-initdb.d:ro
+    networks:
+      - athintel_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U athintel -d athintel"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 1G
+  
+  redis:
+    image: redis:7-alpine
+    container_name: athintel-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes --maxmemory 1gb --maxmemory-policy allkeys-lru
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+      - ../config/redis.conf:/etc/redis/redis.conf:ro
+    networks:
+      - athintel_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1G
+        reservations:
+          cpus: '0.2'
+          memory: 512M
+
+  # ============================================================================
+  # Monitoring & Observability
+  # ============================================================================
+  
+  prometheus:
+    image: prom/prometheus:v2.47.0
+    container_name: athintel-prometheus
+    restart: unless-stopped
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=30d'
+      - '--web.enable-lifecycle'
+      - '--web.enable-admin-api'
+    ports:
+      - "9090:9090"
+    volumes:
+      - ../monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ../monitoring/rules:/etc/prometheus/rules:ro
+      - prometheus_data:/prometheus
+    networks:
+      - athintel_network
+    depends_on:
+      - api
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 2G
+        reservations:
+          cpus: '0.3'
+          memory: 512M
+  
+  grafana:
+    image: grafana/grafana:10.1.0
+    container_name: athintel-grafana
+    restart: unless-stopped
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin123}
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_INSTALL_PLUGINS=grafana-clock-panel,grafana-simple-json-datasource
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ../monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ../monitoring/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+    networks:
+      - athintel_network
+    depends_on:
+      - prometheus
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1G
+        reservations:
+          cpus: '0.2'
+          memory: 256M
+  
+  monitoring-worker:
+    build:
+      context: ..
+      target: monitoring
+      dockerfile: Dockerfile
+    image: athintel:monitoring
+    container_name: athintel-monitoring
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+      - postgres
+      - redis
+    environment:
+      - ATHINTEL_ENV=production
+      - ATHINTEL_SERVICE_TYPE=monitoring
+      - DATABASE_URL=postgresql://athintel:${POSTGRES_PASSWORD:-athintel123}@postgres:5432/athintel
+      - REDIS_URL=redis://redis:6379/0
+      - PROMETHEUS_MULTIPROC_DIR=/tmp/prometheus_metrics
+    ports:
+      - "9091:9090"  # Metrics endpoint
+    volumes:
+      - app_logs:/app/logs:ro
+    networks:
+      - athintel_network
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+
+  # ============================================================================
+  # Task Management
+  # ============================================================================
+  
+  flower:
+    image: mher/flower:2.0.1
+    container_name: athintel-flower
+    restart: unless-stopped
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+      - FLOWER_PORT=5555
+    ports:
+      - "5555:5555"
+    depends_on:
+      - redis
+    networks:
+      - athintel_network
+    deploy:
+      resources:
+        limits:
+          cpus: '0.3'
+          memory: 256M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+
+  # ============================================================================
+  # Reverse Proxy & Load Balancer
+  # ============================================================================
+  
+  nginx:
+    image: nginx:1.25-alpine
+    container_name: athintel-nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ../nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ../nginx/conf.d:/etc/nginx/conf.d:ro
+      - ../nginx/ssl:/etc/nginx/ssl:ro
+      - nginx_logs:/var/log/nginx
+    networks:
+      - athintel_network
+    depends_on:
+      - api
+      - dashboard
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+        reservations:
+          cpus: '0.1'
+          memory: 64M
+
+# ============================================================================
+# Networks & Volumes
+# ============================================================================
+
+networks:
+  athintel_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
+
+volumes:
+  postgres_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/postgres
+  
+  redis_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/redis
+  
+  prometheus_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/prometheus
+  
+  grafana_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/grafana
+  
+  app_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/app
+  
+  app_logs:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/logs
+  
+  app_reports:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/reports
+  
+  nginx_logs:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/logs/nginx
+  
+  browser_cache:
+    driver: local
