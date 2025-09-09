@@ -35,33 +35,41 @@
 - Community-driven transformation models
 - Student housing and cultural venue opportunities
 
-## 🏗️ **Repository Structure**
+## 🏗️ **District-Focused Repository Structure**
 
 ```
 ATHintel/
-├── 📊 docs/analysis/
-│   ├── Kolonaki_Exarchia_Energy_Transformation_Report.md  # Main district analysis
-│   ├── PRODUCTION_QA_VERIFICATION_REPORT.md              # Quality assessment
-│   └── SECURITY_REMEDIATION_REPORT.md                   # Security compliance
+├── 🏛️ districts/                                    # Core district intelligence
+│   ├── kolonaki/         # Luxury market analysis (25 properties, €15.4M)
+│   │   ├── analysis/     # Market intelligence & energy profiles
+│   │   ├── opportunities/# Green luxury investment strategies
+│   │   └── strategies/   # Heritage-sensitive transformation approaches
+│   │
+│   ├── exarchia/         # Cultural district analysis (42 properties, €10.8M)  
+│   │   ├── analysis/     # Community dynamics & creative potential
+│   │   ├── opportunities/# Regeneration & student housing strategies
+│   │   └── strategies/   # Community-led transformation models
+│   │
+│   └── comparative/      # Cross-district intelligence & synergies
+│       ├── reports/      # Kolonaki-Exarchia comparative analysis
+│       └── synergies/    # Portfolio diversification strategies
 │
-├── 📁 realdata/                                      # Verified property data
-│   ├── athens_100_percent_authentic_20250806.json   # 75 verified properties
-│   └── investment_reports/                          # Detailed analysis
+├── 📊 data/verified-properties/                     # Authenticated datasets
+│   └── kolonaki-exarchia-properties.json           # 67 district properties
 │
-├── 🏗️ src/                                          # Application source code
-│   ├── validators/        # Property data validation
-│   ├── energy/           # Energy analysis modules
-│   ├── core/             # Investment analysis
-│   └── api/              # API endpoints
+├── 🎯 intelligence/                                 # Supporting analysis
+│   ├── market-research/  # Athens market dynamics
+│   ├── regulatory-compliance/ # EU 2030/2033 requirements
+│   └── investment-frameworks/ # Strategic methodologies
 │
-├── 📋 docs/                                         # Documentation
-│   ├── stories/          # Development stories
-│   └── qa/               # Quality assurance
+├── 🏗️ src/                                         # Application source code
+│   ├── validators/       # Property data validation
+│   ├── energy/          # Energy analysis modules  
+│   ├── districts/       # District-specific analytics
+│   └── api/             # API endpoints
 │
-└── 🧪 tests/                                        # Test suites
-    ├── unit/             # Unit tests
-    ├── integration/      # Integration tests
-    └── performance/      # Performance tests
+└── 📋 legacy-reports/                              # Historical analysis archive
+    └── previous-athens-reports/                    # Pre-district focus reports
 ```
 
 ## 🔥 **Key Features**
@@ -75,34 +83,49 @@ ATHintel/
 
 ## 🚀 **Quick Start**
 
-### **View District Analysis**
+### **Navigate District Intelligence**
 ```bash
-# Primary district transformation report
-cat docs/analysis/Kolonaki_Exarchia_Energy_Transformation_Report.md
+# District overview and navigation
+cat districts/README.md
 
-# Verified property dataset
-cat realdata/athens_100_percent_authentic_20250806_160825.json
+# Kolonaki luxury market analysis
+cat districts/kolonaki/README.md
+
+# Exarchia cultural district analysis  
+cat districts/exarchia/README.md
+
+# Comparative cross-district analysis
+cat districts/comparative/reports/Kolonaki_Exarchia_Energy_Transformation_Report.md
+
+# Verified district properties dataset
+cat data/verified-properties/kolonaki-exarchia-properties.json
 ```
 
-### **Run Analysis Pipeline**
+### **Run District Analysis**
 ```bash
 # Install dependencies
 pip install -r requirements.txt
 
-# Validate property data
-python src/validators/property_validator.py
+# Validate district property data
+python src/validators/property_validator.py data/verified-properties/kolonaki-exarchia-properties.json
 
-# Generate energy analysis
-python src/energy/energy_assessment.py
+# Generate district-specific energy analysis
+python src/districts/kolonaki_analysis.py
+python src/districts/exarchia_analysis.py
+
+# Run comparative district analysis
+python src/districts/comparative_analysis.py
 ```
 
-## 📋 **Data Verification**
+## 📋 **District Data Verification**
 
-All property data is **100% authenticated** from Spitogatos.gr with:
-- Manual verification of property authenticity
-- Price and specification validation
-- Energy classification confirmation
-- Geographic location verification
+All district property data is **100% authenticated** from Spitogatos.gr with:
+- **67 verified properties** across Kolonaki and Exarchia neighborhoods
+- Manual verification of property authenticity and district classification
+- Complete price and specification validation for both districts
+- Energy classification confirmation (95% coverage)  
+- District-specific geographic location verification
+- Neighborhood character and market positioning validation
 
 **Data Quality Metrics:**
 - Properties with energy data: 95% (71/75)

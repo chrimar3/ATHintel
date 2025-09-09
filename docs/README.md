@@ -5,16 +5,24 @@
 ## 📊 **Analysis Reports**
 
 ### **Primary District Intelligence**
-- **[Kolonaki-Exarchia Energy Transformation Report](./analysis/Kolonaki_Exarchia_Energy_Transformation_Report.md)** 📈
+- **[Kolonaki-Exarchia Energy Transformation Report](../districts/comparative/reports/Kolonaki_Exarchia_Energy_Transformation_Report.md)** 📈
   - Comparative analysis of luxury (Kolonaki) vs cultural (Exarchia) districts
   - District-specific energy transformation strategies
   - Tailored recommendations for each neighborhood character
 
-### **Investment Analysis** 
-- **[Enterprise Investment Analysis](../realdata/investment_reports/Enterprise_Investment_Analysis_Report.md)** 💎
-  - Top investment opportunities identified
-  - Portfolio strategies (Conservative, Aggressive, Income-Focused, Diversified)
-  - Risk assessment and value creation analysis
+### **District-Specific Analysis**
+- **[Kolonaki District Hub](../districts/kolonaki/README.md)** 🏛️
+  - Luxury market intelligence and premium transformation strategies
+- **[Exarchia District Hub](../districts/exarchia/README.md)** 🎨  
+  - Cultural district analysis and community-driven regeneration
+
+### **Supporting Intelligence** 
+- **[Market Research Hub](../intelligence/market-research/)** 💎
+  - Athens market dynamics and trends analysis
+- **[Regulatory Compliance](../intelligence/regulatory-compliance/)** ⚖️  
+  - EU 2030/2033 deadline requirements and compliance frameworks
+- **[Investment Frameworks](../intelligence/investment-frameworks/)** 📊
+  - Strategic methodologies and portfolio optimization models
 
 ## 🎯 **District Intelligence Summary**
 
