@@ -1,43 +1,48 @@
-# ATHintel - Athens Real Estate Energy Intelligence Platform
+# ATHintel - Kolonaki & Exarchia Energy Transformation Intelligence
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Data Quality](https://img.shields.io/badge/Data-100%25_Verified-green.svg)](./docs/data-verification.md)
 
-**Professional-grade analysis of Athens real estate market with focus on energy efficiency and EU compliance requirements.**
+**Specialized energy transformation analysis for Athens' most distinctive districts: Kolonaki (luxury market) and Exarchia (cultural hub).**
 
-## 🎯 **Key Insights Summary**
+## 🎯 **District Intelligence Summary**
 
-| Metric | Value | Significance |
-|--------|-------|--------------|
-| **Properties Analyzed** | 75 verified | €27.6M portfolio value |
-| **EU Compliance Gap** | 55% below Class D | Must upgrade by 2033 |
-| **Urgent Action Required** | 15% below Class E | Must upgrade by 2030 |
-| **Geographic Focus** | Exarchia (56%), Kolonaki (33%) | High-value neighborhoods |
-| **Government Support** | Up to 60% subsidies | €25K maximum per property |
+| District | Properties | Portfolio Value | Compliance Gap | Market Opportunity |
+|----------|------------|-----------------|----------------|-------------------|
+| **Kolonaki** | 25 luxury properties | €15.4M estimated | 52% need upgrades | Green luxury positioning |
+| **Exarchia** | 42 cultural properties | €10.8M estimated | 57% need upgrades | Creative regeneration |
+| **Combined** | 75 verified | €27.6M total | 55% below Class D | Dual-market strategy |
+| **EU Deadline** | 2030 (Class E) | 2033 (Class D) | 15% urgent action | €25K subsidies available |
 
 ## 📊 **Core Analysis Reports**
 
-### **🎯 Primary Report**
-**[Athens Property Energy Intelligence Report](./docs/analysis/Athens_Property_Energy_Intelligence_Report.md)**
-- Complete market analysis with verified data
-- EU compliance requirements and timelines
-- Strategic recommendations for property stakeholders
+### **🎯 Primary District Analysis**
+**[Kolonaki-Exarchia Energy Transformation Report](./docs/analysis/Kolonaki_Exarchia_Energy_Transformation_Report.md)**
+- Comparative analysis of luxury vs cultural district opportunities
+- District-specific transformation strategies
+- Tailored recommendations for each neighborhood
 
-### **📈 Business Intelligence**
-**[Investment Opportunities Analysis](./realdata/investment_reports/Enterprise_Investment_Analysis_Report.md)**
-- 75 authenticated properties worth €27.6M
-- Top investment opportunities identified
-- Portfolio strategies and risk assessment
+### **🏛️ Kolonaki Intelligence**
+**Luxury Market Energy Transformation**
+- 25 high-value properties analyzed
+- Heritage-sensitive renovation strategies
+- International ESG investor targeting
+
+### **🎨 Exarchia Intelligence**
+**Cultural District Regeneration**
+- 42 properties with creative potential
+- Community-driven transformation models
+- Student housing and cultural venue opportunities
 
 ## 🏗️ **Repository Structure**
 
 ```
 ATHintel/
-├── 📊 Analysis Reports/
-│   ├── Athens_Property_Energy_Intelligence_Report.md  # Main findings
-│   ├── PRODUCTION_QA_VERIFICATION_REPORT.md          # Quality assessment
-│   └── SECURITY_REMEDIATION_REPORT.md               # Security compliance
+├── 📊 docs/analysis/
+│   ├── Kolonaki_Exarchia_Energy_Transformation_Report.md  # Main district analysis
+│   ├── PRODUCTION_QA_VERIFICATION_REPORT.md              # Quality assessment
+│   └── SECURITY_REMEDIATION_REPORT.md                   # Security compliance
 │
 ├── 📁 realdata/                                      # Verified property data
 │   ├── athens_100_percent_authentic_20250806.json   # 75 verified properties
@@ -61,21 +66,22 @@ ATHintel/
 
 ## 🔥 **Key Features**
 
-- **✅ 100% Verified Data** - No synthetic or fabricated properties
-- **📊 Energy Classification Analysis** - EU compliance assessment
-- **🎯 Investment Intelligence** - ROI and risk analysis
-- **🏛️ Regulatory Compliance** - 2030/2033 EU deadline tracking
-- **📈 Market Intelligence** - Neighborhood and portfolio analysis
+- **🏛️ Kolonaki Luxury Focus** - Premium market energy transformation strategies
+- **🎨 Exarchia Cultural Analysis** - Creative district regeneration opportunities
+- **✅ 100% Verified Data** - No synthetic or fabricated properties (75 properties, €27.6M)
+- **📊 District Comparison** - Luxury vs cultural market energy analysis
+- **🎯 Dual-Market Strategy** - Complementary investment approaches
+- **🏛️ EU Compliance Tracking** - 2030/2033 deadline management
 
 ## 🚀 **Quick Start**
 
-### **View Analysis Reports**
+### **View District Analysis**
 ```bash
-# Main intelligence report
-cat Athens_Property_Energy_Intelligence_Report.md
+# Primary district transformation report
+cat docs/analysis/Kolonaki_Exarchia_Energy_Transformation_Report.md
 
-# Investment opportunities
-cat realdata/investment_reports/Enterprise_Investment_Analysis_Report.md
+# Verified property dataset
+cat realdata/athens_100_percent_authentic_20250806_160825.json
 ```
 
 ### **Run Analysis Pipeline**

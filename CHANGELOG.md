@@ -1,9 +1,25 @@
 # Changelog
 
-All notable changes to the ATHintel Athens Real Estate Energy Intelligence project are documented in this file.
+All notable changes to the ATHintel Kolonaki-Exarchia Energy Transformation Intelligence project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.1.0] - 2025-01-07
+
+### Added - District Focus Enhancement
+- **Kolonaki-Exarchia Energy Transformation Report** - Specialized district analysis replacing generic Athens report
+- **Luxury Market Analysis** - Kolonaki's 25 high-value properties with premium transformation strategies
+- **Cultural District Intelligence** - Exarchia's 42 properties with creative regeneration opportunities
+- **Comparative District Analysis** - Side-by-side luxury vs cultural market assessment
+- **District-Specific Strategies** - Tailored recommendations for each neighborhood character
+- **Cross-District Synergies** - Investment strategies leveraging both markets
+
+### District Intelligence Summary
+- **Kolonaki Portfolio**: €15.4M estimated value, 52% requiring upgrades
+- **Exarchia Portfolio**: €10.8M estimated value, 57% requiring upgrades  
+- **Combined Analysis**: 75 properties, €27.6M total, dual-market opportunity
+- **Market Positioning**: Green luxury (Kolonaki) + Creative regeneration (Exarchia)
 
 ## [1.0.0] - 2025-01-07
 
