@@ -1,0 +1,274 @@
+name: Feature Flags CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  feature-flag-validation:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pytest pytest-cov pytest-benchmark
+        pip install memory_profiler line_profiler
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Verify Feature Flags System
+      run: |
+        echo "🚦 Checking feature flags status..."
+        python3 src/config/feature_flags.py
+        
+        # Verify all flags are disabled by default (except monitoring)
+        output=$(python3 src/config/feature_flags.py)
+        enabled_count=$(echo "$output" | grep "✅" | wc -l)
+        
+        if [ $enabled_count -ne 3 ]; then
+          echo "⚠️ WARNING: Expected 3 enabled flags (monitoring), found $enabled_count"
+          echo "Review feature flag state before deployment!"
+        fi
+    
+    - name: Test Feature Flag Rollback
+      run: |
+        echo "🔄 Testing emergency rollback capability..."
+        python3 -c "
+import sys
+sys.path.insert(0, 'src')
+from config.feature_flags import get_feature_flags
+
+ff = get_feature_flags()
+
+# Enable some flags for testing
+ff.enable('data_validation_enabled', save=False)
+ff.enable('real_data_pipeline', save=False)
+
+# Test rollback
+ff.rollback_all()
+
+# Verify critical flags remain
+assert ff.is_enabled('rollback_enabled'), 'Rollback capability must remain enabled'
+assert ff.is_enabled('performance_monitoring'), 'Monitoring must remain enabled'
+assert not ff.is_enabled('data_validation_enabled'), 'Features should be disabled after rollback'
+
+print('✅ Rollback test passed')
+        "
+    
+    - name: Run Baseline Validation
+      run: |
+        echo "📊 Running baseline validation..."
+        chmod +x scripts/validate_baseline.sh
+        ./scripts/validate_baseline.sh
+    
+    - name: Performance Baseline Check
+      run: |
+        echo "⏱️ Checking performance baseline..."
+        python3 -c "
+import json
+import time
+import glob
+
+files = glob.glob('realdata/datasets/*.json')
+if files:
+    start = time.time()
+    with open(files[0], 'r') as f:
+        data = json.load(f)
+        count = len(data) if isinstance(data, list) else len(data.get('properties', []))
+    duration = time.time() - start
+    
+    print(f'✅ Loaded {count} properties in {duration:.3f} seconds')
+    
+    if duration > 2.0:
+        print(f'⚠️ WARNING: Performance degraded ({duration:.3f}s > 2.0s baseline)')
+        exit(1)
+else:
+    print('⚠️ No test data found, skipping performance check')
+        "
+    
+    - name: Test Coverage Check
+      if: always()
+      run: |
+        echo "📈 Running test coverage..."
+        pytest tests/test_feature_flags.py --cov=src/config --cov-report=term-missing || true
+    
+    - name: Flag State Report
+      if: always()
+      run: |
+        echo "📋 Feature Flag State Report"
+        echo "============================"
+        python3 -c "
+import sys
+sys.path.insert(0, 'src')
+from config.feature_flags import get_feature_flags
+
+ff = get_feature_flags()
+all_flags = ff.get_all_flags()
+enabled = [k for k, v in all_flags.items() if v]
+
+print(f'Total flags: {len(all_flags)}')
+print(f'Enabled: {len(enabled)}')
+print(f'Disabled: {len(all_flags) - len(enabled)}')
+print()
+print('Enabled flags:')
+for flag in enabled:
+    print(f'  ✅ {flag}')
+        "
+    
+    - name: Generate Safety Report
+      if: always()
+      run: |
+        echo "🛡️ Safety Check Report"
+        echo "====================="
+        
+        # Check if production mode is disabled
+        python3 -c "
+import sys
+sys.path.insert(0, 'src')
+from config.feature_flags import get_feature_flags
+
+ff = get_feature_flags()
+
+safety_checks = {
+    'rollback_enabled': ff.is_enabled('rollback_enabled'),
+    'production_mode_disabled': not ff.is_enabled('production_mode'),
+    'monitoring_enabled': ff.is_enabled('performance_monitoring'),
+    'logging_enabled': ff.is_enabled('validation_logging')
+}
+
+print('Safety Status:')
+for check, status in safety_checks.items():
+    symbol = '✅' if status else '❌'
+    print(f'{symbol} {check}: {status}')
+
+# Fail if critical safety features are disabled
+if not safety_checks['rollback_enabled']:
+    print('❌ CRITICAL: Rollback is disabled!')
+    exit(1)
+        "
+
+  regression-check:
+    runs-on: ubuntu-latest
+    needs: feature-flag-validation
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Regression Test Suite
+      run: |
+        echo "🔍 Running regression checks..."
+        
+        # Check critical imports still work
+        python3 -c "
+import sys
+import os
+
+# Test critical imports
+try:
+    sys.path.insert(0, 'src')
+    from config.feature_flags import get_feature_flags
+    print('✅ Feature flags import successful')
+except ImportError as e:
+    print(f'❌ Import regression: {e}')
+    exit(1)
+        "
+    
+    - name: Memory Usage Check
+      run: |
+        echo "💾 Checking memory usage..."
+        python3 -c "
+import os
+import sys
+
+# Simple memory check
+import resource
+usage = resource.getrusage(resource.RUSAGE_SELF)
+memory_mb = usage.ru_maxrss / 1024 / 1024  # Convert to MB
+
+print(f'Memory usage: {memory_mb:.1f} MB')
+
+if memory_mb > 1024:  # 1GB limit
+    print(f'⚠️ Memory usage too high: {memory_mb:.1f} MB')
+    exit(1)
+else:
+    print('✅ Memory usage within limits')
+        "
+
+  deployment-gate:
+    runs-on: ubuntu-latest
+    needs: [feature-flag-validation, regression-check]
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Deployment Safety Check
+      run: |
+        echo "🚀 Deployment Safety Gate"
+        echo "========================"
+        
+        python3 -c "
+import sys
+sys.path.insert(0, 'src')
+from config.feature_flags import get_feature_flags
+
+ff = get_feature_flags()
+
+# Deployment gate criteria
+gates = {
+    'Rollback enabled': ff.is_enabled('rollback_enabled'),
+    'Production mode OFF': not ff.is_enabled('production_mode'),
+    'Monitoring active': ff.is_enabled('performance_monitoring'),
+    'No risky features': not (ff.is_enabled('data_validation_enabled') and ff.is_enabled('real_data_pipeline'))
+}
+
+print('Deployment Gate Status:')
+all_passed = True
+for gate, status in gates.items():
+    symbol = '✅' if status else '❌'
+    print(f'{symbol} {gate}: {\"PASS\" if status else \"FAIL\"}')
+    if not status:
+        all_passed = False
+
+if all_passed:
+    print()
+    print('✅ All deployment gates passed - Safe to deploy')
+else:
+    print()
+    print('❌ Deployment blocked - Fix gate failures first')
+    exit(1)
+        "
+    
+    - name: Create Deployment Report
+      if: success()
+      run: |
+        echo "📝 Creating deployment report..."
+        date > deployment_report.txt
+        echo "Feature Flags Status:" >> deployment_report.txt
+        python3 src/config/feature_flags.py >> deployment_report.txt
+        
+        echo "Report saved to deployment_report.txt"

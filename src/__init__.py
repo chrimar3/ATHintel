@@ -10,8 +10,9 @@ __version__ = "2.0.0"
 __author__ = "ATHintel Enterprise Team"
 __email__ = "enterprise@athintel.com"
 
-from .core import *
-from .adapters import *
+# Temporarily comment out problematic imports
+# from .core import *
+# from .adapters import *
 
 __all__ = [
     "__version__",

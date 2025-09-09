@@ -1,0 +1,56 @@
+# Property Validator Configuration
+# Story 1.1: Data Authenticity Validator
+
+thresholds:
+  min_score: 70              # Minimum score to pass validation (0-100)
+  price_deviation: 0.3       # Maximum price deviation from neighborhood average (30%)
+  size_min: 20              # Minimum property size in m²
+  size_max: 500             # Maximum property size in m²
+  rooms_min: 1              # Minimum number of rooms
+  rooms_max: 10             # Maximum number of rooms
+  floor_min: -1             # Minimum floor (basement)
+  floor_max: 20             # Maximum floor
+  year_min: 1800            # Minimum construction year
+  year_max: 2025            # Maximum construction year
+  listing_age_days: 180     # Maximum age of listing in days
+
+# Scoring weights for each validation factor (must sum to 1.0)
+weights:
+  url: 0.3         # URL verification weight
+  price: 0.2       # Price consistency weight
+  attributes: 0.2  # Property attributes weight
+  market: 0.15     # Market comparison weight
+  temporal: 0.1    # Temporal validation weight
+  images: 0.05     # Image analysis weight
+
+# Valid property listing domains
+valid_domains:
+  - spitogatos.gr
+  - xe.gr
+  - tospitimou.gr
+  - plot.gr
+  - spiti24.gr
+
+# Neighborhood-specific settings (can override general thresholds)
+neighborhoods:
+  Kolonaki:
+    price_deviation: 0.4    # Allow higher deviation for premium area
+    size_min: 40            # Larger minimum size
+  Exarchia:
+    price_deviation: 0.35   # More price variation expected
+  Glyfada:
+    price_deviation: 0.4    # Coastal area with varied pricing
+
+# Performance settings
+performance:
+  batch_size: 100           # Maximum properties per batch
+  timeout_seconds: 60       # Maximum time for batch validation
+  retry_attempts: 3         # Number of retries for failed validations
+  cache_results: true       # Cache validation results
+
+# Logging settings
+logging:
+  level: INFO               # Log level (DEBUG, INFO, WARNING, ERROR)
+  audit_enabled: true       # Enable audit logging
+  audit_file: logs/validation_audit.jsonl
+  performance_tracking: true # Track performance metrics

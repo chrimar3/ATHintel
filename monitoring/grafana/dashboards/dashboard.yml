@@ -1,0 +1,15 @@
+# ATHintel Grafana Dashboard Provisioning Configuration
+apiVersion: 1
+
+providers:
+  - name: 'ATHintel Production Dashboards'
+    orgId: 1
+    folder: 'ATHintel'
+    folderUid: 'athintel'
+    type: file
+    disableDeletion: false
+    editable: true
+    updateIntervalSeconds: 30
+    allowUiUpdates: true
+    options:
+      path: /etc/grafana/provisioning/dashboards/json

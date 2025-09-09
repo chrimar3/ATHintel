@@ -1,0 +1,115 @@
+# ATHintel Production Alert Rules
+# Critical and warning alerts for production monitoring
+
+groups:
+  - name: athintel.critical
+    rules:
+      # API Health Alerts
+      - alert: ATHintelAPIDown
+        expr: up{job="athintel-api"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: api
+        annotations:
+          summary: "ATHintel API is down"
+          description: "ATHintel API has been down for more than 1 minute. Service: {{$labels.instance}}"
+          
+      - alert: ATHintelHighResponseTime
+        expr: rate(http_request_duration_seconds_sum{job="athintel-api"}[5m]) / rate(http_request_duration_seconds_count{job="athintel-api"}[5m]) > 2
+        for: 5m
+        labels:
+          severity: warning
+          service: api
+        annotations:
+          summary: "ATHintel API high response time"
+          description: "ATHintel API response time is above 2 seconds (current: {{$value}}s) for more than 5 minutes"
+          
+      # Database Alerts
+      - alert: PostgreSQLDown
+        expr: up{job="postgresql"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: database
+        annotations:
+          summary: "PostgreSQL is down"
+          description: "PostgreSQL database has been down for more than 1 minute"
+          
+      # Redis Alerts
+      - alert: RedisDown
+        expr: up{job="redis"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: cache
+        annotations:
+          summary: "Redis is down"
+          description: "Redis cache has been down for more than 1 minute"
+          
+      # System Resource Alerts
+      - alert: HighCPUUsage
+        expr: 100 - (avg by(instance) (rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100) > 90
+        for: 5m
+        labels:
+          severity: critical
+          service: system
+        annotations:
+          summary: "High CPU usage detected"
+          description: "CPU usage is above 90% on {{$labels.instance}} for more than 5 minutes (current: {{$value}}%)"
+          
+      - alert: HighMemoryUsage
+        expr: (1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) * 100 > 90
+        for: 5m
+        labels:
+          severity: critical
+          service: system
+        annotations:
+          summary: "High memory usage detected"
+          description: "Memory usage is above 90% on {{$labels.instance}} for more than 5 minutes (current: {{$value}}%)"
+          
+  - name: athintel.warning
+    rules:
+      # Performance Warnings
+      - alert: ATHintelHighErrorRate
+        expr: rate(http_requests_total{job="athintel-api",status=~"5.."}[5m]) / rate(http_requests_total{job="athintel-api"}[5m]) > 0.05
+        for: 10m
+        labels:
+          severity: warning
+          service: api
+        annotations:
+          summary: "High error rate in ATHintel API"
+          description: "Error rate is above 5% for more than 10 minutes (current: {{$value | humanizePercentage}})"
+          
+      # Worker Alerts
+      - alert: ATHintelWorkerQueueHigh
+        expr: celery_queue_length{queue=~"analytics|scraper"} > 100
+        for: 15m
+        labels:
+          severity: warning
+          service: workers
+        annotations:
+          summary: "High queue length in {{$labels.queue}} worker"
+          description: "Queue length is above 100 tasks for more than 15 minutes (current: {{$value}})"
+          
+      # Business Logic Alerts  
+      - alert: ATHintelLowProcessingRate
+        expr: rate(athintel_properties_processed_total[30m]) < 10
+        for: 30m
+        labels:
+          severity: warning
+          service: business
+        annotations:
+          summary: "Low property processing rate"
+          description: "Property processing rate is below 10 properties/minute for more than 30 minutes"
+          
+      # Disk Space Warnings
+      - alert: LowDiskSpace
+        expr: (node_filesystem_avail_bytes{fstype!="tmpfs"} / node_filesystem_size_bytes{fstype!="tmpfs"}) * 100 < 20
+        for: 10m
+        labels:
+          severity: warning
+          service: system
+        annotations:
+          summary: "Low disk space"
+          description: "Disk space is below 20% on {{$labels.instance}} mountpoint {{$labels.mountpoint}} (current: {{$value}}%)"

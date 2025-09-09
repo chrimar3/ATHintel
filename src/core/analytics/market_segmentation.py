@@ -24,8 +24,8 @@ from sklearn.manifold import TSNE
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 from sklearn.ensemble import IsolationForest
 from scipy import stats
-from scipy.spatial.distance import pdist, linkage
-from scipy.cluster.hierarchy import dendrogram, fcluster
+from scipy.spatial.distance import pdist
+from scipy.cluster.hierarchy import dendrogram, fcluster, linkage
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots

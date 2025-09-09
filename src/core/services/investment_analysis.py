@@ -5,7 +5,7 @@ This service contains the pure business logic for investment analysis,
 independent of external dependencies and frameworks.
 """
 
-from typing import List, Dict, Optional, Tuple, Set
+from typing import List, Dict, Optional, Tuple, Set, Any
 from decimal import Decimal
 from datetime import datetime, date, timedelta
 import asyncio

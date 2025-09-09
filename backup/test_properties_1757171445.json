@@ -1,0 +1,1649 @@
+[
+  {
+    "id": "prob_000",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_001",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_002",
+    "url": "https://spitogatos.gr/property/10002",
+    "price": 329689,
+    "size": 77,
+    "rooms": 5,
+    "floor": 8,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-09T18:10:45.444233",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2021
+  },
+  {
+    "id": "prob_003",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_004",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_005",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_006",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_007",
+    "url": "https://spitogatos.gr/property/10007",
+    "price": 499813,
+    "size": 178,
+    "rooms": 1,
+    "floor": 3,
+    "location": "Exarchia",
+    "listed_date": "2025-08-14T18:10:45.444245",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_008",
+    "url": "https://spitogatos.gr/property/10008",
+    "price": 505521,
+    "size": 198,
+    "rooms": 2,
+    "floor": 4,
+    "location": "Exarchia",
+    "listed_date": "2025-08-28T18:10:45.444251",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2005
+  },
+  {
+    "id": "good_009",
+    "url": "https://spitogatos.gr/property/10009",
+    "price": 512643,
+    "size": 165,
+    "rooms": 3,
+    "floor": 5,
+    "location": "Glyfada",
+    "listed_date": "2025-08-08T18:10:45.444256",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_010",
+    "url": "https://spitogatos.gr/property/10010",
+    "price": 698249,
+    "size": 122,
+    "rooms": 1,
+    "floor": 2,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-31T18:10:45.444261",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2008
+  },
+  {
+    "id": "good_011",
+    "url": "https://spitogatos.gr/property/10011",
+    "price": 480798,
+    "size": 83,
+    "rooms": 4,
+    "floor": 7,
+    "location": "Exarchia",
+    "listed_date": "2025-08-08T18:10:45.444266",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 1990
+  },
+  {
+    "id": "good_012",
+    "url": "https://spitogatos.gr/property/10012",
+    "price": 738840,
+    "size": 128,
+    "rooms": 2,
+    "floor": 6,
+    "location": "Kifisia",
+    "listed_date": "2025-08-10T18:10:45.444270",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 2016
+  },
+  {
+    "id": "good_013",
+    "url": "https://spitogatos.gr/property/10013",
+    "price": 654163,
+    "size": 114,
+    "rooms": 4,
+    "floor": 8,
+    "location": "Kifisia",
+    "listed_date": "2025-08-22T18:10:45.444275",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2010
+  },
+  {
+    "id": "good_014",
+    "url": "https://spitogatos.gr/property/10014",
+    "price": 783357,
+    "size": 173,
+    "rooms": 2,
+    "floor": 2,
+    "location": "Piraeus",
+    "listed_date": "2025-09-04T18:10:45.444279",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2005
+  },
+  {
+    "id": "good_015",
+    "url": "https://spitogatos.gr/property/10015",
+    "price": 252723,
+    "size": 166,
+    "rooms": 5,
+    "floor": 8,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-29T18:10:45.444284",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2016
+  },
+  {
+    "id": "prob_016",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_017",
+    "url": "https://spitogatos.gr/property/10017",
+    "price": 708503,
+    "size": 194,
+    "rooms": 1,
+    "floor": 6,
+    "location": "Glyfada",
+    "listed_date": "2025-08-29T18:10:45.444289",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2023
+  },
+  {
+    "id": "good_018",
+    "url": "https://spitogatos.gr/property/10018",
+    "price": 339596,
+    "size": 194,
+    "rooms": 5,
+    "floor": 7,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-15T18:10:45.444294",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2001
+  },
+  {
+    "id": "prob_019",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_020",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_021",
+    "url": "https://spitogatos.gr/property/10021",
+    "price": 381866,
+    "size": 124,
+    "rooms": 2,
+    "floor": 2,
+    "location": "Kifisia",
+    "listed_date": "2025-08-24T18:10:45.444300",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2018
+  },
+  {
+    "id": "good_022",
+    "url": "https://spitogatos.gr/property/10022",
+    "price": 411550,
+    "size": 182,
+    "rooms": 5,
+    "floor": 7,
+    "location": "Kifisia",
+    "listed_date": "2025-08-29T18:10:45.444304",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2023
+  },
+  {
+    "id": "good_023",
+    "url": "https://spitogatos.gr/property/10023",
+    "price": 298813,
+    "size": 177,
+    "rooms": 1,
+    "floor": 6,
+    "location": "Glyfada",
+    "listed_date": "2025-09-04T18:10:45.444309",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2016
+  },
+  {
+    "id": "good_024",
+    "url": "https://spitogatos.gr/property/10024",
+    "price": 445022,
+    "size": 93,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Exarchia",
+    "listed_date": "2025-08-22T18:10:45.444313",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2019
+  },
+  {
+    "id": "good_025",
+    "url": "https://spitogatos.gr/property/10025",
+    "price": 773735,
+    "size": 122,
+    "rooms": 2,
+    "floor": 3,
+    "location": "Glyfada",
+    "listed_date": "2025-08-13T18:10:45.444318",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2005
+  },
+  {
+    "id": "prob_026",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_027",
+    "url": "https://spitogatos.gr/property/10027",
+    "price": 269900,
+    "size": 194,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Kifisia",
+    "listed_date": "2025-08-21T18:10:45.444323",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2019
+  },
+  {
+    "id": "good_028",
+    "url": "https://spitogatos.gr/property/10028",
+    "price": 397077,
+    "size": 120,
+    "rooms": 1,
+    "floor": 6,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-08T18:10:45.444328",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 1991
+  },
+  {
+    "id": "good_029",
+    "url": "https://spitogatos.gr/property/10029",
+    "price": 378071,
+    "size": 198,
+    "rooms": 2,
+    "floor": 4,
+    "location": "Glyfada",
+    "listed_date": "2025-08-14T18:10:45.444332",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2010
+  },
+  {
+    "id": "good_030",
+    "url": "https://spitogatos.gr/property/10030",
+    "price": 659831,
+    "size": 51,
+    "rooms": 4,
+    "floor": 8,
+    "location": "Kolonaki",
+    "listed_date": "2025-09-02T18:10:45.444337",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2016
+  },
+  {
+    "id": "prob_031",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_032",
+    "url": "https://spitogatos.gr/property/10032",
+    "price": 323014,
+    "size": 114,
+    "rooms": 3,
+    "floor": 1,
+    "location": "Kifisia",
+    "listed_date": "2025-08-15T18:10:45.444342",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1996
+  },
+  {
+    "id": "good_033",
+    "url": "https://spitogatos.gr/property/10033",
+    "price": 231056,
+    "size": 165,
+    "rooms": 1,
+    "floor": 7,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-17T18:10:45.444347",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 1998
+  },
+  {
+    "id": "good_034",
+    "url": "https://spitogatos.gr/property/10034",
+    "price": 268724,
+    "size": 114,
+    "rooms": 4,
+    "floor": 8,
+    "location": "Piraeus",
+    "listed_date": "2025-09-01T18:10:45.444352",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_035",
+    "url": "https://spitogatos.gr/property/10035",
+    "price": 530663,
+    "size": 80,
+    "rooms": 3,
+    "floor": 2,
+    "location": "Exarchia",
+    "listed_date": "2025-08-27T18:10:45.444356",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1994
+  },
+  {
+    "id": "good_036",
+    "url": "https://spitogatos.gr/property/10036",
+    "price": 717828,
+    "size": 194,
+    "rooms": 1,
+    "floor": 6,
+    "location": "Piraeus",
+    "listed_date": "2025-08-18T18:10:45.444361",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2004
+  },
+  {
+    "id": "prob_037",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_038",
+    "url": "https://spitogatos.gr/property/10038",
+    "price": 657363,
+    "size": 102,
+    "rooms": 4,
+    "floor": 5,
+    "location": "Exarchia",
+    "listed_date": "2025-08-30T18:10:45.444366",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2012
+  },
+  {
+    "id": "prob_039",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_040",
+    "url": "https://spitogatos.gr/property/10040",
+    "price": 300002,
+    "size": 56,
+    "rooms": 2,
+    "floor": 7,
+    "location": "Piraeus",
+    "listed_date": "2025-08-20T18:10:45.444371",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2005
+  },
+  {
+    "id": "good_041",
+    "url": "https://spitogatos.gr/property/10041",
+    "price": 343997,
+    "size": 112,
+    "rooms": 5,
+    "floor": 8,
+    "location": "Exarchia",
+    "listed_date": "2025-08-10T18:10:45.444376",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2011
+  },
+  {
+    "id": "good_042",
+    "url": "https://spitogatos.gr/property/10042",
+    "price": 332271,
+    "size": 99,
+    "rooms": 3,
+    "floor": 2,
+    "location": "Kifisia",
+    "listed_date": "2025-08-26T18:10:45.444380",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2021
+  },
+  {
+    "id": "good_043",
+    "url": "https://spitogatos.gr/property/10043",
+    "price": 593104,
+    "size": 170,
+    "rooms": 4,
+    "floor": 7,
+    "location": "Piraeus",
+    "listed_date": "2025-08-12T18:10:45.444385",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2010
+  },
+  {
+    "id": "prob_044",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 5,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "prob_045",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 5,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_046",
+    "url": "https://spitogatos.gr/property/10046",
+    "price": 479225,
+    "size": 132,
+    "rooms": 1,
+    "floor": 0,
+    "location": "Kifisia",
+    "listed_date": "2025-08-21T18:10:45.444391",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2002
+  },
+  {
+    "id": "good_047",
+    "url": "https://spitogatos.gr/property/10047",
+    "price": 651506,
+    "size": 102,
+    "rooms": 5,
+    "floor": 6,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-09T18:10:45.444395",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 1990
+  },
+  {
+    "id": "good_048",
+    "url": "https://spitogatos.gr/property/10048",
+    "price": 239806,
+    "size": 142,
+    "rooms": 1,
+    "floor": 5,
+    "location": "Glyfada",
+    "listed_date": "2025-09-01T18:10:45.444400",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2007
+  },
+  {
+    "id": "good_049",
+    "url": "https://spitogatos.gr/property/10049",
+    "price": 556881,
+    "size": 133,
+    "rooms": 1,
+    "floor": 5,
+    "location": "Exarchia",
+    "listed_date": "2025-08-12T18:10:45.444404",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2004
+  },
+  {
+    "id": "prob_050",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_051",
+    "url": "https://spitogatos.gr/property/10051",
+    "price": 511143,
+    "size": 182,
+    "rooms": 4,
+    "floor": 3,
+    "location": "Piraeus",
+    "listed_date": "2025-08-22T18:10:45.444409",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1994
+  },
+  {
+    "id": "good_052",
+    "url": "https://spitogatos.gr/property/10052",
+    "price": 663473,
+    "size": 190,
+    "rooms": 1,
+    "floor": 1,
+    "location": "Exarchia",
+    "listed_date": "2025-08-19T18:10:45.444414",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 1990
+  },
+  {
+    "id": "good_053",
+    "url": "https://spitogatos.gr/property/10053",
+    "price": 469272,
+    "size": 139,
+    "rooms": 4,
+    "floor": 4,
+    "location": "Glyfada",
+    "listed_date": "2025-08-26T18:10:45.444419",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 1991
+  },
+  {
+    "id": "prob_054",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_055",
+    "url": "https://spitogatos.gr/property/10055",
+    "price": 354347,
+    "size": 179,
+    "rooms": 1,
+    "floor": 5,
+    "location": "Piraeus",
+    "listed_date": "2025-08-13T18:10:45.444424",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2001
+  },
+  {
+    "id": "good_056",
+    "url": "https://spitogatos.gr/property/10056",
+    "price": 279586,
+    "size": 155,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Piraeus",
+    "listed_date": "2025-09-01T18:10:45.444428",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2004
+  },
+  {
+    "id": "good_057",
+    "url": "https://spitogatos.gr/property/10057",
+    "price": 455876,
+    "size": 59,
+    "rooms": 1,
+    "floor": 8,
+    "location": "Kolonaki",
+    "listed_date": "2025-09-02T18:10:45.444433",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2008
+  },
+  {
+    "id": "good_058",
+    "url": "https://spitogatos.gr/property/10058",
+    "price": 580508,
+    "size": 68,
+    "rooms": 2,
+    "floor": 4,
+    "location": "Piraeus",
+    "listed_date": "2025-08-08T18:10:45.444437",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2012
+  },
+  {
+    "id": "good_059",
+    "url": "https://spitogatos.gr/property/10059",
+    "price": 318115,
+    "size": 116,
+    "rooms": 4,
+    "floor": 3,
+    "location": "Kifisia",
+    "listed_date": "2025-08-16T18:10:45.444441",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2021
+  },
+  {
+    "id": "good_060",
+    "url": "https://spitogatos.gr/property/10060",
+    "price": 561711,
+    "size": 59,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Glyfada",
+    "listed_date": "2025-08-30T18:10:45.444446",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2020
+  },
+  {
+    "id": "good_061",
+    "url": "https://spitogatos.gr/property/10061",
+    "price": 407569,
+    "size": 81,
+    "rooms": 3,
+    "floor": 2,
+    "location": "Piraeus",
+    "listed_date": "2025-08-23T18:10:45.444450",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2009
+  },
+  {
+    "id": "prob_062",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_063",
+    "url": "https://spitogatos.gr/property/10063",
+    "price": 312967,
+    "size": 115,
+    "rooms": 3,
+    "floor": 1,
+    "location": "Glyfada",
+    "listed_date": "2025-08-15T18:10:45.444454",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2019
+  },
+  {
+    "id": "prob_064",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_065",
+    "url": "https://spitogatos.gr/property/10065",
+    "price": 513241,
+    "size": 198,
+    "rooms": 1,
+    "floor": 6,
+    "location": "Piraeus",
+    "listed_date": "2025-09-02T18:10:45.444459",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 1990
+  },
+  {
+    "id": "good_066",
+    "url": "https://spitogatos.gr/property/10066",
+    "price": 322971,
+    "size": 187,
+    "rooms": 2,
+    "floor": 8,
+    "location": "Kifisia",
+    "listed_date": "2025-08-09T18:10:45.444463",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2010
+  },
+  {
+    "id": "good_067",
+    "url": "https://spitogatos.gr/property/10067",
+    "price": 567480,
+    "size": 54,
+    "rooms": 2,
+    "floor": 5,
+    "location": "Kifisia",
+    "listed_date": "2025-08-20T18:10:45.444467",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1991
+  },
+  {
+    "id": "prob_068",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_069",
+    "url": "https://spitogatos.gr/property/10069",
+    "price": 532850,
+    "size": 104,
+    "rooms": 2,
+    "floor": 6,
+    "location": "Exarchia",
+    "listed_date": "2025-08-22T18:10:45.444471",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2012
+  },
+  {
+    "id": "good_070",
+    "url": "https://spitogatos.gr/property/10070",
+    "price": 238353,
+    "size": 155,
+    "rooms": 5,
+    "floor": 2,
+    "location": "Piraeus",
+    "listed_date": "2025-08-15T18:10:45.444475",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_071",
+    "url": "https://spitogatos.gr/property/10071",
+    "price": 552221,
+    "size": 138,
+    "rooms": 4,
+    "floor": 0,
+    "location": "Exarchia",
+    "listed_date": "2025-08-07T18:10:45.444479",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2006
+  },
+  {
+    "id": "prob_072",
+    "url": "https://fake-domain.com/property/123",
+    "price": 15000000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_073",
+    "url": "https://spitogatos.gr/property/10073",
+    "price": 272956,
+    "size": 86,
+    "rooms": 1,
+    "floor": 0,
+    "location": "Glyfada",
+    "listed_date": "2025-08-13T18:10:45.444484",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2000
+  },
+  {
+    "id": "good_074",
+    "url": "https://spitogatos.gr/property/10074",
+    "price": 394764,
+    "size": 111,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Piraeus",
+    "listed_date": "2025-08-25T18:10:45.444488",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2004
+  },
+  {
+    "id": "good_075",
+    "url": "https://spitogatos.gr/property/10075",
+    "price": 718987,
+    "size": 58,
+    "rooms": 5,
+    "floor": 6,
+    "location": "Exarchia",
+    "listed_date": "2025-08-30T18:10:45.444492",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 1995
+  },
+  {
+    "id": "good_076",
+    "url": "https://spitogatos.gr/property/10076",
+    "price": 774090,
+    "size": 146,
+    "rooms": 3,
+    "floor": 2,
+    "location": "Piraeus",
+    "listed_date": "2025-08-10T18:10:45.444496",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2008
+  },
+  {
+    "id": "good_077",
+    "url": "https://spitogatos.gr/property/10077",
+    "price": 646118,
+    "size": 78,
+    "rooms": 4,
+    "floor": 8,
+    "location": "Exarchia",
+    "listed_date": "2025-08-28T18:10:45.444501",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 2009
+  },
+  {
+    "id": "good_078",
+    "url": "https://spitogatos.gr/property/10078",
+    "price": 447876,
+    "size": 167,
+    "rooms": 5,
+    "floor": 4,
+    "location": "Piraeus",
+    "listed_date": "2025-08-30T18:10:45.444505",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2012
+  },
+  {
+    "id": "prob_079",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 0,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_080",
+    "url": "https://spitogatos.gr/property/10080",
+    "price": 592849,
+    "size": 194,
+    "rooms": 5,
+    "floor": 2,
+    "location": "Piraeus",
+    "listed_date": "2025-08-21T18:10:45.444509",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 1994
+  },
+  {
+    "id": "good_081",
+    "url": "https://spitogatos.gr/property/10081",
+    "price": 393433,
+    "size": 91,
+    "rooms": 5,
+    "floor": 3,
+    "location": "Piraeus",
+    "listed_date": "2025-09-05T18:10:45.444514",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2014
+  },
+  {
+    "id": "good_082",
+    "url": "https://spitogatos.gr/property/10082",
+    "price": 578611,
+    "size": 123,
+    "rooms": 1,
+    "floor": 0,
+    "location": "Exarchia",
+    "listed_date": "2025-08-29T18:10:45.444518",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 1994
+  },
+  {
+    "id": "good_083",
+    "url": "https://spitogatos.gr/property/10083",
+    "price": 202071,
+    "size": 157,
+    "rooms": 2,
+    "floor": 8,
+    "location": "Kolonaki",
+    "listed_date": "2025-09-03T18:10:45.444522",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2007
+  },
+  {
+    "id": "good_084",
+    "url": "https://spitogatos.gr/property/10084",
+    "price": 703948,
+    "size": 156,
+    "rooms": 2,
+    "floor": 7,
+    "location": "Glyfada",
+    "listed_date": "2025-08-21T18:10:45.444526",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2012
+  },
+  {
+    "id": "good_085",
+    "url": "https://spitogatos.gr/property/10085",
+    "price": 483253,
+    "size": 56,
+    "rooms": 3,
+    "floor": 0,
+    "location": "Piraeus",
+    "listed_date": "2025-08-09T18:10:45.444531",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 1996
+  },
+  {
+    "id": "good_086",
+    "url": "https://spitogatos.gr/property/10086",
+    "price": 321895,
+    "size": 154,
+    "rooms": 5,
+    "floor": 4,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-29T18:10:45.444535",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg",
+      "img7.jpg"
+    ],
+    "year_built": 2007
+  },
+  {
+    "id": "good_087",
+    "url": "https://spitogatos.gr/property/10087",
+    "price": 512673,
+    "size": 67,
+    "rooms": 2,
+    "floor": 3,
+    "location": "Kifisia",
+    "listed_date": "2025-08-17T18:10:45.444539",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 2011
+  },
+  {
+    "id": "good_088",
+    "url": "https://spitogatos.gr/property/10088",
+    "price": 714181,
+    "size": 132,
+    "rooms": 1,
+    "floor": 7,
+    "location": "Exarchia",
+    "listed_date": "2025-08-12T18:10:45.444543",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1998
+  },
+  {
+    "id": "prob_089",
+    "url": "https://fake-domain.com/property/123",
+    "price": -50000,
+    "size": 2000,
+    "rooms": 20,
+    "location": "",
+    "listed_date": "2020-01-01T00:00:00"
+  },
+  {
+    "id": "good_090",
+    "url": "https://spitogatos.gr/property/10090",
+    "price": 687901,
+    "size": 190,
+    "rooms": 2,
+    "floor": 1,
+    "location": "Piraeus",
+    "listed_date": "2025-08-17T18:10:45.444548",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg"
+    ],
+    "year_built": 1991
+  },
+  {
+    "id": "good_091",
+    "url": "https://spitogatos.gr/property/10091",
+    "price": 630921,
+    "size": 92,
+    "rooms": 3,
+    "floor": 3,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-31T18:10:45.444552",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_092",
+    "url": "https://spitogatos.gr/property/10092",
+    "price": 623492,
+    "size": 80,
+    "rooms": 5,
+    "floor": 7,
+    "location": "Kolonaki",
+    "listed_date": "2025-09-04T18:10:45.444556",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 2015
+  },
+  {
+    "id": "good_093",
+    "url": "https://spitogatos.gr/property/10093",
+    "price": 614576,
+    "size": 119,
+    "rooms": 2,
+    "floor": 2,
+    "location": "Kolonaki",
+    "listed_date": "2025-08-11T18:10:45.444560",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 1990
+  },
+  {
+    "id": "good_094",
+    "url": "https://spitogatos.gr/property/10094",
+    "price": 545892,
+    "size": 151,
+    "rooms": 2,
+    "floor": 4,
+    "location": "Kifisia",
+    "listed_date": "2025-08-16T18:10:45.444563",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 2015
+  },
+  {
+    "id": "good_095",
+    "url": "https://spitogatos.gr/property/10095",
+    "price": 296110,
+    "size": 143,
+    "rooms": 2,
+    "floor": 7,
+    "location": "Piraeus",
+    "listed_date": "2025-08-21T18:10:45.444568",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg"
+    ],
+    "year_built": 1993
+  },
+  {
+    "id": "good_096",
+    "url": "https://spitogatos.gr/property/10096",
+    "price": 453018,
+    "size": 190,
+    "rooms": 5,
+    "floor": 8,
+    "location": "Piraeus",
+    "listed_date": "2025-08-12T18:10:45.444572",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg",
+      "img6.jpg"
+    ],
+    "year_built": 2001
+  },
+  {
+    "id": "good_097",
+    "url": "https://spitogatos.gr/property/10097",
+    "price": 427355,
+    "size": 195,
+    "rooms": 4,
+    "floor": 8,
+    "location": "Glyfada",
+    "listed_date": "2025-09-02T18:10:45.444576",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 1996
+  },
+  {
+    "id": "good_098",
+    "url": "https://spitogatos.gr/property/10098",
+    "price": 788204,
+    "size": 51,
+    "rooms": 1,
+    "floor": 4,
+    "location": "Glyfada",
+    "listed_date": "2025-08-13T18:10:45.444580",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg",
+      "img3.jpg",
+      "img4.jpg",
+      "img5.jpg"
+    ],
+    "year_built": 1992
+  },
+  {
+    "id": "good_099",
+    "url": "https://spitogatos.gr/property/10099",
+    "price": 667591,
+    "size": 59,
+    "rooms": 4,
+    "floor": 6,
+    "location": "Piraeus",
+    "listed_date": "2025-08-16T18:10:45.444584",
+    "images": [
+      "img0.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ],
+    "year_built": 1992
+  }
+]

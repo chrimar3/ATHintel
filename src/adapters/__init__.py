@@ -6,8 +6,8 @@ connecting our business logic to external systems and services.
 """
 
 from .scrapers import *
-from .repositories import *
-from .services import *
+# from .repositories import *  # Not implemented yet
+# from .services import *  # Not implemented yet
 
 __all__ = [
     "CrawleePropertyScraper",

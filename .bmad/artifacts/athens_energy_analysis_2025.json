@@ -1,0 +1,23 @@
+{
+    "dataset_overview": {
+        "total_properties": 75,
+        "price_range": {"min": 65000, "max": 1390000},
+        "neighborhoods": ["Exarchia", "Kolonaki", "Syntagma"]
+    },
+    "energy_class_distribution": {
+        "A-B": 15.49,
+        "C": 29.58,
+        "D": 39.44,
+        "E-G": 14.67
+    },
+    "key_insights": {
+        "energy_cost_range": {"min": 2250, "max": 18000},
+        "value_premium": 274,
+        "efficiency_potential": 87.5
+    },
+    "analysis_stories": [
+        "Energy Data Pattern Discovery",
+        "Business Logic in Property Energy Classes", 
+        "Optimal Data Utilization Framework"
+    ]
+}
