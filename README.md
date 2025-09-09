@@ -1,7 +1,7 @@
 # ATHintel Energy Intelligence Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Data Quality](https://img.shields.io/badge/Data-100%25_Verified-green.svg)](./data/)
+[![Data Sample](https://img.shields.io/badge/Sample-75_Properties_Aug2025-blue.svg)](./data/)
 [![EU Compliance](https://img.shields.io/badge/EU_EPBD-2030%2F2033_Ready-orange.svg)](./analysis/)
 [![Districts](https://img.shields.io/badge/Focus-Kolonaki_%7C_Exarchia-purple.svg)](./analysis/)
 
@@ -17,8 +17,8 @@ ATHintel provides specialized consulting intelligence for Athens' luxury Kolonak
 
 | **Metric** | **Kolonaki** | **Exarchia** | **Combined Impact** |
 |------------|-------------|-------------|-------------------|
-| **Properties Analyzed** | 25 luxury assets | 42 cultural properties | 67 verified portfolio |
-| **Market Value** | €15.4M estimated | €10.8M estimated | €26.2M total exposure |
+| **Properties Analyzed** | 25 luxury assets | 42 cultural properties | 67 sampled (Aug 2025) |
+| **Market Value** | €15.4M estimated | €10.8M estimated | €26.2M sample value |
 | **EU Compliance Gap** | 52% require upgrades | 57% require upgrades | 55% regulatory risk |
 | **Strategic Positioning** | Green luxury market | Creative regeneration | Dual-market advantage |
 
@@ -46,7 +46,7 @@ ATHintel provides specialized consulting intelligence for Athens' luxury Kolonak
 - **[Exarchia Cultural District](./analysis/exarchia-cultural-district.md)** - Community-driven approaches
 
 ### Supporting Intelligence
-- **[Verified Property Dataset](./data/kolonaki-exarchia-properties.json)** - 67 authenticated properties with complete specifications
+- **[Property Sample Dataset](./data/kolonaki-exarchia-properties.json)** - 75 properties sampled August 2025 for trend analysis
 - **[Technical Documentation](./docs/)** - Implementation frameworks and methodologies
 
 ---
@@ -72,11 +72,12 @@ ATHintel provides specialized consulting intelligence for Athens' luxury Kolonak
 
 ## Methodology & Data Quality
 
-### Data Authentication
-- **100% Verified Properties** from Spitogatos.gr public listings
-- **Manual Validation** of pricing, specifications, and energy classifications
-- **Geographic Verification** confirming district boundaries and characteristics
+### Data Sources & Limitations
+- **75 Properties Sampled** from Spitogatos.gr in August 2025
+- **Market Trend Analysis** based on verified property characteristics at collection time
+- **Geographic Verification** confirming Kolonaki and Exarchia district boundaries
 - **Regulatory Compliance** assessment against current EU EPBD requirements
+- **Data Vintage Notice**: Individual property status may have changed; verification required for investment decisions
 
 ### Analysis Framework
 - **Quantitative Assessment** of energy classification distribution and upgrade requirements
@@ -162,10 +163,11 @@ ATHintel/
 - **EU EPBD Compliance** framework integration
 
 ### Quality Assurance
-- ✅ **Data Verification**: Multi-source validation and manual authentication
+- ✅ **Market Trend Analysis**: Based on August 2025 property sample for strategic insights
 - ✅ **Regulatory Compliance**: Current EU directive interpretation and application
-- ✅ **Market Intelligence**: Professional analysis standards and peer review
-- ✅ **Client Confidentiality**: Enterprise-grade data security and privacy protection
+- ✅ **Professional Standards**: Market pattern analysis following industry best practices
+- ✅ **Data Transparency**: Clear acknowledgment of sample vintage and limitations
+- ✅ **Client Advisory**: Individual property verification recommended for investment decisions
 
 ---
 

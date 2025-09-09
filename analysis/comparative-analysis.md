@@ -6,7 +6,7 @@
 
 **Report Date:** January 7, 2025  
 **Focus Districts:** Kolonaki (Luxury Market) & Exarchia (Cultural Hub)  
-**Data Source:** 75 Verified Properties from Target Neighborhoods  
+**Data Source:** 75 Properties Sampled from Kolonaki & Exarchia (August 2025)  
 **Analysis Period:** August 2025 Data Collection  
 **Report Scope:** District-Specific Energy Classification & EU Compliance Analysis
 
