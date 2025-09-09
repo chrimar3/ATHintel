@@ -1,13 +1,13 @@
-# 🏆 RealData - Professional Investment Intelligence
+# 🏛️ RealData - Kolonaki-Exarchia District Intelligence
 
-**⭐⭐⭐ 100% AUTHENTIC ATHENS REAL ESTATE INVESTMENT ANALYSIS ⭐⭐⭐**
+**⭐⭐⭐ 100% AUTHENTIC KOLONAKI & EXARCHIA PROPERTY DATA ⭐⭐⭐**
 
-[![Authentic Properties](https://img.shields.io/badge/Properties-75%20Verified-brightgreen?style=for-the-badge&logo=home)](./datasets/)
-[![Portfolio Value](https://img.shields.io/badge/Portfolio-€27.6M-gold?style=for-the-badge&logo=chart-line)](./investment_reports/)
-[![Investment Analysis](https://img.shields.io/badge/Analysis-Enterprise%20Grade-blue?style=for-the-badge&logo=analytics)](./analysis/)
-[![ROI Projections](https://img.shields.io/badge/ROI-6.5%25--8.5%25-success?style=for-the-badge&logo=trending-up)](./investment_reports/Enterprise_Investment_Analysis_Report.md)
+[![District Properties](https://img.shields.io/badge/Properties-67%20District%20Verified-brightgreen?style=for-the-badge&logo=home)](../data/verified-properties/)
+[![Portfolio Value](https://img.shields.io/badge/Portfolio-€26.2M-gold?style=for-the-badge&logo=chart-line)](../districts/)
+[![District Analysis](https://img.shields.io/badge/Analysis-Dual%20District-blue?style=for-the-badge&logo=analytics)](../districts/comparative/)
+[![Market Focus](https://img.shields.io/badge/Focus-Luxury%20%2B%20Cultural-purple?style=for-the-badge&logo=map)](../districts/)
 
-**This folder contains ONLY verified, authentic real estate data from Athens, Greece with complete professional investment analysis.**
+**This folder contains ONLY verified, authentic property data from Kolonaki and Exarchia districts with specialized energy transformation intelligence.**
 
 ## 🎯 Data Authenticity Guarantee
 
@@ -21,37 +21,36 @@
 
 ```
 realdata/
-├── datasets/                    # Raw authentic datasets
-│   ├── athens_100_percent_authentic_*.json
-│   └── authentic_properties_only_*.json
+├── datasets/                    # Raw authentic datasets (legacy)
+│   └── athens_100_percent_authentic_20250806_160825.json
 ├── analysis/                    # Analysis based on real data only
 │   ├── enterprise_investment_analysis.py
 │   ├── authentic_properties_value_maximizer.py
-│   ├── data_authenticity_verification.py
-│   └── Data_Limitations_Impact_Assessment.md
-├── investment_reports/          # Investment analysis of real properties
-│   ├── Enterprise_Investment_Analysis_Report.md
-│   ├── Executive_Dashboard_Summary.md
-│   ├── Executive_Investment_Summary_Final.md
-│   └── Authentic_Data_Complete_Report.md
+│   └── data_authenticity_verification.py
 └── README.md                   # This file
+
+Note: District-focused data has been moved to:
+├── ../data/verified-properties/ # Current district datasets
+├── ../districts/               # District-specific analysis
+└── ../legacy-reports/          # Historical investment reports
 ```
 
 ## 📊 What's Inside
 
-### 🏠 Authentic Property Dataset
-- **75 verified properties** from Athens, Greece
-- **Total portfolio value**: €27,573,256
+### 🏛️ District Property Dataset
+- **67 verified properties** from Kolonaki and Exarchia districts
+- **Kolonaki**: 25 luxury properties (€15.4M estimated value)
+- **Exarchia**: 42 cultural properties (€10.8M estimated value)
 - **Real Spitogatos.gr URLs** for every property
-- **Complete data**: Price, size, location, energy class
-- **No duplicates or synthetic entries**
+- **Complete data**: Price, size, energy class, district classification
+- **District-specific market validation**
 
-### 📈 Enterprise Investment Analysis
-- **Individual property scoring** and risk assessment
-- **Portfolio strategies** with 6.5-8.5% ROI projections
-- **Market analysis** across 5 Athens neighborhoods
-- **Top investment opportunities** with specific recommendations
-- **Comprehensive limitations assessment** and risk mitigation strategies
+### 📊 District Energy Intelligence
+- **EU compliance analysis** with 55% requiring upgrades by 2033
+- **District-specific strategies** for luxury vs cultural markets
+- **Heritage-sensitive approaches** for Kolonaki premium properties
+- **Community-driven solutions** for Exarchia creative regeneration
+- **Cross-district synergies** and portfolio diversification opportunities
 
 ## 🚫 What's NOT Here
 
@@ -69,62 +68,74 @@ Every property in this folder has been validated using:
 - Geographic location verification
 - Energy class format validation
 
-## 💼 Business Value
+## 💼 District Business Value
 
-This authentic dataset provides:
-- **Genuine investment opportunities** worth €27.6M total
-- **Real market intelligence** for Athens real estate
-- **Actionable insights** based on actual property data
-- **Professional investment analysis** with verified properties
-- **Risk-assessed returns** using real market data
+This authentic district dataset provides:
+- **Specialized market intelligence** for Kolonaki luxury and Exarchia cultural districts
+- **Dual-market expertise** balancing premium and emerging opportunities
+- **EU compliance intelligence** with 2030/2033 deadline analysis
+- **Heritage-sensitive strategies** for Kolonaki architectural preservation
+- **Community-driven approaches** for Exarchia cultural regeneration
 
 ## 🚀 Usage
 
-### View Investment Opportunities
+### View District Intelligence
 ```bash
-# Navigate to investment reports
-cd investment_reports/
-cat Enterprise_Investment_Analysis_Report.md
+# Navigate to district analysis
+cd ../districts/
+cat README.md
+
+# View Kolonaki luxury market analysis
+cat kolonaki/README.md
+
+# View Exarchia cultural district analysis
+cat exarchia/README.md
 ```
 
-### Load Property Data
+### Load District Property Data
 ```python
 import json
 
-# Load authentic properties
-with open('datasets/authentic_properties_only_20250806_160825.json', 'r') as f:
+# Load district-focused properties
+with open('../data/verified-properties/kolonaki-exarchia-properties.json', 'r') as f:
     properties = json.load(f)
 
-print(f"Loaded {len(properties)} authentic properties")
-print(f"Total value: €{sum(p['price'] for p in properties):,}")
+print(f"Loaded {len(properties['properties'])} district properties")
+print(f"Total value: €{sum(p['price'] for p in properties['properties']):,}")
 ```
 
-### Run Enterprise Analysis
+### Run District Analysis
 ```bash
-# Execute comprehensive analysis
-cd analysis/
-python3 enterprise_investment_analysis.py
+# Execute district-specific analysis
+cd ../src/districts/
+python3 kolonaki_analysis.py
+python3 exarchia_analysis.py
+python3 comparative_analysis.py
 ```
 
-## 📋 Available Reports
+## 📋 Current District Reports
 
-### 🏢 Enterprise-Grade Analysis
-- **Enterprise_Investment_Analysis_Report.md**: Complete 15-page professional analysis
-- **Executive_Dashboard_Summary.md**: Executive dashboard with key metrics
-- **Data_Limitations_Impact_Assessment.md**: Technical limitations and risk analysis
+### 🏛️ District-Specific Intelligence
+- **[Kolonaki-Exarchia Transformation Report](../districts/comparative/reports/)**: Comprehensive district comparison
+- **[Kolonaki District Hub](../districts/kolonaki/)**: Luxury market intelligence and strategies
+- **[Exarchia District Hub](../districts/exarchia/)**: Cultural district analysis and opportunities
 
-### 📊 Investment Intelligence
-- **Top 5 Investment Opportunities**: Ranked by value score
-- **Portfolio Strategies**: Conservative, Growth, Income, Diversified
-- **Risk Assessment**: Data quality and investment risk analysis
-- **Due Diligence Framework**: Professional validation requirements
+### 📊 District Intelligence Summary
+- **67 District Properties**: Focused on two key Athens neighborhoods
+- **€26.2M Combined Value**: Kolonaki (€15.4M) + Exarchia (€10.8M)
+- **55% EU Compliance Gap**: Properties requiring upgrades by 2033
+- **Dual-Market Strategy**: Luxury positioning + Creative regeneration
 
-### 🎯 Key Findings Summary
-- **15 High-Value Opportunities** identified (Value Score ≥ 70)
-- **€367,643 Average Property Price** indicates premium market
-- **6.5-8.5% Projected ROI** with conservative estimates
-- **Critical Limitations**: Property condition and legal status unverified
-- **Recommended Investment**: €1.2M-2.0M with 25-30% contingency reserves
+### 🎯 District Key Findings
+- **Kolonaki**: 52% need upgrades - premium transformation opportunities
+- **Exarchia**: 57% need upgrades - creative regeneration potential  
+- **Cross-District Synergies**: Portfolio diversification opportunities
+- **Market Timing**: 2025-2026 optimal for early-mover advantage
+
+### 📁 Legacy Reports (Moved to ../legacy-reports/)
+- Historical enterprise investment analysis
+- Previous Athens-wide market intelligence  
+- Original portfolio strategies and ROI projections
 
 ## ⚠️ Important Investment Limitations
 
@@ -164,6 +175,11 @@ python3 enterprise_investment_analysis.py
 
 ---
 
-**🎯 This folder contains the complete, verified foundation for authentic Athens real estate investment intelligence - 75 real properties worth €27.6M with comprehensive professional analysis and clear limitation documentation.**
+**🎯 This folder contains legacy data and analysis. Current district-focused intelligence available in:**
+- **../districts/** - Kolonaki & Exarchia specialized analysis
+- **../data/verified-properties/** - District property datasets  
+- **../intelligence/** - Supporting market research & frameworks
 
-*Last updated: August 2025*
+**District Focus: 67 verified Kolonaki-Exarchia properties with specialized energy transformation intelligence for luxury and cultural markets.**
+
+*Updated for district focus: January 2025*

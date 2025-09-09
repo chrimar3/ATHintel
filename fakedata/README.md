@@ -4,6 +4,8 @@
 
 ⚠️ **WARNING**: This folder contains NO real property data. All content is synthetic, generated, or artificially created for testing/experimental purposes.
 
+📍 **Note**: Current focus is on **verified Kolonaki-Exarchia district data** in `/districts/` and `/data/verified-properties/`
+
 ## 🎯 Purpose
 
 This folder serves to clearly separate non-authentic data from the verified real data in `realdata/`. It contains:
