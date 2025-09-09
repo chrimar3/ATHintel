@@ -1,8 +1,5 @@
 """
-Data Validators Package
-Provides multi-factor authentication for property data
+Validators Module - Property Data Validation
+
+Data validation for Kolonaki-Exarchia property datasets.
 """
-
-from .property_validator import PropertyValidator, ValidationResult, ValidationScore
-
-__all__ = ['PropertyValidator', 'ValidationResult', 'ValidationScore']
